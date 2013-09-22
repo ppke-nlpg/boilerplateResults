@@ -1,0 +1,303 @@
+
+URL: http://www.htservices.com/Tools/VBandC/SerialCommunications.htm
+ 
+
+<p>Visual Basic, VB, C# Serial Communications Example Tutorials Source Code Programs 
+
+<p>&nbsp; 
+
+<p>Serial communications has lost a lot of importance over the last five to ten years.&nbsp; Now there are much higher speed and specialty networks.&nbsp; However, there are still plenty of devices in factory and laboratory automation that only have a serial interface.&nbsp; Hopefully this page will help you understand what it takes to read and write devices using RS232, RS422, and RS485.&nbsp;&nbsp; 
+
+<p>Other resources include: 
+
+<p>  ASCII character reference chart 
+
+<p>  RS232 pinout 
+
+<p>   Industrial Networking &amp; Communications 
+
+<p>  Computer - PLC communications 
+
+<p>Original RS232 standard 
+
+<p>The original RS232 standard was developed about 40 years ago and specifies that the maximum baud rate is 19,200 and the maximum cable length is 50 feet.&nbsp; While that may have been good 20 years ago -- it's too short and slow today!&nbsp; Although today's computers are clocked to support much higher baud rates -- technically you need to be careful.&nbsp; You also need to be careful about using long cable lengths.&nbsp; Many people have gotten 100 foot cables to work, the question is reliability.&nbsp; If we are using good quality cable and connectors and have error detection built into the protocol then we might go over the 19,200 and 50 foot limits.&nbsp; Errors will be detected and we'll know how much of a problem it is.&nbsp; Otherwise we'll stick to the limits to minimize our risk or use RS422 or RS485.&nbsp;&nbsp; 
+
+<p>RS422 and RS485 use a balanced line approach that eliminates many problems with RS232.&nbsp; For example Profibus is based on RS485 and Profibus runs at speeds up to 12 Mbaud (625 times faster than 19,200 baud).&nbsp; The problems with RS422 and RS485 is that the set-up is more difficult: you have to use more expensive cable (for proper impedance and capacitance), properly terminate the ends of the cables, set addresses, etc.&nbsp;&nbsp;But the advantages are longer cable lengths, higher baud rates, and multiple devices share the same communication network.&nbsp;&nbsp; 
+
+<p>If you want to learn more about the RS232, RS422, and RS485&nbsp;   click here   and   click here  .&nbsp;&nbsp; 
+
+<p>&nbsp; 
+
+<p>Resources Required 
+
+<p>It does not take much to run and test these examples: 
+
+<p>One computer with two serial ports or two computers with one serial port&nbsp;each 
+
+<p>A serial cable (typically 9 pin female to 9 pin female) and null modem adapter&nbsp;(or null modem serial cable) 
+
+<p>If you want to test RS485 then you will need two or more RS485 converters&nbsp; 
+
+<p>  B&amp;B Electronics   and   Black Box   are two favorites for serial communications.&nbsp; These two websites also have tutorials about serial communications.&nbsp; B&amp;B Electronics products usually cost less but Black Box usually has higher quality.&nbsp; So for demos, training, testing purposes we typically use B&amp;B equipment.&nbsp; For actual installations we typically use Black Box.&nbsp; (We want to minimize risk and those calls in the middle of the night).&nbsp; In all fairness to B&amp;B Electronics, if you buy their products and all the separate options (isolation, surge protection, etc) that may be built-in to the Black Box equipment then you are at about the same price and quality as Black Box.&nbsp; You can usually find serial cables, 9 and 25 pin connectors, null modem adapters, tools, and gender changers at your local Radio Shack, computer store or order on-line.&nbsp;&nbsp; 
+
+<p>Connection problems 
+
+<p>There are typically three problems that you will experience while trying to connect serial devices: 
+
+<p>  25 pin or 9 pin connectors 
+
+<p>Male and female connectors and cables 
+
+<p>DCE and DTE 
+
+<p>The RS232 standard started out with a 25 pin connector.&nbsp; Most RS232 connectors today are 9 pins.&nbsp; Try to work with 9 pin connectors when ever possible so convert 25 pin connectors to 9 pin connectors using 25 pin to 9 pin adapters.&nbsp;&nbsp; 
+
+<p>The second thing that will mess you up is whether the connectors are male or female (pins or sockets).&nbsp; Therefore it helps to have an assortment of gender changers (male to male, female to female).&nbsp; (Please -- no e-mails -- I'm not making any of this up).&nbsp; Gender changers come in both 9 pin and 25 pins.&nbsp; If you have changed everything from 25 pin to 9 pin then you won't need many 25 pin gender changers.&nbsp;&nbsp;  
+
+<p>The third problem is DCE &amp; DTE.&nbsp; If two serial ports both transmit on pin 2 and receive on pin 3 (i.e. they are both DTE) and you plug in a straight through serial cable then you will transmit into the transmit pin (not the receive pin) on the other end and the other device can't receive the data.&nbsp; That is what null modem adapters are for.&nbsp; Null modem adapters swap the wire connections on pins 2 and 3 (and also the handshaking lines) so that the transmitter (pin 2) goes into the receiver (pin 3) of the other device.&nbsp; During the design phase you could worry yourself about this or you could just carry null modem adapters to the installation site with you.&nbsp; Plug in the serial cable.&nbsp; If it does not work then insert the null modem adapter and then see if it works.&nbsp; Note that you can buy serial cables either straight through or null modem (crossed).&nbsp;&nbsp; 
+
+<p>Another trick to is to buy 9 pin RS232 to RJ45 (modular connector) adapters and then use regular Ethernet cable to connect the adapters.&nbsp;&nbsp; 
+
+<p>Most RS422 and RS485 connections are done using screw terminals.&nbsp; Therefore you don't have to worry about gender changers and adapters.&nbsp;&nbsp; 
+
+<p>&nbsp; 
+
+<p>  Getting Started 
+
+<p>The first step is to get connected and test out all the low level stuff: cables, serial port hardware, serial port drivers, interrupt conflicts, etc.&nbsp; The best way to do this is to attach the serial cable between two computers and run the HyperTerminal communications program that comes with Microsoft Windows (Start, Programs, Accessories, Communications, HyperTerminal).&nbsp; You run the HyperTerminal program on both computers and should be able to type messages into the main text box and see them appear on the other computer.&nbsp; You can also send text files from one computer to the other.&nbsp; You can create small text files to send using Notepad.&nbsp; Just open Notepad type in some text and save the file.&nbsp; Note that in HyperTerminal you will have to specify the connection to be direct to COM1, COM2, ... whatever serial port you plugged the cable into.&nbsp; We would initially set the communications parameters (on both computers) to 9600 baud, no parity, 8 data bits, 1 stop bit.&nbsp;&nbsp; 
+
+<p>If this does not work then try the following: 
+
+<p>  Try inserting the null modem adapter 
+
+<p>Check computer's setup to see that the serial port is enabled and what COM port (1, 2, 3, 4, ...) it is configured for (hint: COM1 is address 3F8 hex and IRQ4, COM2 is address 2F8 hex and IRQ3, COM3 is address 3E8 hex and IRQ4, and COM4 is address 2E8 hex and IRQ3).&nbsp;&nbsp; 
+
+<p>Check to make sure that infrared (IR) communications is not enabled on that COM port 
+
+<p>Check to make sure that other devices are not interfering with that COM port and the interrupt is not being used.&nbsp; For example if you are trying to use COM1 and a modem is trying to use COM3 and you are both using interrupts then one or both programs will not function correctly.&nbsp;&nbsp; 
+
+<p>Handshaking 
+
+<p>&quot;Handshaking&quot;, when talking about serial communications, is how one device tells another device that it is ready to receive data.&nbsp; There are several layers of handshaking.&nbsp; There are the Data Terminal Ready (DTR) / Data Set Ready (DSR) lines that indicate the other device is plugged in, powered up and is present.&nbsp; Then there is Request To Send (RTS) / Clear To Send (CTS) which indicates that the receiver has room in it's input buffer and is ready to accept data.&nbsp; Third, there is XON and XOFF.&nbsp; XON and XOFF are a method that one device can use the serial link to tell the other device to stop sending and then when to start sending again.&nbsp;  
+
+<p>Suppose that there are two serial devices, A &amp; B.&nbsp; Let's say that device A is a Pentium 4, 3 GHz with hyperthreading, lot's of memory and doing very little work.&nbsp; It can transmit and receive very fast.&nbsp; But device B is a special device with a CPU that is having to do a lot of other things and find time for serial communications.&nbsp; Also, device B might have a small receive buffer.&nbsp; So if device A were transmitting to device B then device A could transfer data much faster than device B could receive it.&nbsp; So device B would use handshaking to tell device A when to stop sending and then when to restart.&nbsp;  
+
+<p>RTS/CTS are hardware and require wires to carry these signals between devices.&nbsp; XON/XOFF are special characters sent over the serial link and do not require additional wires.&nbsp; XOFF is the character CTRL-S (ASCII code 19) and XON is the character CTRL-Q (ASCII code 17).&nbsp; For example, if you connect two computers with a serial cable and are able to type characters on one computer and see the characters appear on the other computer -- press CRTL-S (XOFF) on one computer to stop communications.&nbsp; Type on the other computer and you should see that the characters are not transmitted.&nbsp; Once you press CTRL-Q (XON) the characters should show up because they were held at the transmitting computer until XON was sent by the receiving computer.&nbsp;  
+
+<p>What if one device requires hardware handshaking and the other device can not supply it?&nbsp; You must &quot;jumper out&quot; the hardware handshaking lines by wiring the RTS/CTS lines together and the DTR/DSR lines together.&nbsp; Note that some serial ports that use DTR &amp; DSR also use Carrier Detect (CD) and will want the CD line tied into the DTR and DSR lines.&nbsp;  
+
+<p>&nbsp; 
+
+<p>NOTE 
+
+<p>Visual Studio 2005 will include a new namespace called &quot;Ports&quot; and a new class called &quot;SerialPort&quot;.&nbsp; Read all about it here: 
+
+<p>    http://msdn2.microsoft.com/library/tf8zk72w.aspx 
+
+<p>VS 2005 is still in beta so you can download the beta and play with it or wait till early in 2005 to get the released product.&nbsp;  
+
+<p>&nbsp; 
+
+<p>&nbsp; 
+
+<p>Writing Code 
+
+<p>Visual Basic 6 provides, free of charge, the MSComm control with Visual Basic.&nbsp; This allows the programmer to quickly and easily configure the COMM serial port and then read and write data.&nbsp;  
+
+<p>The .NET framework does NOT have a control built-in for serial communications!&nbsp; I guess us serial programmers just aren't cool enough for the developers of NET.&nbsp; Well those guys can take their serial ports and ... Oh wait a minute.&nbsp; In the   101 VB.NET &amp; C# examples   that you download they wrote a serial port class and give you the source code to learn from!&nbsp; Cool.&nbsp; This class is essentially a wrapper (we forgot what the &quot;official term&quot; for wrapper is in .NET) for operating system API calls -- but very, very educational.&nbsp; Problem is that this example has some bugs in it.&nbsp; For an updated version, we suggest you check:&nbsp;  
+
+<p>  Corrado Cavalli's serial communications source code at www.CodeWorks.it 
+
+<p>We view Corrado's code as the best &quot;open source&quot; .NET serial communications source code because Corrado keeps updating it.&nbsp;  
+
+<p>NOTE that you could use the old MSComm ActiveX control with .NET programs.&nbsp; However, this defeats the whole purpose of .NET managed code and XCOPY deployment since you would have to register the MSComm control on every computer you installed the software on (instead of simply copying the code).&nbsp;  
+
+<p>As of April 2004, Corrado, in our humble opinion, is not done.&nbsp; So to fully understand everything, you will need to do a lot more reading: 
+
+<p>   Microsoft Platform SDK on Device I/O 
+
+<p>   Microsoft how to: Access Serial Ports and Parallel Ports by Using Microsoft Visual Basic .NET 
+
+<p>   Microsoft Example 
+
+<p>   Here is sample code on .NET managed serial control 
+
+<p>   Serial Communications in .NET 
+
+<p>   MSDN Magazine: Use P/Invoke to Develop a .NET Base Class Library for Serial Device Communications 
+
+<p>   DBComm: DualBrain Serial Communications by Corey Smith 
+
+<p>&nbsp; 
+
+<p>For the smart readers that do not want to support, test, and debug your own serial port controls -- there are several companies that do for you -- however, you have to purchase the software.&nbsp;  
+
+<p>Many companies sell old DLL and ActiveX controls.&nbsp;&nbsp;One we have used for many years is   Greenleaf Software  .&nbsp; They include in their ActiveX all kinds of terminal emulators and file transfer protocols such as ZMODEM.&nbsp;&nbsp;But again these are not .NET managed code.&nbsp;  
+
+<p>A great source for .NET serial communications is   Franson.biz's Serial Tools   for only $30.&nbsp; These guys sell it for the .NET framework and the .NET compact framework.&nbsp; They also have some GPS components that would be really cool for us computer geeks to play around with.&nbsp;  
+
+<p>Other sources of .NET serial communications is: 
+
+<p>   Component Science Transport.&nbsp;  
+
+<p>  Sax.NET Communications 
+
+<p>  AFTek Software ComControl 
+
+<p>  Charon Software 
+
+<p>&nbsp; 
+
+<p>Other sources of information on serial communications include: 
+
+<p>Chapter 21 (only on CD-ROM) of   Dan Appleman's Visual Basic Programmer's Guide to the Win32 API 
+
+<p>   Visual Basic Programmer's Guide to Serial Communications 3   by Richard Grier of www.Mabry.com 
+
+<p>&nbsp; 
+
+<p>&nbsp; 
+
+<p>  &quot;Poor Man's Serial Instant Messenger&quot; 
+
+<p>Now that you have HyperTerminal running correctly on both computers we will replace one of the HyperTerminal programs with our &quot;Poor Man's Serial Instant Messenger&quot; written in VB 6, VB.NET, and C#.&nbsp; Run this program on one of the two computers with HyperTerminal running on the other computer.&nbsp; When this works then run &quot;Poor Man's Serial Instant Messenger&quot; on both computers.&nbsp;&nbsp;You should be able to enter a text message (string), click on the &quot;Send&quot; button and the text is sent to, and displayed on the other computer.&nbsp;&nbsp; 
+
+<p>To download the VB6 source code for the &quot;Poor Man's Serial Instant Messenger&quot;   click here  .&nbsp;&nbsp; 
+
+<p>To download the VB.NET source code for the &quot;Poor Man's Serial Instant Messenger&quot; click here (sorry -- not yet ready).&nbsp;&nbsp; 
+
+<p>To download the C# source code for the &quot;Poor Man's Serial Instant Messenger&quot; click here (sorry -- not yet ready).&nbsp;&nbsp; 
+
+<p>&nbsp; 
+
+<p>  Serial Analyzers 
+
+<p>How many times have you had two serial devices communicating and no one wants to give you the protocol?&nbsp; Okay, maybe it's just us and a few other geeks.&nbsp; The way to reverse engineer the protocol is to use serial analyzers. You can reverse engineer&nbsp;anything from huge old legacy systems to new protocols.&nbsp; Several companies manufacture such devices:&nbsp; 
+
+<p>  http://www.sinnovations.com/  &nbsp; 
+
+<p>  http://www.angelfire.com/biz5/USDM/index.html  &nbsp; 
+
+<p>  http://www.runmode.com/  &nbsp; 
+
+<p>   http://www.bb-elec.com/product.asp?sku=SPY32&amp;dept_id=128 
+
+<p>   http://www.bb-elec.com/product.asp?sku=SIMPTERM&amp;dept_id=128 
+
+<p>   http://www.bb-elec.com/product.asp?sku=STAS32&amp;dept_id=128 
+
+<p>   http://www.bb-elec.com/product.asp?sku=STASPY32&amp;dept_id=128 
+
+<p>  http://www.greenleafsoftware.com 
+
+<p>These programs allow you to &quot;break-in&quot; between two devices and record everything that they send back and forth. It takes a little time and testing to relate specific communications strings to functions but once that is complete, it is easy to duplicate the commands and messages in VB or C#. Writing your own serial analyzer program is good practice and we hope we will write one in the future to put on this website.&nbsp;&nbsp; 
+
+<p>Real-World Applications 
+
+<p>Once you have run all the previous tests successfully we are ready to get into the real-world applications.&nbsp; Most serial applications involve talking to some device with a manufacturer specified protocol.&nbsp; The first step is to ask the manufacturer if they have an ActiveX, OCX, DLL, or similar software that works with VB / C#.&nbsp; If they do and the price is reasonable then we suggest you buy their communications control.&nbsp;&nbsp; 
+
+<p>Another consideration is to buy software such as a   WinWedge  .&nbsp; Yes you can write your own (using the &quot;Poor Man's Serial Instant Messenger&quot; as a starting point) but you then have to support it which is a major pain.&nbsp;&nbsp; 
+
+<p>Assuming the manufacturer does not have anything available (or it costs too much money) then you will need to get from the manufacturer the protocol that the device talks.&nbsp; If the manufacturer does not want to give you the protocol then go back to the section on   Analyzers  .&nbsp; There are two general classes of operation: 
+
+<p>  The device automatically sends you the data once every time period or test.&nbsp; For example once a second or at the end of every test.&nbsp;&nbsp; 
+
+<p>You have to poll the device to get it to send the data 
+
+<p>For the first case, it is very easy to write code to receive the data and put the value into a VB / C# variable for use elsewhere in your program.&nbsp; In fact the &quot;Poor Man's Serial Instant Messenger&quot; is a great start.&nbsp; The second option (polling) is more difficult but we provide an example later.&nbsp;&nbsp; 
+
+<p>The two items that determine the difficulty of implementing your own protocol are the number of commands you have to program and timing issues.&nbsp; Sending one command that returns one command (set of values) from the device is simple.&nbsp; Having to program many commands with different possible responses becomes challenging.&nbsp; A good example of this is the many industrial &amp; factory automation protocols in use today such as DF1 (Allen-Bradley), Modbus, and Profibus DP.&nbsp; There are a lot of commands you can send to a device using these protocols and there are typically more than one response you need to handle.&nbsp;&nbsp; 
+
+<p>The other challenging problem can be timing.&nbsp; Many protocols have timing requirements.&nbsp; For example you have a maximum time between characters and messages.&nbsp; If you take longer than the maximum time, the receiver has &quot;timed out&quot; and you have to start all over again.&nbsp; Today's processors are fast enough that this is not usually a problem.&nbsp; But if you are sending a single character, running code to figure out the next character, then sending another character, etc. and having a communications problem -- try building the entire character string in memory first and then sending the entire string out the serial port at one time.&nbsp; This reduces the time between characters.&nbsp;&nbsp; 
+
+<p>&nbsp; 
+
+<p>Typical Protocols 
+
+<p>We will discuss two types of protocols: simple and complete.&nbsp; A simple protocol would something like &quot;value&quot; and then a carriage return &lt;CR&gt;.&nbsp; The carriage return &lt;CR&gt; denotes the end of the message.&nbsp; For example if you are reading values from a device and you get the number 1 then is the actual value that the device is sending you 1, 10, 1000, or any other number that starts with one?&nbsp; When you receive the &lt;CR&gt; it denotes that all digits of the value have been sent.&nbsp; So now the receiver gets a 1&lt;CR&gt;, 10&lt;CR&gt;, or 1000&lt;CR&gt; and can tell that they have received all the digits and easily convert the value.&nbsp;&nbsp; 
+
+<p>Note that the &lt;CR&gt; serves another purpose.&nbsp; What happens if you look in your serial input buffer and it has a lot of data in it?&nbsp; How do you know where to start reading data?&nbsp; The trick is to start reading characters until you read a &lt;CR&gt;.&nbsp; Then throw all those previous characters away (since you don't know if they are a complete message or not).&nbsp; So the &lt;CR&gt; serves as both the start and the end of a message.&nbsp;  
+
+<p>What if the device is sending multiple values, such as temperature and pressure?&nbsp; Then the protocol might be 115,128CR.&nbsp; So now the receiver starts reading a 1, then another 1, then a 5, then a comma, then a 1, 2, 8, and finally a carriage return.&nbsp; The logic in the receiver says read the first value until you reach a comma and then start reading the second value until you reach the carriage return.&nbsp;&nbsp; 
+
+<p>So far the simple protocol is great -- except what happens when the temperature is 115 and the pressure is 128 but data is &quot;garbled&quot; in the transmission (when a big 200 hp motor starts up) and the receiver receives 115,28&lt;CR&gt; and shuts down the process because the pressure dropped to 28 PSI?&nbsp; How is the receiver to know when the data is not correct?&nbsp; That is why &quot;complete&quot; protocols are used -- they have more error detection built in.&nbsp;&nbsp; 
+
+<p>What we call a &quot;complete&quot; protocol is one that typically has a Start Of Text (STX), sender address, receiver address, number of data values, the data being sent, End Of Text (ETX), checksum, and then requires some form of acknowledgement from the receiver.&nbsp; This &quot;complete&quot; protocol provides several things: 
+
+<p>  On a network with more than two devices, it allows a sender to send a message to a specific device or broadcast to all devices ( for a broadcast message the receiver address = 255 or some other predefined value).&nbsp;&nbsp; 
+
+<p>The number of data values, (bytes or words) tells the receiver how many bytes of data should be received.&nbsp; Knowing the structure of the message and the number of bytes allows you to see that all bytes were received.&nbsp; For example if the first byte is STX, the second byte the sender, third byte the receiver, the fourth byte equals 10 for ten bytes of data, then the receiver knows that bytes five through 14 are data and that byte 15 had better be the ETX character.&nbsp; If the fifteenth byte is not the ETX character then the receiver knows that it did not receive a correct message and returns a negative acknowledgement (NAK) to the sender. 
+
+<p>The receiver runs the checksum algorithm on the data received and compares the receiver's calculated checksum to the checksum sent by the sender.&nbsp; If the checksums are equal then the receiver assumes that good data was received.&nbsp;&nbsp;If the checksums are not equal then one or more of the characters have been &quot;garbled&quot;.&nbsp;  
+
+<p>After all the checks are done on the receiver end, the receiver sends an ACK or NAK back to the sender to tell the sender the status.&nbsp; If the receiver returns a NAK then the sender usually resends the message.&nbsp; The other purpose of ACK / NAK is to tell if the receiver is still able to receive and respond to messages (the receiver has not failed).&nbsp;&nbsp; 
+
+<p>Serial Client &amp; Server Example Programs 
+
+<p>We have written client and server examples that implement some protocol functionality.&nbsp; The protocol is: 
+
+<p>STX, Number Variables,Variable1, Variable2, Variable3, Variable4, ETX 
+
+<p>On the transmit (server) side it is simple to create the outgoing string by simply concatenating the string.&nbsp; On the receiver (client) side we want to read in a string of data values and then parse the string of data values.&nbsp; To do this we create a simple two state machine.&nbsp; The first state is &quot;Waiting for STX&quot; and the second state is called either &quot;Reading Data Values&quot; or &quot;Waiting for ETX&quot;.&nbsp; So we wait for a STX character to be received.&nbsp; When a STX character is received we start &quot;recording&quot; the incoming characters.&nbsp; Then we stop &quot;recording&quot; incoming characters when a ETX character is received.&nbsp; Once the ETX character is received we send the &quot;recorded&quot; string of data values to a parsing routine that picks out the individual values.&nbsp; Then the receive cycle (state machine) starts over waiting for STX.&nbsp;&nbsp; 
+
+<p>This program is neat to try out using RS485.&nbsp; You have one server and multiple clients all&nbsp; &quot;daisy-chained&quot; together and all the clients receive the data sent from the server.&nbsp;&nbsp;However, this is a pain to set-up and even we have better things to do.&nbsp;&nbsp; 
+
+<p>To download the source code for this example   click here  .&nbsp;&nbsp; 
+
+<p>&nbsp; 
+
+<p>Famous Automation Protocol Definitions 
+
+<p>  DF1 - Allen-Bradley (Rockwell) 
+
+<p>  Modbus 
+
+<p>If you want examples of how to write the A-B protocol we recommend that you purchase the   Home Automation Basics book  .&nbsp;&nbsp; 
+
+<p>&nbsp; 
+
+<p>RS422 &amp; RS485 
+
+<p>Most of the changes for RS422 and RS485 are in the hardware and cabling.&nbsp; For example, you have to use special purpose, high quality cable and connectors, terminating resistors, set addresses, etc.&nbsp; Usually there are not any changes in software.&nbsp; The only change in software being with 2 wire RS485 you sometimes need to toggle one of the handshaking lines to enable the transmitter.&nbsp; Some converters automatically do this for you.&nbsp; For more information we would recommend: 
+
+<p>   B&amp;B Electronics RS422 &amp; RS485 Applications Notes  &nbsp; 
+
+<p>   B&amp;B Electronics &quot;Basics of the RS485 standard&quot;  &nbsp; 
+
+<p>&nbsp; 
+
+<p>Tips &amp; Tricks 
+
+<p>  Use high quality cable and connectors in your installed applications. 
+
+<p>For long distances use repeaters to isolate and reamplify the signal.&nbsp;&nbsp; 
+
+<p>For distances over 50 feet or noisy environments convert RS232 signals to RS422, RS485, or fiber optics.&nbsp;&nbsp; 
+
+<p>When talking to multiple devices over a large distance, instead of having one communications cable running everywhere have two or more communications modules with separate and shorter cables.&nbsp;&nbsp; 
+
+<p>Boards, devices, and connectors that include built-in terminating resistors are preferred over those that do not provide such provisions.&nbsp; Trying to insert your own resistor across two points usually fails over time.&nbsp;&nbsp; 
+
+<p>Follow proper grounding methods.&nbsp; Use heavy gauge wire or special purpose grounding straps.&nbsp; We have been called out to many problems that were grounding problems.&nbsp;&nbsp; 
+
+<p>Use isolation as much as possible.&nbsp; Use isolation on the communications cable, on the incoming power, etc.&nbsp;&nbsp; 
+
+<p>If things don't seem to work right, slow the baud rate way down (9600 baud or even slower) and try it again.&nbsp; If the problems go away then most likely you have noise, improper grounding, termination, cheap cable or connectors, etc.&nbsp;&nbsp; 
+
+<p>For cables that run outside the building for lightning protection you should use a full complement of surge protection such as fuses, gas discharge tubes, and semiconductor Transient Voltage Suppressor (TVS).&nbsp;&nbsp; 
+
+<p>Keep your communication cables away from all sources of noise.&nbsp; Do not run near fluorescent lights, AC power cables, DC power cables over 24 VDC, large motors, variable frequency drives, etc.&nbsp; Best installation is putting communications cables in their own grounded conduit.&nbsp; If you must cross AC cables then do so at right angles.&nbsp;&nbsp; 
+
+<p>See   B&amp;B Electronics article 
+
+<p>IF you can, when reading and writing to a device, group the data into large blocks of data.&nbsp; For example, if you need to read 20 temperatures from a PLC that are spread throughout the PLC memory, use PLC &quot;move&quot; commands to copy the temperatures to one continuous block of memory.&nbsp; Now your program doing the reading only needs one read command of twenty values instead of twenty read commands of one value.&nbsp; Overall system performance will be much faster.&nbsp;&nbsp; 
+
+<p>&nbsp; 
+
+<p>&nbsp; 
+
+<p>We try to offer a fair and balanced opinion on every page of our website.&nbsp; We would appreciate more information from other users to express their opinions which we will then incorporate.&nbsp; If you have questions or comments please post them on our message board (see button in left hand column) so that others can read and benefit.&nbsp;  
+
+<p>  Click here to find out how High Tech Services can help you&nbsp;implement this technology.&nbsp;  
+
+<p>  Copyright © 1984-2005   CompanyLongName 

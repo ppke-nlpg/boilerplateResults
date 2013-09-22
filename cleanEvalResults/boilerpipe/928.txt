@@ -1,0 +1,59 @@
+<h>How To Steal Wi-FiAnd how to keep the neighbors from stealing yours.
+
+<p>By Paul Boutin
+
+<p>Posted Thursday, Nov. 18, 2004, at 5:16 PM ET
+
+<p>When I moved into a new neighborhood last week, I expected the usual hassles. Then I found out I'd have to wait more than a month for a DSL line. I started convulsing. If I don't have Net access for even one day, I can't do my job. So, what was I supposed to do? There's an Internet café on the next block, but they close early. I had no choice—it was time to start sneaking on to my neighbors' home networks.
+
+<p>Every techie I know says that you shouldn't use other people's networks without permission. Every techie I know does it anyway. If you're going to steal—no, let's say borrow—your neighbor's Wi-Fi access, you might as well do it right. Step one: Lose the guilt. The FCC told me that they don't know of any federal or state laws that make it illegal to log on to an open network. Using someone's connection to check your e-mail isn't like hacking into their bank account. It's more like you're borrowing a cup of sugar. (Unless you hog their bandwidth by watching lots of streaming video—that's like hijacking a sugar truck.)
+
+<p>In the end, it's your neighbor's Internet service provider—not your neighbor—who will pay for the added traffic, and the ISP has already factored a small amount of line-sharing into their price plan. It is true that your surfing could cause the folks next door to break their service contract—many broadband providers do specifically forbid home customers from sharing a connection. But let's deal with those abstract ethical issues later—you have important mail to answer!
+
+<p>If you want to find a Wi-Fi network, don't start by looking on the sidewalk for chalk marks. " Warchalking ," a technique for writing symbols in public places to alert neighbors to nearby wireless access points, is a cool concept that's been undermined by the fact that no one has ever used it . The best method to find some free wireless is to treat your laptop like a cell phone. Since Wi-Fi and cell phone signals travel on a similar radio frequency, the same tricks you use for getting a better phone connection might work on your computer. Sit near a window, since Wi-Fi signals travel better through glass than through solid walls. Stay away from metal objects. Pay close attention to your laptop's orientation—rotating your machine just a few degrees could help you pick up a network that you couldn't see before. Raise your laptop over your head, put it flat on the floor, tilt it sideways while leaning halfway out the window—get out the divining rod if you have to. You might get a reputation for being some sick laptop yoga freak, but isn't free Internet worth it?
+
+<p>If you live downtown or in a suburb where the houses are close together, a few minutes of laptop gymnastics will probably reveal several Wi-Fi networks. Certain names are a giveaway that a network probably won't be password-protected. Look for "linksys," "default," "Wireless," "NETGEAR," "belkin54g," and "Apple Network 0273df." These are the default network names for the most popular wireless routers. If a network owner hasn't taken the time to change the default name, that's a good clue that they probably won't have a password either. You should also look for signs of hacker culture. Since hackers love giving away Net access, an all-lowercase name like "hackdojo" is most likely an invitation to log on. On the other hand, a name in all caps is typically a network under corporate lockdown.
+
+<p>If you do get prompted for a password, try "public"—that's the default on many of Apple's AirPort units. You can also try common passwords like "admin," "password," and "1234"—or just check out this exhaustive list of default passwords. You should also try using the name of the network in the password space. A generic password could mean that the network's owner didn't have the sense to pick something less obvious or that they've decided to welcome outsiders. But who cares? You're in. And again, there's no specific law barring you from guessing the password, as long as you don't crack an encrypted network and read other people's transmissions.
+
+<p>You can tell that you've successfully joined a wireless network when your laptop's IP address changes as it's assigned a local number by the network's router. To watch it happen on a PC, keep the Network control panel in Windows open; if you have an Apple notebook, look at the Network section of the System Preferences program. (And if you're running Linux, I don't need to tell you where to look.) Once your laptop has an IP address, your next hurdle is getting DNS to work. DNS stands for Domain Name Service—it's what translates Internet domains like "slate.com" into IP addresses like 207.46.141.216. On most networks, DNS works automatically. But if you get a browser error like "Cannot find server," go back to your network menus and configure your laptop to use a public name server —144.162.120.230 in Dallas, for instance.
+
+<p>Once DNS is working, you should be good to go. While you should be able to surf the Web with no problems, you may have trouble sending mail from Outlook or other desktop programs because of restrictions on e-mail routing that have been set up to stop spammers. If you have problems, just use a Web-based mail service like Hotmail or Gmail instead.
+
+<p>Keep in mind that the neighbors may not be thrilled that you're sharing the line. One guy next door to my new building shut off his network the day after I moved in, probably because he got spooked by all those blinking LEDs on his router. Even neighbors who are happy to share may see you in a different light if they check their router's URL logs and find a few hundred hits on porn sites. While your browsing will show up under an anonymous address, the short range of Wi-Fi means that they'll at least be able to figure out that one of the laptop owners within 100 feet of their living room is a stuffed animal fetishist. (As a San Franciscan, I need to point out that a stuffed animal fetish is perfectly normal. It's your neighbors who have the problem.)
+
+<p>Since everyone isn't as eager to share their network as I am, it's only fair to explain that there's an incredibly easy way to keep neighbors and drive-by geeks off your network. All you have to do is set a password that isn't as obvious as "1234." There's an eye-glazing list of Wi-Fi security measures you can implement to block overachieving Russian teens from monitoring your keystrokes, but in real life the only people sniffing your wireless signal are jerks like me who need a place to log on until the phone company wires the apartment. An unguessable password sends as clear a message as a shot of Mace: Go find a Starbucks, creep.
+
+<p>Clarification, Nov. 22, 2004: There are some laws that could be used to charge you with unauthorized computer use, but my legal sources say that because there are so many networks left open to the public on purpose, it would be tough for an individual to make the legal case that their intent was to keep everyone off their network if it's not password-protected. If you stick to surfing the Web and not other people's PCs, you'll probably be safe from prosecution.
+
+<p>PRINT        
+
+<p>DISCUSS        
+
+<p>Paul Boutin is a Silicon Valley-based writer who also contributes to Business Week, Wired, and Engadget.
+
+<p>Illustration by Mark Alan Stamaty.
+
+<p>Join the Fray: our reader discussion forum
+
+<p>What did you think of this article?
+
+<p>POST A MESSAGE  |  READ MESSAGES
+
+<p>Remarks from the Fray:
+
+<p>Paul Boutin writes: "The FCC told me that they don't know of any federal or state laws that make it illegal to log on to an open network. Using someone's connection to check your e-mail isn't like hacking into their bank account. It's more like you're borrowing a cup of sugar."
+
+<p>Tell them to look under 'tresspass' for starters. It is not like borrowing a cup of sugar; it is like walking into your neighbor's home when they leave the front door unlocked.
+
+<p>--sparxva
+
+<p>(To reply, click here .)
+
+<p>I know, this is a strange concept. But you ask when you borrow a cup of sugar. Why the heck don't you go next door and ask if it would be okay?
+
+<p>Just because you're a geek doesn't mean you have to be a wardriving laptop-bohdisattva jerk.
+
+<p>--MsZilla
+
+<p>

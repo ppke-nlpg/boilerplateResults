@@ -1,0 +1,208 @@
+
+URL: http://radio.weblogs.com/0001011/2005/03/19.html
+<h>&#160;Saturday, March 19, 2005
+
+<p>Speaking of kids, my son Patrick is learning the bass guitar
+ amazingly fast. He's only had it a month and he's already starting
+ to play riffs. It's amazing how fast kids can pick things up
+ when they are motivated. He had a concert all arranged for me
+ when I arrived. I was most impressed. I really am lucky to have
+ him in my life. He's such a great kid and is always well mannered.
+ I drag him to a lot of geek lunches and dinners and he's always
+ well behaved even though he's bored out of his mind.
+
+<p>We finally got his computer setup and finished today so I can
+ use MSN Messenger with him (he has a video camera so I can watch
+ him play his guitar over the Internet now).
+
+<p>He's running around with Maryam's niece and nephew. It's always
+ fun to watch them interact.
+
+<p>I can't believe he's already 11. It seems like just yesterday
+ when I was holding him like Lenn is holding his new son.
+
+<p>Here's another blogger story I missed in the past week. Jeremy
+ Wright got stopped at the US/Canada border because the guards
+ there didn't believe that you could get a job as a blogger.
+ Heh. I'll have to remember not to tell them that when I come
+ back in the country.
+
+<p>Anyway, some people are apparently giving Jeremy grief. That
+ sucks. If you've ever been through the US/Canada border you
+ know just how much a pain in the behind that experience can
+ sometimes be. Usually it's smooth, but I've heard some horror
+ stories. It seems they want to keep out people who are moving
+ here for economic reasons. If you're moving here for economic
+ reasons make sure you have all your papers and a good story
+ to tell when coming through the border.
+
+<p>And, Jeremy, as an American, I'm sorry for my countrymen's behavior.
+ Welcome to America.
+
+<p>Tony Chang, who works at Google, brags about Google's 20% time.
+ This is an interesting thing about Google and it sure sounds
+ like a tempting benefit. Employees there get to spend 20% of
+ their time working on whatever they want to work on.
+
+<p>He thinks the reason that other companies can't implement 20%
+ time is because other companies don't have information sharing
+ that Google has.
+
+<p>That's hogwash, at least in Microsoft's case. You should see
+ the kind of information sharing we have on our intranet here.
+ I'd be happy to give you a tour Tony. You might be shocked at
+ the internal information sharing that goes on here. And, yes,
+ I do have access to a lot of killer stuff over at MSN Search
+ even though I don't work on that team and, even if that info
+ isn't up on the intranet, you can always email a list to find
+ the PM on the team you want to work with and then email him
+ or her. I've done that a lot.
+
+<p>So, why doesn't Microsoft have 20% time? Well, speaking for myself,
+ if Bill Gates told me I could have 20% time I'd say "that's
+ nice Bill, but I'm already working on what I want to work on."
+ Maybe I'm a rarity at Microsoft, but I don't think so. If any
+ employee isn't happy where he or she is, there are lots of opportunities
+ to move around.
+
+<p>The thing is I need 20% time to do all the work I hate to do.
+ Like expense reports or other corporate proceedures and processes.
+ Now if someone could take those kinds of chores away then THAT
+ would be an employee benefit I'd really like.
+
+<p>One of the guys I really like at Microsoft, John Porcaro, reported
+ that he suffered some serious burns a few weeks ago. He works
+ in Xbox marketing. I totally missed this. Has pictures and stuff
+ that are quite scary and painful looking.
+
+<p>I just showed this to Maryam and she said "oh my God." John was
+ at my birthday party back in January and we both really like
+ him. He always has a positive attitude that is endearing.
+
+<p>John, glad to see you're doing better and glad to see your sense
+ of humor survives. Love the title of the post "burn baby burn."
+
+<p>The first edition of "Sound Policy" with Denise Howell on IT
+ Conversations is now up. This is an audio show. First one was
+ arguing about linking technologies like Microsoft Smart Tags
+ and Google's Autolink. Cory Doctorow, Marty Schwimmer, and I
+ had a pretty intense debate. Hope you like it. Reminder that
+ this was recorded on 3/9/2005, which was before I modified my
+ beliefs about linking technologies a bit.
+
+<p>Keep in mind that I did not take Microsoft's side in this one.
+ I took the content producer's side (Cory hated that term, by
+ the way).
+
+<p>By the way, debating with Cory is a very intense experience.
+ Listening to the conversation it's pretty clear he beat me in
+ debating skills.
+
+<p>I wish Dave Winer was on the conversation. It'd be fun to hear
+ those two guys go at it.
+
+<p>The New Year starts tomorrow morning. We're having a big party
+ here in Santa Clara with lots of family and friends to celebrate.
+ Lots of goodies and great food.
+
+<p>By the way, the link above shows just how much the blogosphere
+ has changed in only a year or two. Last year there were hardly
+ any comments about the Iranian New Year. This year? I can't
+ read them all.
+
+<p>Dave Winer today tells a story about seeing someone floating
+ by his beach house window who waved at Dave.
+
+<p>I had a, um, geekier experience. I walked into Peet's coffee
+ in Petaluma. There a really tall guy kept staring at me like
+ he was trying to figure out who I was. I stared back. Eventually
+ he said something like "I think I've met you before." Then it
+ dawned on him: "you're a blogger." Heh. Yup. Guilty as charged.
+ "You're the Scobleizer."
+
+<p>Yeah. But now I was in the embarrassing place of having someone
+ recognize me that I didn't recognize back.
+
+<p>An honor meeting him. We had a nice chat about the projects he's
+ worked on (Lucene, which was the engine in LookOut, a desktop
+ search tool I used in Outlook before Microsoft bought it and
+ rebuilt it for MSN Toolbar Suite), his new project, Nutch, which
+ is an open source search project being done with Apache.
+
+<p>We also chatted about the Apache license and various business
+ models that can be used in the open source model. He wants Microsoft
+ not to be afraid of the Apache license. His business model is
+ a consulting one. He gives away the code, but charges companies
+ (and he's worked for many of the big companies) a consulting
+ fee to integrate his software into companies' other systems.
+
+<p>Oh, Doug wasn't the only open source guy I met today. After leaving
+ Petaluma (I was there to pick up my son) I had lunch with Joe
+ Hewitt, one of the developers of Firefox. Shel Israel and I
+ wanted to get the inside story of how Firefox got the large
+ adoption it has gotten.
+
+<p>Joe's a really great guy. Shel took notes and will post those
+ over on the Red Couch later next week.
+
+<p>It's great to get to talk to these two open source leaders. I
+ have a feeling you and I will both be hearing more from them.
+
+<p>Oh, you think they are working to bring down Microsoft, right?
+ Well, both made the point that that isn't driving them at all
+ and that both wondered if there were a way for Microsoft to
+ work with the open source community in the future.
+
+<p>That's an excellent question and one that I've been hearing a
+ lot this week thanks to having the Linux and Java folks on campus.
+ By the way, JavaLobby posted a report of the last day of the
+ competitive influentials summit.
+
+<p>One thing I came away from is that there's a lot that I need
+ to learn from the larger community. These two guys opened my
+ eyes to the open source world and hopefully these relationships
+ will grow stronger. How should Microsoft work closer with the
+ open source community?
+
+<p>"They may provide fleeting satisfaction, but anything close to
+ widespread adoption is going to create a big mess."
+
+<p>Agreed. I still wish we wouldn't do a series of linking technologies
+ (even though I don't see linking technologies as inherently
+ evil anymore -- at least as long as they follow my rules for
+ being user centric). There are so many ways to add links to
+ a page to be helpful to users that don't require trying to mess
+ with (or confuse users) over the links on the page. Now that
+ most users have high resolution screens why not open a new pane
+ up where you add "helpful links?" Why do you need to add the
+ links onto the page itself?
+
+<p>The neat thing about blogs is that if bosses don't really pull
+ you into the corporation and give you transparency into their
+ processes, thinking, or anything else, you can always unsubscribe
+ from their RSS feed and ignore them.
+
+<p>Obviously AJAX is pretty cool. Look at Google's Maps. Pretty
+ damn cool.
+
+<p>But, I just spent part of yesterday over talking with the Avalon
+ team. AJAX is definitely cool for a whole raft of things, but
+ it isn't the end all and be all. AJAX falls apart when your
+ Internet connection goes down, for instance, and it also falls
+ down when you really want the best user-interaction experience.
+
+<p>You should talk with Billy Hollis. He has clients that switched
+ from Web apps to Smart Clients and saved millions of dollars.
+
+<p>Why? Well, it isn't hard to see how an app that runs locally
+ would be able to make users more productive.
+
+<p>But, comparing the two approaches just seems wacky to me. It'd
+ be like comparing Onfolio to Bloglines. They both have their
+ advantages, but at the end of the day I'd rather have Onfolio
+ or NewsGator.
+
+<p>Oh, wait a second, NewsGator is using both a SmartClient approach
+ and a Web-based approach.
+
+

@@ -1,0 +1,162 @@
+URL: http://lists.w3.org/Archives/Public/w3c-wai-gl/1999AprJun/0006.html
+
+
+
+ <h>"Bugs" in the 24 March 1999 Version
+
+ <h>   From: eric hansen 
+ <h>   Date: Tue, 06 Apr 1999 23:08:45 -0400 (EDT)
+ <h>     Message-id: <vines.yRv7+7lg0rA@cips06.ets.org>
+
+<h>"Bugs" in the 24 March 1999 Version of the Web Content Accessibility Guidelines
+
+<p>This memo highlights key "bugs" in the 24 March 1999 version of the "Web Conten
+t Accessibility Guidelines." Additional bugs and suggestions are described in m
+y revision of the 24 March 1999 guidelines document. The revision is available
+(temporarily) at:
+
+
+<p>Bug-1. The concept of "equivalent" is incomplete.Importance: ExtremeDescription: The
+ overall concept of "equivalent" is probably the most important concept of the
+document. Yet I believe that without the change, the concept of "equivalent" wi
+ll remain vague.  Action Performed: Refined definition of "equivalent". Further Action
+Suggested: Replace old language with new.Ease of Correction: Very easy===
+
+<p>Bug-2. The definition of "equivalent" is incomplete without a concept of "communicati
+on element".Importance: Extreme Description: I think that the concept of "commu
+nication element" is very important. It has to encompass all the things listed
+in checkpoint 1.1. The term communication element is an essential foundation fo
+r the definition of equivalent. The term makes clear that we are not talking ab
+out "HTML elements." Action Performed: Added a new term called the "communicati
+on element". See the definition of "communication element":
+I also replaced the p
+hrase "non-text elements" with "non-text communication elements". I think that
+this change is extremely important. I did this because (1) The former was and i
+s undefined and the latter is now defined.; (2) Several of the things that were
+ called non-text elements looked like "text" (scripts, ASCII art, etc.) so the
+simple reference to "non-text elements" was confusing.Further Action Suggested:
+ Add the provided definition to the glossary. Make a few related changes noted
+in main revision.Ease of Correction: Very easy==
+
+<p>Bug-3. The term "text equivalen
+t" is vaguely defined.Importance: ExtremeDescription: This is probably the most
+ important refinement of the revision. The characteristic of being able to be r
+endered in several different ways - auditorially (synthesized speech), tactuall
+y (braille), and visually (visually-displayed text) -- was mentioned in the pre
+vious 3/24/99 version (in the body of the document but not the definition of te
+xt equivalent). But this revision makes the feature the one that distinguishes
+it from non-text equivalents. (A parallel contrast is found in the new distinct
+ion between "text communication elements" and "non-text communication elements.
+") If this cannot be addressed editorially, then I ask that it be discussed on
+the list or wherever else necessary.Action Performed: Refined the definition of
+ "text equivalent". See the definition of text equivalent:Further Action Suggested: Re
+place old language with new in the glossary and make a few other changes as ind
+icated in the revision.Ease of Correction: Very easy==
+
+<p>Bug-4. The term "non-text
+ equivalent" is improperly defined.Importance: ExtremeDescription: This is anot
+her very important refinement. Essentially, a non-text equivalent is an "equiva
+lent" that it is not a "text equivalent." The previous definition of non-text e
+quivalent did not provide such a clear distinction. If this cannot be addressed
+ editorially, then I ask that it be discussed on the list or wherever else nece
+ssary.Action Performed: Revised the definition of "non-text equivalent". Furth
+er Action Suggested: Replace old language with new in the glossary and make a f
+ew other changes as indicated in the revision.Ease of Correction: Very easy==
+
+<p>Bug-5. The term "alternative equivalent" is redundant.Importance: HighDescription
+: I eliminated the term "alternative" from the term "alternative equivalent" si
+nce the latter phrase is redundant. "Equivalent" is adequate by itself. Also, t
+he term is "alternative" is not defined, except by context. (The word "alternat
+ive" seems fine in other usage.)Action Performed: Removed the "alternative" fro
+m the term "alternative equivalent"Further Action Suggested: Make edits as prov
+ided.Ease of Correction: Very easy==
+
+<p>Bug-6. Document uses of the word "descripti
+on" without making clear its special meaning.Importance: HighDescription: The r
+evision reduced reliance on undefined terms such a "video description", "audito
+ry description"; these terms will tend to confuse people, especially if they ar
+e not defined in the glossary. They are not, to my knowledge, necessary. I trie
+d the use defined terms and to get the same message across. For example, I foun
+d that the defined terms "equivalent" was often helpful. Action Performed: Redu
+ced reliance on undefined uses of the word "description"Further Action Suggeste
+d: Make edits as provided. Ease of Correction: Very easy==
+
+<p>Bug-7. The introducti
+on to guideline 1 is inconsistent with the refined definitions.Importance: High
+ Description: NAAction Performed: Provided a revised introductory section for g
+uideline 1 to make it consistent with the revised definitions above. Further
+ Action Suggested: Use the provided language.Ease of Correction: Very easy==
+ 
+ <p>Bug-8. Checkpoint 1.1 needs refinement. Importance: ExtremeDescription: Note that
+is recently underwent a revision and therefore might be expected to require som
+e editing. As noted, the reference to "synthesized speech" as requiring a "text
+ equivalent" would not be comprehensible without further explanation. Action Pe
+rformed: Revised the wording of checkpoint 1.1Further Action Suggested: Make the provided changes. Note tha
+t any reference to "synthesized speech" as a non-text communication element wou
+ld need to be explained if the group feels that it is important to include.Ease
+ of Correction: Moderately easy. Should be reviewed by several members of the w
+orking group. There are a few questions raised that should be addressed.==
+
+<p>Bug-9. Checkpoint 14.2 mistakenly makes reference to equivalents "to text".Importanc
+e: ExtremeDescription: This is a clear factual error.Action Performed: Provided
+ revised wording. (I also made other edits that should be considered.) Further Actio
+n Suggested: Make the provided changes.Ease of Correction: Very easy.==
+
+<p>Bug-10.
+The possibility of synchronizing text equivalents for video was not acknowledge
+d in checkpoint 1.3Importance: Very HighDescription: The old version of 1.3 rea
+ds: "For each movie, provide an auditory description of the video track and syn
+chronize it with the audio track. [Priority 1]"Action Performed: Revised checkp
+oint 1.3 and gave it a split priority.Further Action Suggested: Easy. This one should be re
+viewed and discussed. The idea proposed was discussed briefly but received inad
+equate consideration.Ease of Correction: Easy.==
+
+<p>Bug-11. The word "visual" is us
+ed to describe non-text elements, even though text is usually rendered in a vis
+ual manner.Importance: ModerateDescription: NAAction Performed: Reduced relianc
+e on the word "visual". Generally, I have tried to reduce reliance on the word
+"visual" when referring to things like graphics and video. The problem is that
+it is sometimes intended as a contrast to text, yet text can also be "visual."
+If the editors think that it is important to use the visual, I recommend that t
+hey define it early in the body of the document.Further Action Suggested: Make
+provided changes.Ease of Correction: Easy==
+
+<p>Bug-12. The need for text equivalent
+s for ASCII art was cited in two checkpoints (1.1 and 1.5).Importance: HighDesc
+ription: This is a small redundancy in the checkpoints.Action Performed: Delete
+d Checkpoint 1.5 Further Action Suggested: Make suggested deletion.Ease of Correction: Very
+Easy==
+
+<p>Bug-13. The description of the relationship between the terms "assistive
+technology", "screen reader", and "user agent" is not consistent throughout the
+ document.Importance: HighDescription: This is a fairly clear factual mismatch.
+ Action Performed: I have not tried to resolve this. Further Action Suggested: Th
+e editors should pick one explanation and use it throughout the document.Ease o
+f Correction: Easy.==
+
+<p>Bug-14. The guidelines document does not claim a conforman
+ce level.Importance: HighDescription: The guidelines document does not claim a
+conformance level for itself.Action Performed: Added a conformance claim. Furt
+her Action Suggested: Review and approve language.Ease of Correction: Fairly ea
+sy. This should be reviewed by Working Group members.==
+
+<p>Bug-15. The document fails to follow checkpoint 4.2 on acronyms and abbreviations. Importance: High (es
+sential for obtaining triple-A rating).Description: NAAction Performed: Problem
+ noted. One or more acronyms were expanded in the body of the text. Also anothe
+r example was suggested. Further Action Suggested: Fix them. I think that i
+t would be an important lost opportunity to fail to claim a triple-A rating and
+ do whatever it takes to make sure that it sticks.Ease of Correction: Fairly ea
+sy to somewhat difficult==
+
+<p>Bug-16. The document does not say how to handle confo
+rmance ratings for inaccessible primary pages that have accessible alternative
+pages.Importance: Moderate to HighDescription: NAAction Performed: Provided an
+explanation. Further Action Suggested: Verify that this is the desired location f
+or this information. Approve.Ease of Correction: Easy==========================
+===
+
+<p>Eric G. Hansen, Ph.D.Development ScientistEducational Testing ServiceETS 12-
+RRosedale RoadPrinceton, NJ 08541(W) 609-734-5615(Fax) 609-734-1090E-mail: ehan
+sen@ets.org
+
+  <p> Received on Tuesday, 6 April 1999 23:41:12 GMT

@@ -1,0 +1,438 @@
+
+URL: http://a.wholelottanothing.org/features/2003/10/blogging_for_do
+<h>October 04, 2003
+
+<h>Blogging for Dollars
+
+<p>In mid-July of this year, the new weblog service Typepad launched,
+ and after a couple months of beta-testing I was hooked on the
+ features. Rather than try and move my highly-customized blog
+ over to the service, I decided starting a new site would be
+ much easier, so I decided my next site would be housed at Typepad.
+ 
+
+<p>I've long been a fan of TiVo, having owned one for the past three
+ years. Last year I finally started hacking them and found it
+ to be much easier than I thought. I have always followed TiVo
+ news, I'm often writing long emails evangelizing the product
+ to those that ask, and I've wanted to write easier how-tos than
+ the ones I'd read on TiVo hacking. I realized then that a blog
+ focused on the digital recorder space would be perfect for Typepad,
+ and PVRblog was born (actually I originally wanted to call it
+ DVRblog, but accidentally bought pvrblog.com before I realized
+ my mistake, so p
+
+<p>vrblog it is).
+
+<p>When I started planning and designing the site, I realized that
+ since it was at Typepad, it was going to cost me some money
+ to run it each month. Currently I already have one commercial
+ unix account, a co-located debian server, and a co-located windows
+ server. I wasn't looking forward to another monthly bill, so
+ I looked at my options and realized I could throw Google's Adsense
+ textads into the template and perhaps defray the costs. I designed
+ the site templates with this in mind, making sure there was
+ room for it.
+
+<p>My dream with PVRblog was to make five dollars a week, in order
+ to easily cover any hosting costs
+
+<p>I've run Adsense textads on Blogroots since Google launched the
+ service, but they weren't very lucrative. I figured it was probably
+ because "blog" wasn't too highly sought after of a keyword,
+ so consequently Blogroots usually make only a couple bucks a
+ week, tops. My dream with PVRblog was to make five dollars a
+ week, in order to easily cover any hosting costs. I've been
+ blogging for four years and paying for it throughout, but if
+ I could write a blog I enjoy doing and have it pay for itself,
+ well, that certainly would be something.
+
+<p>I launched PVRblog publicly on July 16th with half a dozen posts,
+ then announced it on my personal blog. In a matter of hours,
+ dozens of other sites linked to it, the site ascended Daypop
+ and Blogdex's lists, and all told the debut was a big success.
+
+<p>Late that night I remembered the ads and logged into my Adsense
+ account to see how the day went. I clicked over to reports to
+ see the activity. From approximately 3,000 visits (not too shabby
+ at all), enough people clicked through that I made $40 in the
+ first 24 hours. The first thought that came to mind was this:
+
+<p>Great googly-moogly, holy crap. Crap, crap, crap. What the hell
+ just happened? What did I do? What does this mean for weblogs?
+ Would the world be covered in textads when I tell people about
+ this? Shit!
+
+<p>To say the least, I was a bit freaked out. I was measuring everything
+ in increments of $20, hoping to make my monthly hosting and
+ in one day I had enough to pay for two months of hosting. The
+ next day brought another month of paid hosting, and this continued
+ until a few days later I was a Yahoo pick for new site of the
+ day and it resulted in twice the traffic I'd seen so far and
+ over $100 in click-thrus came in during a 24 hour period.
+
+<p>Once again, I freaked out. 
+
+<h>Micropayments suck. No, really.
+
+<p>I've been a big fan of Scott McCloud's comic works for years
+ and I have optimistically followed his essays and speeches about
+ someday paying writers and artists online through micropayments.
+ I've been a user of Paypal since May of 2000 and have bought
+ many a CD and shirt from local musicians selling online. I've
+ followed the recent launch of Bitpass and have used it to view
+ McCloud's latest work and buy a pile of MP3s from various bands.
+ I've used all these systems but I realize their limitations:
+ uptake is minimal when compared to most web surfers, and few
+ people probably go through all the trouble to pay anyone for
+ content.
+
+<p>after using micropayment systems like Bitpass, and compared to
+ something like Google's Adense, I've come to the conclusion
+ that micropayments indeed suck
+
+<p>Clay Shirky recently tore McCloud and Bitpass a new one over
+ this (Scott wrote a response), and after using micropayment
+ systems like Bitpass, and compared to something like Google's
+ Adense, I've come to the conclusion that micropayments indeed
+ suck. 
+
+<p>There are a whole host of reasons for their suckitude, but the
+ biggest obstacle has to do with user experience. People are
+ lazy. You are lazy. I am very lazy. I don't want to lift a finger
+ to do anything generally, unless it is really worth it. When
+ you're reading stuff online and you're hit with signup forms,
+ registration forms, or worse of all, payment forms, most people
+ close their browser or go somewhere else. It's just how we work.
+ I haven't read the LA Times website since last year when they
+ instituted a draconian registration process that requires your
+ email for their spam cannon. When users are faced with what
+ looks like work when they were expecting to enjoy reading something,
+ you can bet they will leave, be pissed, or both.
+
+<p>Now don't get me wrong, I love Scott McCloud's work and I'd gladly
+ pay him a buck a day to produce the high-quality comics he's
+ capable of, but if I was randomly hitting Bitpass "pay me to
+ see the next page" screens in my web wanderings, I wouldn't
+ be wandering for very long. I'd be leaving. And no matter how
+ far micropayment companies take the technology, there is always
+ going to be a cost (no pun intended) involved with paying for
+ content. You'll have to click buttons, log into extra screens,
+ authorize your accounts and the like. Not all of those steps
+ can be automated and the process will continue to be slightly
+ painful for anyone going through with it (the vast majority
+ will not go through with it).
+
+<p>With unobstrusive textads like Google's, the experience for users
+ of your site is only slightly changed. They now have to see
+ an ad (depending on how well you integrated it into the site),
+ and a few of them may very well click on the ads. As the site
+ owner, you get money trickling in, everyone and anyone can view
+ your site, and some people will even find better information
+ or bargains on stuff they wanted. Your readership can grow as
+ much as you want, and usually this carries with it higher click-thrus
+ and more money.
+
+<p>Compared to micropayments, unobtrusive textads look a million
+ times better for both the author and the reader.
+
+<h>Google's innovations
+
+<p>Google doesn't get much credit for what it has done to revitalize
+ online advertising. Google's textads aren't just a great technology
+ because they are less of a hassle for readers (compared to micropayments
+ or banner/popup/popunder ads), they are also better than any
+ other textads I've ever seen. I built my own system in fall
+ of 2001 for MetaFilter, and while it did mimic the format, it
+ didn't have any of the content-sensitive filtering, nor did
+ it have any performance limits built-in.
+
+<p>When I launched MetaFilter's textads, the first ads were terrific.
+ They were often members' blogs or new services other members
+ had launched. People clicked on them like crazy because they
+ were loaded with fun new sites. It was ads by the members, for
+ the members of MetaFilter. This is typical of other services
+ I've launched online &mdash; the early adopters are knowledgeable
+ and enthusiastic, so their first contributions are terrific.
+ A few articles were written about MetaFilter and the new ads
+ and soon after several copycat systems sprang up. People talked
+ about a new revolution in unobtrusive advertising on corporate
+ and hobbyist sites.
+
+<p>I enabled anyone to advertise on MetaFilter, and although I kept
+ some standards to keep erotica sites and spammer sites out of
+ the system, eventually most people advertising weren't members
+ and didn't know MetaFilter too well. Many placed ads based on
+ the promises the highly positive textad articles talked about.
+ Their ads were often for things that no one was interested in,
+ even though I warned many advertisers before taking their ads
+ and their money. As people realized the majority of ads weren't
+ that great, they started to ignore the textad box on the front
+ page. The click-thru rates fell like a brick, from 5% in the
+ first month down to the typical advertising industry average
+ of 0.5%, and like that, the revolution of textads was over (there
+ are still ads at MetaFilter and a few dozen people use them
+ for some fairly high-quality ads these days).
+
+<p>Google did two amazing things to prevent the same activity in
+ their own system. First off, most everyone knows they do content-sensitive
+ filtering on ads. This is vitally important for sites like PVRblog,
+ but at MetaFilter, any ad was randomly placed next to any content.
+ Google goes to great lengths to make sure that any ads you see
+ have something to do with your searches or the content that
+ accompanies them. The second innovation is their performance
+ metrics and lower limits imposed on advertisers. Simply put,
+ if your ad sucks, you will get booted, so the quality system-wide
+ of the ads never goes down. It's brilliantly simple, but if
+ your ad was written poorly or you picked the wrong keywords,
+ the click-thru rates will reflect that, and Google often ends
+ campaigns that don't meet a minimum of criteria. This Darwinian
+ system ensures the strong survive, that ads are highly targeted,
+ well-written, and used by a good percentage of searchers and
+ readers, making the system as a whole work.
+
+<p>Simply put, Google not only invented the textad, they perfected
+ it, and thanks to those innovations, Adsense carries those benefits
+ to site owners and readers.
+
+<h>Adsense advantages
+
+<p>I've met with some great success from Adsense, beyond my wildest
+ dreams, but one of my first thoughts was "what does this mean
+ for blogs." When I asked a few friends during my initial freakout
+ phase, even those that had low opinions of blogs in the past
+ saw this as a ray of hope. People creating websites for the
+ fun of it have never really had a way to be compensated directly
+ for maintaining high quality sites. "This is a wonderful thing"
+ they said. "For once, writers can get a break, by finding a
+ way to pay for hosting and maybe even encourage them to write
+ more" was something else I heard.
+
+<p>When was the last time you heard someone say they received a
+ check for advertising on their hobby site that could be used
+ to purchase a fully loaded Aeron chair?
+
+<p>I think the success of Adsense means a lot for not just blogs,
+ but for any website produced by writers, historians, artists,
+ and fans. One of the first great things about the web was the
+ plethora of amazingly informative sites maintained by passionate
+ individuals in their free time. There's no reason any topic-focused
+ site can't benefit from Adsense. It's my hope in writing this
+ piece to show how this is a potential boon to other website
+ authors.
+
+<p>Make no mistake, last month PVRblog made a lot of money from
+ Adsense. When was the last time you heard someone say they received
+ a check for advertising on their hobby site that could be used
+ to purchase a fully loaded Aeron chair? Sounds like something
+ you might have heard in 1998, no? Well it's true today, and
+ I hope a lot more people meet with the same success.
+
+<h>Tips for a successful Adsense site
+
+<p>I know that a lot of the PVRblog's luck with adsense was just
+ that: accidental luck. I had no idea so many people would like
+ the idea of a blog about DVR technology. I didn't know TiVo
+ was such a sought after keyword at Google. I had no idea my
+ previous projects' Google ranking would help my site out when
+ I first linked to the site from my blog. The whole thing was
+ one big happy accident, but I've noticed some trends between
+ what I did and what others have tried. What follows are things
+ I've noticed worked to my advantage.
+
+<p>1. Pick a topic
+
+<p>Blogs are about anything and everything and it isn't every day
+ that you find a good blog focused on a topic. In order to have
+ any remote chance of success gaining an interested audience
+ and getting good on-topic ads showing up, pick a narrow topic
+ you are passionate about and run with it. I would guess that
+ I do just as good or better than Gizmodo on textads (Gizmodo
+ certainly covers the same area of PVRblog, just not as in-depth)
+ even though I probably have 1/10th the traffic because my site
+ is more tightly focused. 
+
+<p>If there's anything in this list that requires a drastic change
+ on the part of website authors, this is it. Focused blogging
+ isn't that popular but I'm convinced it's the only way to have
+ a chance to carve out a niche on the web. If you want to proclaim
+ yourself as an expert on a topic to both an audience and search
+ engines so that people will know you're the one site to go to
+ for information, you'll have to focus. Focus and be as specific
+ as you can.
+
+<p>2. Consider your topic as it relates to the web
+
+<p>If what you are aiming for is ad revenue, it helps if your topic
+ is something you can buy products related to it. It also helps
+ if those products can be bought online and people are comfortable
+ with it. One of my favorite topic sites (arguably slightly blog-like)
+ is Kicksology. Professor K knows everything and anything about
+ basketball shoes and about once a week I drop into the site
+ to see what's new in cutting edge shoe design. Often when I
+ see a rave review on a cool looking shoe, I want to know how
+ much it costs and if I can buy them. It's an impulse buying
+ thing, but if you notice Kicksology recently added Google's
+ ads to the site, but they're not super-focused. Ideally, if
+ I was reading about a new shoe, I'd want ads offering the same
+ shoe for purchase right now. I've checked out a few dozen of
+ the reviews, but the new air jordan review is the only one that
+ carries with it targetted ads. Generally speaking, Kicksology
+ is about something not normally ordered or sold online and the
+ ads are often a poor fit for the content (no one's fault really,
+ people just don't buy that many shoes online). 
+
+<p>TiVos are very close to the web. People buy them online, they
+ look up tips and hacks for them, and resellers have tons of
+ TiVos to move. I didn't really think about it when I started
+ the site, but thanks to the mass availability and customers
+ looking for deals on them, the web's a natural place to shop
+ for a new TiVo.
+
+<p>If you're really interested in knowing how well a topic might
+ work out, try going through the process of placing a Google
+ Adwords ad. During the process they'll tell you how much a keyword
+ will cost you, and you can use that to determine if writing
+ a blog about goldfish is going to be more lucrative than the
+ one you could be writing about golden retrievers.
+
+<p>3. Be passionate and write your ass off
+
+<p>Don't start a blog just to turn a buck, because it's going to
+ be clear to your audience that you don't really care about the
+ topic if you don't offer much beyond press releases from companies.
+ If you want to have a site that ranks highly at Google, write
+ how-to article after how-to article and offer content no one
+ could find anywhere else. I love this guide to ranking higher
+ in google because it doesn't focus exclusively on HTML tricks
+ or stoop to tips on gaming the system, it simply says: write
+ the most useful website on earth and everyone will link to you,
+ which will make you #1.
+
+<p>I started PVRblog because I've been following the space for the
+ past three years and I have dozens of in-depth tutorials I've
+ written and want to write about the subject. I'm enthusiastic
+ about the topic and I look forward to spending a few downtime
+ hours writing articles, conducting interviews, or reviewing
+ books and hardware for the site.
+
+<p>4. Designing for Google and your audience
+
+<p>Don't underestimate the power of Google and google-ability of
+ your site. About half of all the traffic to PVRblog is from
+ a Google search. If people are looking for information on how
+ to upgrade a tivo, they might find my articles about it, and
+ alongside every article are four links to upgrade kits at various
+ prices. I wouldn't be surprised if the click-thrus are crazy
+ high on those links, for those users. I do the same thing myself,
+ often looking up reviews on cellphones and following ad links
+ to help find the best prices I can.
+
+<p>On the technical side of things, having an accessible, valid
+ XHTML site, with good semantics, good page titles, and good
+ filenames helps Google index your site. Typepad does all these
+ things extremely well right out of the box. After I launched
+ PVRblog, Google indexed the entire site within hours and reindexes
+ it often. The site shows up in the top ten for many common TiVo
+ hacking or TiVo feature searches. Searchers are often looking
+ for info to help a purchase, and are likely to click an ad,
+ so it's worth thinking about them.
+
+<p>Nick Denton recently wrote about the design of a weblog may change
+ based on Adsense, and I'd say he's got a lot of good points,
+ but be careful that you don't go too far, forcing people to
+ make extra clicks just so you can stream more ads at them. Your
+ audience will pick up on this eventually and bail.
+
+<p>What not to do
+
+<p>Of course now that I've given you a few tips, it's important
+ to reiterate what you shouldn't do. Don't just slap ads on your
+ blog and expect to get rich the next day. If every blog about
+ anything on earth is going to carry adsense boxes, their utility
+ is going to go down and people won't be likely to click on them.
+ Don't be disappointed if you're not pulling down big bucks on
+ your topic-focused, well-googled site. It takes time to build
+ an audience and gain links from people that find your content
+ useful. If you follow these guidelines, it's quite possible
+ you'll be able to pay for your own hosting. Eventually, you
+ might make more.
+
+<h>The downsides
+
+<p>Like anything, it's not all roses and Adsense is far from absolutely
+ perfect. It's got two big drawbacks: the approval system and
+ the terms of service.
+
+<p>The approval system is evidently run by humans, and they state
+ upfront they won't accept personal sites. I would guess that's
+ likely because most personal sites aren't focused on much of
+ anything besides a specific person, and hence would be hard
+ to advertise to. For even focused sites, some people have had
+ real trouble convincing the Adsense folks to approve them, even
+ when their sites could potentially produce great on-target ads.
+ The decisions are sometimes arbitrary and will likely work against
+ Google if it continues to mistakenly deny legitimate sites.
+
+<p>The other big problem is the terms of service for Adsense which
+ have received a lot of scorn recently after a few people were
+ booted from the program without any recourse. Google took it
+ a step farther and beefed up the legalese to even prohibit the
+ discussion of the TOS, which is kinda nuts. Of course, I've
+ benefited greatly from Adsense, and it's probably no surprise
+ that the TOS issues weren't a dealbreaker for me personally.
+
+<p>Google's between a rock and a hard place on this issue. If they
+ were more transparent, like they have been with their search
+ results, people would no doubt spend their lives gaming the
+ system. What Google hasn't stated upfront about how pagerank
+ works, people have reverse-engineered to great effort. There
+ are whole sites and thousands of people that dedicate their
+ lives to getting their sites as high as possible in Google,
+ whether or not their site has good information or helps out
+ web surfers. These folks see no problem in making Google less
+ useful for searchers if it means their clients are happy with
+ their rank. Google's spent every day since their launch in a
+ cat-and-mouse race to beat those that seek to game the system.
+ If Adsense were transparent, say if they told you how many clicks
+ were allowed per hour from a page or an IP, you can bet that
+ within a couple hours people would produce adsense link clicking
+ bots and bot farms that carried hundreds of IPs solely to produce
+ fake click-thrus for cash. So it looks like they are trying
+ to keep a lid on this, keep their methods as secret as possible
+ and went as far as to put a gag order on the entire subject.
+ I don't know what's going to work out for them in the end, but
+ I think they could potentially lose a lot of money whether or
+ not they tell everyone how Adsense works exactly. The future
+ will tell us if they made the right move here.
+
+<p>Areas for improvement
+
+<p>The tools offered for authors using Adsense are pretty paltry.
+ It's a new service and I expect it to change, but it'd be nice
+ if the results were more granular so you could compare which
+ pages produced the highest click-thrus, and tailor your content
+ to that. It'd be nice if you could see a breakdown of each domain/site
+ you were using the ads on. The new custom colors and layouts
+ are great, but it'd be nice if you could track how different
+ sizes/colors were performing to enhance your design. Currently
+ you just see a number for views, a click-thru total, and a dollar
+ value assigned to that.
+
+<h>Conclusions
+
+<p>A long-ago promise of the web was that people could share their
+ expert opinions and thoughts on anything, and others in the
+ world would find them. Search engines have helped the web live
+ up to that promise and it works well today. Google's Adsense
+ goes one further, in that someone writing passionately and expertly
+ on a topic can now also make some money doing it. Nick Denton
+ has been saying niche blogs could turn a profit for a while
+ now, and after my experiences I'd have to say he was right.
+ 
+
+<p>The opportunity is now there &mdash; if you've ever wanted to
+ write a topic-focused blog and wondered if you could get paid
+ for it, Adsense could make it all work for you.
+
+

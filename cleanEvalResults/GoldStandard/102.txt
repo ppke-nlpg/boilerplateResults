@@ -1,0 +1,88 @@
+URL: http://lists.w3.org/Archives/Public/www-rdf-logic/2001Apr/0016.html
+
+
+ <h>Re: DAML+OIL (March 2001) released
+
+
+
+ <h>    From: Drew McDermott <drew.mcdermott@yale.edu>
+  <h>    Date: Mon, 2 Apr 2001 11:23:18 -0400 (EDT)
+  <h>   Message-Id: <200104021523.LAA08828@pantheon-po02.its.yale.edu>
+
+
+ <h>   From: "Seth Russell"     
+  <h>  From: "pat hayes" 
+
+ <p>	>RDF      > triples have no special syntactic advantages over, say
+	, LISP      > Sexpressions, and they provide no special functionality or semant
+	ic      > power.   
+
+<p> While I think this is doubtlessly true; since we can transfo
+rm any triples   diagram into sexpressions and visa versa without loss (can't w
+e?); it would   seem to me that there is an advantage in thir simplicity.  Of c
+ourse, the   enthusiasm for the triples in the community at large is also an ad
+vantage,   imho.
+
+<p>There is no problem with considering triples as S-expressions.
+ Theproblem is considering them as S-expressions *and* as a formaldescriptive l
+anguage simultaneously.
+
+<p>Suppose someone suggests the use of Unicode as a formal
+language, alongthe following lines.  Let the letter "l" stand for "lives in."
+Let"W" stand for George W. Bush.  Let "D" stand for Washington, D.C.Let "T" sta
+nd for Tony Blair, and "L" for London.  Let "t" stand for`taller than.'  And so
+ forth.  Make sure every printing character isassigned a meaning.  Now take any
+ string and divide it into groups ofthree characters, and assign to "pqr" the m
+eaning "the relationdenoted by p holds between the object denoted by q and the
+objectdenoted by r."  The whole string then stands for the conjunction ofthe pr
+opositions denoted by the letter triples.  So the string"lWDlTLtTW" means "Geor
+ge W. Bush lives in Washington, D.C., TonyBlair lives in London, and Tony Blair
+ is taller than George W. Bush."Call this scheme URF, for "Unicode Representati
+on Format."  
+
+<p>Now suppose I argue that URF isn't a very powerful language, forre
+asons that I hardly need to enumerate.  It would be frustrating ifthe pro-URF f
+action comes back with the rejoinder, "What do you mean,it isn't very powerful?
+  You can represent *anything* in Unicode, can'tyou?  Isn't it useful to have a
+ `common exchange protocol'?"
+ 
+ <p>This may sound like a parody, but to me statements such as this one bySeth seem to be of exactly this type:   
+ 
+ <p>Inferencing is an application that sits on top of the triples ... let the   best one win.  I fail
+to see how this is an argument against simply using   triples.
+
+<p>In my URF world,couldn't I say   
+
+<p>Inferencing is an application that sits on top of the Unicode
+... let the best one win.  I fail to see how this is an argument against simply
+ using Unicode.
+ 
+ <p>The point is that no one is arguing against using Unicode or RDF
+ as acoding scheme; the argument is against using either as a formallanguage.
+If RDF is simply an encoding scheme, then we can put it onthe back burner and f
+ocus on the language actually being encoded.  If we view it *as a formal langua
+ge*, then its flaws loom large.  Itlacks many key features, including implicati
+on and bound variables.
+
+<p>Actually, I am not convinced that it's such a great enco
+ding scheme.I am told it goes beyond XML in some important ways, but I'm not su
+rewhat they are.   
+
+<p>>The RDF documentation and discussion archives are rife with
+   > elementary errors (such as confusing use and mention, confusing   > syntac
+tic structure with meta-description, confusing asserting with   > reference, co
+nfusing names with URIs, and confusing dereferencing   > with denotation) that
+they often border on being simply incompetent.   
+
+<p>Hey man! ...then give us a hand ...
+
+<p>As I have argued before, I don't think it would be particularlydifficult t
+o fix the problems with RDF.  However, fixing them wouldrequire thinking of an
+RDF expression as a self-contained textualobject, which seems to be incompatibl
+e with thinking of it as a pieceof a graph, and therefore incompatible with the
+ triples model.  Ithink this is where we're stuck.
+ <p>               -- Drew McDermott
+
+ <p>  Received on Monday, 2 April 2001 11:23:33 GMT
+
+     

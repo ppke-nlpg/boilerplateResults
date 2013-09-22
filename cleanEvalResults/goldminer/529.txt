@@ -1,0 +1,287 @@
+
+URL: http://www.jr2.ox.ac.uk/bandolier/bandopubs/WART.html
+<p>Background
+ In the 1960s, 10-20% of patients seen in dermatological
+ departments were referred for the treatment of warts, 70-80%
+ of whom could have had their warts managed at home or in their
+ general practitioner's surgery. 1
+
+<p>
+ During the last decade, liquid nitrogen treatment (cryotherapy)
+ has become an increasingly popular method of removing cutaneous
+ warts in the primary care setting; since the 1990 general practitioner
+ contract, general practitioners on Family Health Service Authority
+ minor surgery lists have received payment for performing cryotherapy.
+ 
+
+<p>
+ A general practitioner may claim a sessional fee of &pound;106.20
+ for 5 surgical procedures performed from the following 6 categories:
+ injections; aspirations; incisions; excisions; curette, cautery
+ and cryocautery; other. 2 Table 1 shows the number of claims
+ for payment in each calendar year, 1992 to 1994, for each of
+ the 6 categories by the 114 general practitioners on the minor
+ surgery list in Bromley. 
+
+<p>
+ The table shows that there has been an increase in claims for
+ minor surgery in all categories in the 3 years, but particularly
+ in the categories "curette, cautery and cryocautery" and "other".
+ The bulk of both categories is cryotherapy for the treatment
+ of cutaneous warts. Cryotherapy was included in "other" where,
+ for example, uncertainty existed among practice staff completing
+ claim forms about whether cryotherapy was the same as cryocautery.
+ 
+
+<p>
+ In 1994, Bromley Health spent almost &pound;90,000 on these
+ two categories, of which about &pound;60,000-&pound;80,000 was
+ spent on the treatment of warts for some 560-760 individuals.
+ These estimates are based on two assumptions, firstly, that
+ that an individual receives about 5 treatments (see table 2)
+ and secondly, following discussions with general practitioners,
+ that the treatment of warts accounts for 66-90% of claims for
+ "curette, cautery and cryocautery" and "other". 
+
+<p>
+ Newly merged commissioning authorities have the responsibility
+ of identifying the health care needs of their resident population
+ and purchasing appropriate, cost-effective health care with
+ finite resources. What are the health care needs of people with
+ cutaneous warts and what is the most appropriate, cost-effective
+ treatment? In the context of the priority setting for health
+ gain debate, &pound;60,000-&pound;80,000 would alternatively
+ buy 15-20 hip replacements, 76-101 day case cataract operations
+ or 12-16 coronary artery bypass graft operations (provider extra
+ contractual referral (ECR) tariffs, 1994-5). 
+
+<p>
+ This paper attempts to determine the most appropriate management
+ of cutaneous warts in the community in the context of its prevalence
+ and natural history. 
+
+<p>Natural history and prevalence: is this not exaggerated?
+ In
+ the general population, cutaneous warts are harmless, transient
+ tumours caused by about 8 types of human papilloma viruses (HPV).
+ 3
+
+<p>
+ Warts are rare before the age of 5 years and are usually found
+ in older children and young adults. A recent population study
+ in British school children found the prevalence of warts to
+ be 3.9-4.9% in children aged between 11-16 years. 4
+
+<p>
+ A survey of 1,000 institutionalised children with learning
+ difficulties whose warts were left untreated found that the
+ prevalence of warts increased from 18% to 25% in 2 years. 5
+ As new warts were found to occur 3 times more frequently in
+ infected than uninfected children, it has been concluded that
+ treatment should not be withheld. 6 Although this survey is
+ frequently quoted, it is arguable whether the findings in this
+ group of children can be extrapolated to the general population,
+ especially as the prevalence of warts was initially so high.
+ Furthermore, insufficient emphasis has been made of the fact
+ that 35% of original lesions were noted to have involuted within
+ 6 months, 53% within 1 year and 67% within 2 years. 
+
+<p>
+ In the survey of British school children, 4 where it is likely
+ that a sizeable proportion were treated, the prevalence of warts
+ was found to increase by 1% in 5 years but the clearance rate
+ was 95% in that time (ie 95% of children noted to have warts
+ when they were aged 11 years no longer had warts when they were
+ 16 years). 
+
+<p>
+ As the virological diagnosis of warts depends on complex molecular
+ biological techniques, knowledge about HPV transmission is based
+ essentially on clinical observation. Skin warts can be acquired
+ by direct contact, or indirect contact with contaminated objects.
+ The incidence of plantar warts is not considered to be influenced
+ by dry bare foot activities like gymnastics or dancing, but
+ there is considered to be an increased risk of acquiring them
+ when wet, bare skin is exposed to the virus in communal facilities
+ (eg swimming). 7 In a 10% random sample of over 8,000 swimmers
+ at a public swimming bath, 6.9% of children under 16 years and
+ less than 0.7% of those over 16 years had plantar warts. 8 This
+ means that the proportion of swimmers under 16 years with plantar
+ warts was not much greater in this study than the 3.9-4.9% found
+ in the survey of school children. 4 The proportion of those
+ aged over 16 years with plantar warts was very small which indicates
+ that the risk attached to swimming pools has been exaggerated.
+ 
+
+<p>
+ Longterm immunosuppression, for example among renal transplant
+ recipients, and patients with the rare disease Epidermodysplasia
+ Verruciformis (EV) are at risk of their warts undergoing malignant
+ change. However, such malignancies are in-situ or invasive squamous
+ cell carcinomas which are slow growing and non-metastasising.
+ 3,9 The HPV types found in these skin cancers are not the ones
+ found in common skin warts. Malignant transformation of skin
+ warts found in the general population has never been reported.
+ 
+
+<p>Treatment - why treat?
+ Why go to such lengths and expense to
+ get rid of cutaneous warts when they are harmless and transitory?
+ Their perceived unsightliness may be lessened if more emphasis
+ was made of their ephemeral nature. Many, often fascinating,
+ methods of eliminating warts have been described over the centuries
+ and their contagious nature has compelled the medical profession
+ to become involved. 
+
+<p>
+ There is no once-only treatment that will cure all warts and
+ no treatment is 100% successful. Most treatments work by destroying
+ the epidermis in which the virus is present and the commonest
+ and most acceptable methods of achieving this are either the
+ application of a wart paint or cryotherapy. 
+
+<p>
+ An effective wart treatment is one that can achieve a higher
+ level of cure than would occur by spontaneous resolution in
+ the same period of time. Realistically, treated warts can be
+ eliminated in about 12 weeks. One study reported the control
+ cure rate in 12 weeks to be 52% for hand warts and 62% for plantar
+ warts. 10
+
+<p>
+ Comparisons between trials are made difficult by variations
+ in inclusion criteria and treatment modalities but overall,
+ the success rate of liquid nitrogen is not much different to
+ that of properly used wart paint. 10,11 The combination of regular
+ cryotherapy and the application of wart paint slightly improves
+ the response for hand warts. Mosaic warts, particularly on the
+ feet, are very resistant to any form of treatment. 10,11
+
+<p>
+ The commonest treatment methods are summarised in table 2.
+ 
+
+<p>Can they be prevented?
+ Various measures to reduce the incidence
+ of plantar warts have been advocated. For example, it has been
+ recommended that before swimming, warts are "adequately" covered
+ by a strapping which encircles the foot and/or a type of protective
+ sock. The effectiveness of these methods to reduce the incidence
+ of warts was demonstrated in a controlled group of physical
+ education students who swam almost daily. 7
+ But preventive
+ measures will not eradicate infection from swimming pools, even
+ if compliance was 100%, as there will always be individuals
+ who are unaware that they have plantar warts. Evidence that
+ socks prevent the transmission of infection is circumstantial
+ and little is known about the infectivity of subclinical warts.
+ Foot inspections would have resource implications for busy swimming
+ pools and would invariably miss early/new warts. They would
+ also stigmatise those with warts, particularly children, and
+ may discourage participation in what is indisputably an excellent
+ form of exercise. 
+
+<p>
+ There is no national or local education authority policy on
+ the management of plantar warts in school children so individual
+ schools have developed their own policies. The historical emphasis
+ on the contagious nature of plantar warts has meant that schools
+ have tended to strongly discourage or prevent afflicted children
+ from swimming, or have allowed swimming on condition that warts
+ are covered. Consequently, general practitioners have been approached
+ for treatment, a process facilitated by the general practitioner
+ contract for minor surgery. 
+
+<p>Conclusions and recommendations
+ Although unsightly, warts are
+ self-limiting and unless they cause disability or difficulty
+ performing daily tasks, can be left alone. There is no evidence
+ that warts are potentially harmful, except in immunocompromised
+ patients whose warts need monitoring, or patients with EV, which
+ is very rare. 
+
+<p>
+ There is no evidence that either treatment or prevention have
+ made a difference to the prevalence of warts in the general
+ population. Plastic socks could be advocated for individuals
+ determined not to acquire warts. 
+
+<p>
+ Commissioners, with the consultant in communicable disease
+ control, must work with general practitioners and dermatologists
+ to develop and agree guidelines for the management of cutaneous
+ warts in the community, bearing in mind that the majority can
+ be left alone. The guidelines must include criteria for treatment
+ and referral to the hospital. If treatment is considered necessary,
+ first-line therapy is the application of a wart paint at home.
+ 
+
+<p>
+ The guidelines must be shared with schools, the school health
+ service and other health care workers, like chiropodists, who
+ provide advice to schools. Appropriate mechansims for educating
+ health care staff will need to be established to ensure that
+ the guidelines are successfully implemented, for example, seminars
+ for general practitioners as part of continuing medical education.
+ 
+
+<p>
+ Commissioners must grasp the nettle and decide how much health
+ care resource should be spent on freezing warts. At current
+ levels, the health benefits from cryotherapy do not justify
+ the funding. 
+
+<p>Acknowledgments
+ Grateful thanks to Dr Jacqueline Spiby, Director
+ of Public Health, Bromley Health, for her support. References
+
+<p>
+ 1. Bunney MH. Viral warts their biology and treatment . Oxford
+ University Press, 1982. 
+
+<p>
+ 9. Barr BBB, Benton EC, McLaren K et al. Human papilloma virus
+ infections and skin cancer in renal allograft recipients. The
+ Lancet 1989; i :124-9. 
+
+<p>
+ 10. Bunney MH, Nolan MW, Williams DA. An assessment of methods
+ of treating viral warts by comparative treatment trials based
+ on a standard design. British Journal of Dermatology 1976; 94
+ :667-9. 
+
+<p>
+ 11. Steele K, Irwin WG. Liquid nitrogen and salicylic/lactic
+ acid paint in the treatment of cutaneous warts in general practice
+ . Journal of the Royal College of General Practitioners 1988;
+ 38 :256-8. 
+
+<p>
+ 12. Bourke JF, Berth-Jones J, Hutchinson PE. Cryotherapy and
+ common viral warts at intervals of 1, 2 and 3 weeks. Brit Journal
+ of Dermatology 1995; 132 :433-6. 
+
+<p>Summary Points
+
+<p>
+ * Cutaneous warts are harmless and transient 
+ * Treatment
+ is unnecessary 
+ * When warts cause disability or difficulty
+ performing daily tasks, first-line treatment is the application
+ of a wart paint at home 
+ * Guidelines should be developed for
+ the management of cutaneous warts in the community and shared
+ with schools and those health care professionals who provide
+ advice to schools 
+ * Appropriate mechanisms for educating health
+ care professionals on the management of cutaneous warts should
+ be established 
+ * Funding for the cryotherapy treatment of
+ warts should be reduced 
+
+<p>Table 1: Number of claims for payment for the 6 categories of
+ minor surgery from general practitioners on the minor surgery
+ list in Bromley, 1992-1994
+
+

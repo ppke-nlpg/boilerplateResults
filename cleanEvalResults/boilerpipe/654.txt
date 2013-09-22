@@ -1,0 +1,29 @@
+<h>eblum@judge.com
+
+<p>Source -- Eden J. Blum (eblum@judge.com)
+
+<p>Updated: February 16, 2006  Book Review: Sharpening Your SAS Skills by Sunil Gupta and Curt Edmonds
+
+<p>Book Review: Sharpening Your SAS Skills by Sunil Gupta and Curt Edmonds
+
+<p>Chapman & Hall/CRC Press: ISBN: 1584885017
+
+<p>This book is worth reading by all levels of SAS programmers but especially for the Beginner up to the Intermediate Levels. You should have some experience using the SAS software before picking up this book. It provides concise explanations, helpful examples and a nice summary section at the end of all six chapters with the added benefit of some comprehensive questions with answers provided at the end of the book.
+
+<p>Another added feature of this book for those who have not used SAS V9 or V8, is a section on the enhancements to these two SAS versions which should be helpful to those who have not had much experience with the new enhancements.
+
+<p>In reading this book, I uncovered a few new features of SAS that I was unaware of and immediately thought of where I could utilize these new features and began employing them in my new code. This book is NOT intended to be a reference manual but the 273 pages can easily be read over several days and is helpful as a refresher course to reinforce your basic knowledge of SAS. It also provides a great presentation and explanation on the PDV which I have not found in other books by SAS users. This is a book worth having in your SAS library to share with the rest of your staff who use the SAS Software.
+
+<p>Charles Patridge
+
+<p>Full Capture Solutions.
+
+<p>Source -- GuptaProgramming@cs.com
+
+<p>SAS is a registered trademark or trademark of SAS Institute Inc. in the USA and other countries.
+
+<p>Last updated: Apr 11, 2006
+
+<p>Copyright © 2000-2006 Wei Cheng. All rights reserved. Please send comments to info@prochelp.com
+
+<p>

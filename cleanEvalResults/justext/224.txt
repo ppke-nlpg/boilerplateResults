@@ -1,0 +1,48 @@
+
+URL: http://www.andyweiser.com/listings
+<p>Fort Lauderdale Homes For Sale,  Residential Real Estate Listings
+  <!--// browserName=navigator.appName; browserVer=parseInt(navigator.appVersion);
+ var clicked = "none"; if ((browserVer >= 3 & browserName ==
+ "Netscape") | (browserVer >= 4 & browserName == "Microsoft Internet
+ Explorer")) version="3"; else version="2"; if (version=="3")
+ { } function rollIn(imgName) { if (version=="3" && clicked !=
+ imgName) document[imgName].src=eval(imgName + "on.src"); } function
+ rollOut(imgName) { if (imgName!=clicked) { if (version=="3")
+ { document[imgName].src=eval(imgName + "off.src"); } } } function
+ rollClick(imgName) { if (version=="3") { if (clicked != "none")
+ { document[clicked].src = eval(clicked + "off.src"); } clicked
+ = imgName; document[imgName].src=eval(imgName + "click.src");
+ } } //--> var scrlStr="Propety Values increase every year. The
+ time to buy is now. " var width=100; var strLen=scrlStr.length;
+ var pos=1-width; function type(){ var type = ""; pos++; if(pos==strLen)
+ pos=1-width; if(pos<0){ for(var i=1;i<=Math.abs(pos);i++) type=type+"";
+ type=type+scrlStr.substring(0,width-i+1); } else type=type+scrlStr.substring(pos,pos+width);
+ window.status=type; setTimeout("type()",99); } 
+
+<p>Fort Lauderdale Realtor
+
+<p>
+ International President's Premier AwardTop One Percent of Coldwell
+ Banker Sales Associates Worldwide
+
+<p>  
+
+<p>Andy's Current Residential Real Estate Listings Click the images
+ on this page for details and pictures of Andy's current Fort
+ Lauderdale Real Estatelistings.
+
+<p> To find the Fort Lauderdale House For Sale, Condominium or Townhome
+ that meets your needs and budget exactly, use Andy'sHome Finderand
+ he will and he will follow up with you soon.
+
+<p> To find the Fort Lauderdale House For Sale, Condominium or Townhome
+ that meets your needs and budget exactly, use Andy'sHomes for
+ sale Search Tooland he will and he will follow up with you soon.
+
+<p>This site has been created and maintained by edesign-usa.com
+
+ To view their portfolio of other winning websites, or to find
+ out how they can benefit your company,
+ e-mail Andy's Webmaster.
+
+

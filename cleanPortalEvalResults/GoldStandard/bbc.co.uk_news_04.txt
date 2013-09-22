@@ -1,0 +1,4 @@
+
+URL: http://bbc.co.uk/news/entertainment_and_arts
+
+<!-- this page contains no article -->

@@ -1,0 +1,99 @@
+<h>1.  Introduction
+
+<p>This paper was intended as a learning experience for the author, in an attempt to better understand the history and development of Object Oriented Programming Languages.  The research involved in this paper began with a variety of papers which dealt with the definition of ``Object Oriented'' and from there spread out into several historic papers on the origins of Object Oriented Programming in Simula and Smalltalk. Further reading involved mainstream reference material on many of the more widely used Object Oriented Languages, in addition to historic documents on their design and development.
+
+<p>Due to time constraints, this paper never achieved the scope that the author had  intended for it, and much of the research done is not reflected in these pages. 1 This paper only attempts to look at the meaning of ``Object Oriented'' as a property of Programming Languages, as well as to examine the history, and features of eight particular Object Oriented Languages.  It is divided into four sections:
+
+<p>Notion of Object Orientedness: Discussion of various authors feeling on OOP.
+
+<p>Some Languages: A look at the history, development, design, and features of predominant OOPLs.
+
+<p>Research References: References used for this research project.
+
+<p>2.  Notion of Object Orientedness
+
+<p>What does it mean for something to be object oriented?  What exactly is an ``Object Oriented Programming Language?''  These are questions that no one can answer very well.  As Tim Rentsch said:
+
+<p>`` ...object oriented programming will be in the 1980's  what structured programming was in the 1970's.  Everyone will  be in favor of it.  Every manufacturer will promote his  products as supporting it.  Every manager will pay lip service  to it. Every programmer will practice it (differently).  And  no one will know just what it is.'' [Rentsch82]
+
+<p>Generally speaking, Rentsch was right not only about the 1980's, but the 1990's as well.  With all the various ``Object Oriented Programming Languages'' and ``Object Oriented Processes'' and ``Object Oriented Basket Weaving'' in the world today, it seems that establishing a clear definition of what it means to be object oriented, is impossible.
+
+<p>It would appear that instead of attempting to find a coherent definition, a better approach is to accept the idea that programming languages, or processes (or widgets) can not ``Be Object Oriented.'' Instead, we should consider object orientedness as a ``notion'' which can be associated with systems, programs, languages, etc...  Or similarly, as a property that something can exhibit.  But just because one facet of a system has object oriented properties, does not mean that the system as a whole (or even other potions of the system) is object oriented.
+
+<p>When dealing specifically with programming, and programming languages, it is important to keep in mind 3 principles:
+
+<p>A design can be Object Oriented, even if the resulting program isn't. [Madsen88]
+
+<p>A program can be Object Oriented, even if the language it's written in isn't. [Madsen88]
+
+<p>An Object Oriented program can be written in almost any language, but a language can't be associated with object orientedness unless it promotes Object Oriented Programs. [Stroustrup91]
+
+<p>But all of this side steps the issue that people ultimately want to understand: ``What makes programming languages object oriented?''  To address this question, consider some excerpts (from an assortment of papers) that attempt to clarify the issue:
+
+<p>`` The first principle of object oriented programming  might be called intelligence encapsulation: view  objects from outside to provide a natural metaphor of  intrinsic behavior. ... It follows that there is no way of  opening up an object and looking at it's insides, or updating  (``smashing'') its state.  What is more important is that the  concept of opening up an object does not exist in the language.''  [Rentsch82]
+
+<p>`` ... a message is a request of what the sender wants  with no hint or concern as to what the receiver should do to  accommodate the sender's wishes. ... This notion, a sort of call by desire, is central to the object oriented  philosophy''  [Rentsch82]
+
+<p>`` ... attributes can be shared by a group while  allowing for individuals within the group to reinterpret some  ``shared'' behavior as it applies to the individuals  themselves. ... The result of allowing individual  variability is that, given something close to what you want,  it is easy to produce exactly what you want by overriding  shared behavior with individual behavior - to adapt''  [Rentsch82]
+
+<p>`` ... the entire thrust of its design has been to supercede  the concept of data and procedures entirely; to replace these  with the more generally useful notions of activity,  communication, and inheritance.'' Alan Kay in  [Rentsch82]
+
+<p>`` If the term ``object-oriented programming language''  means anything it must mean a programming language that  provides a mechanism that supports the object-oriented style  of programming well.''  [Stroustrup91]
+
+<p>`` The basic support a programmer needs to write  object-oriented programs consists of a class mechanism with  inheritance and a mechanism that allows calls of member  functions to depend on the actual type of an object (in cases  where the actual type is unknown at compile time).''  [Stroustrup91]
+
+<p>`` Object-oriented programming: A program  execution is regarded as a physical model, simulating  the behavior of either a real or imaginary part of the  world.''  [Madsen88]
+
+<p>`` ... Such a language should support:
+
+<p>Modelling of concepts and phenomena, i.e. the language  must include constructs like class,type, procedure.
+
+<p>Modelling classification hierarchies, i.e. sub-classing  (inheritance) and virtuals.
+
+<p>Modelling active objects, i.e. concurrency or coroutine  sequencing, combined with persistency.'' [Madsen88]
+
+<p>`` Object oriented programming:  The computing process is  viewed (as described above) as the development of a system,  consisting of objects (components), through sequences of  changing states.''  [Nygaard86]
+
+<p>`` The object-oriented approach combines three  properties: encapsulation, inheritance, and organization''  [Nguyen86]
+
+<p>In addition to the above passages, it is important to keep in mind some items which may (misleadingly) seem object oriented:
+
+<p>`` Object oriented programming is not programming  using a Simula-like class concept, just as structured  programming is not GOTO-less programming.''  [Rentsch82]
+
+<p>`` [Simula...] ... also included many  ``features'' such as INSPECT and IN, which are contrary to the  object oriented philosophy.''  [Rentsch82]
+
+<p>`` Consider a language having an inheritance mechanism  without virtual functions or methods.  Could that language be  said to support object-oriented programming?  I think not...''  [Stroustrup91]
+
+<p>`` Thinking object-oriented does not have to exclude  functional expressions when that is more natural.  Functions,  types and values are in fact needed in order to describe  measurable properties of objects.''  [Madsen88]
+
+<p>To summarize these ideas, we can say that following features are object oriented properties - and that Programming Languages which actively support them, can be associated with object orientedness.
+
+<p>Objects...
+
+<p>No direct access to their components,   or run time type 2
+
+<p>Interact purely by messages, with no assumption of implementation
+
+<p>Object Organization...
+
+<p>Inheritance mechanism to construct an   object classification hierarchy
+
+<p>Not just for code sharing
+
+<p>Must have abstract nodes in hierarchy for   more realistic modeling
+
+<p>Provide potential for individuality in objects
+
+<p>Dynamicly determine (via run time type) correct response   to messages
+
+<p>Programs as Models...
+
+<p>Programs model the development of some planned system
+
+<p>Changing state of system reflected by the changing   state of the objects
+
+<p>Objects can be thought of as acting concurrently
+
+<p>Support for ``non OO'' programming techniques in situations where   they make sense
+
+<p>

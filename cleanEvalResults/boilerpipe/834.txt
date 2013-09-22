@@ -1,0 +1,37 @@
+<h>SLAC        Home | Computing        Home | Visitor Computing | Help
+
+<p>Conference Computing Checklist
+
+<p>Simply notify SLAC SCCS computing support by sending e-mail to conference-comp@slac.stanford.edu if you have an upcoming conference which may have computing needs, and          we will contact you to discuss what is needed.
+
+<p>It is important that conference-comp gets time          to plan your needs with you and mobilize any resources necessary, so please          do not hold off contacting us if you do not yet know the details. The          checklist below is just a reference. If you have doubts as to whether          your conference needs any computing resources, please just notify conference-comp          anyways.
+
+<p> 
+
+<p>Computing at conferences and meetings can be complex, e.g.,
+
+<p>projector set up with a computer (some need network access)
+
+<p>network access for laptops
+
+<p>printing for producing committee reports and papers
+
+<p>visitors not able to log onto SLAC computers to write reports (if conference          is on site)
+
+<p>workstations needed for different purposes and different types of software
+
+<p>database access (databases residing on a server and accessed from web          interface)
+
+<p>etc.
+
+<p>In order for you to plan and implement this properly at conferences,          we need the sponsors of the conference to work with SCCS and other computing          staff at SLAC. We need to plan and work with you on a sensible setup,          so that for a temporary and mobile conference setup, you can obtain the          desired functionality without having to replicate the complex SLAC infrastructure          that you have come to expect at your SLAC office.
+
+<p>Please go over this checklist and send e-mail to conference-comp list so that someone can contact you to discuss this. A secondary purpose          of the checklist is to alert you of the complexities and guide you to          think through the implementation in a timely manner.
+
+<p>SCCS and computing staff from other SLAC departments can provide consulting          to plan the resources needed to meet your needs. To make your conference          computing as easy as possible, you are urged to involve the computing          staff in the planning from the beginning. The sponsors are responsible          to find and fund the resources needed.
+
+<p>We would appreciate if past and future conference organizers will contribute          to this web page to concentrate our experiences. Please send e-mail to conference-comp .
+
+<p>Checklist
+
+<p>

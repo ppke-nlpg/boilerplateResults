@@ -1,0 +1,17 @@
+<h>September 19, 2005 @ 1:29PM - posted by Ken Fisher
+
+<p>Pouring cold water on the Vista graphics FUD
+
+<p>Being hyped about something and reporting it with spirit usually makes good news, but not when reporters spin things into a ridiculous mess. Sadly, that's what has happened in the case of recent comments made by Nigel Page, a strategist with Microsoft Australia. Page pointed out the big graphical change with Windows Vista, namely the move from bitmaps to vectors. Bitmaps are digital definitions of images that are essentially like your TV: tons of little mapped dots, which from a certain perspective, come together as a picture. If you've ever zoomed in on a circle (or been too close to your TV), you've probably seen that in detail, images are not as smooth as they look at a distance. That's bitmaps for you! Vectors, on the other hand, don't use dots and maps to define an image; rather, they use mathematical expressions, which render smooth and gorgeous lines at whatever resolution.
+
+<p>Page, in talking about all of this, apparently said that while 128MB of video RAM would be OK, 256MB would be better, and "I expect that video card memory will go up a lot when Longhorn is released." The full quote follows:
+
+<p>"The GPU will need a plenty of room to operate in Vista. The more memory you put on a video card, the better, really. We want the least dumping back to main memory because that's slower than graphics. If you have 128 MB, that's good; if you have 256 MB, that's better; but I expect that video card memory will go up a lot when Longhorn is released."
+
+<p>This last bit has given some sites the urge to basically blow the entire thing out of proportion. Let's get the fact out on the table: the Longhorn Display Driver Model (LDDM) is a big step forward, and it's going to make a lot of people happy. The one thing it's not going to do is make people with video cards sporting 64MB of video RAM miserable. Such claims are simply out of touch with reality.
+
+<p>First, let's be clear: more RAM is almost always a good thing, up to a certain point. If you have a video card with 256MB, you're a lucky punk. It's hardly a requirement,  though. To claim that "256 MB is a happy medium" is just ridiculous. And Page's claims that video RAM sizes will increase after the launch is like stating the obvious: most shipping RAM configurations increase every year on account market factors.
+
+<p>More importantly, as we've covered more than once before, the graphical experience in Vista will be tiered . Now, how many times will we hear this FUD over the next year or so? And keep in mind that big, scary vector-based display models have been on weaker hardware on OS X for a few years now.
+
+<p>

@@ -1,0 +1,217 @@
+
+URL: http://simon.incutio.com/archive/2005/04/19/useful
+ 
+
+<p>Why the term Ajax is useful 
+
+<p>Software design patterns are useful mainly because they provide a shared vocabulary: rather than discussing the intimate details of a three layered application architecture, we say “MVC”. Rather than describing an object that tracks your progress while looping over a collection, we say “Iterator”. 
+
+<p>The same is true for   Ajax  . While the techniques it describes have been around for years, grouping them under a single term is extremely valuable for raising the level of discussion about them. No longer will we have to explain XMLHttpRequest / hidden iframes / crazy cookie tricks in depth when discussing sites which pull fresh information from the server without reloading the whole page. Instead, we can say “Ajax” and move on to more interesting things. 
+
+<p>Matthew Haughey says it’s   all about marketing  . I disagree; it’s about smarter and more effective conversations. 
+
+<p>Posted   19th April 2005   at 1:15 am 
+
+<p>This is   Why the term Ajax is useful   by Simon Willison, posted on   19th April 2005  . 
+
+<p>Tagged   ajax  ,   jargon 
+
+<p>  View blog reactions 
+
+<p>  Next:  A Firefox observation 
+
+<p>  Previous:  Safari 1.3 has a JavaScript Console 
+
+<p>30 comments 
+
+<p>I agree. This is the age-old case of the IT Department being miffed when Marketing appear to take all the credit. 
+
+<p>Anyway, "Ajax" rolls off the tongue a lot easier than "XMLHttprequest". And it's got a "J" in it. 
+
+<p>   Dean Edwards   - 19th April 2005 01:44 -   # 
+
+<p> Agreed.  
+
+<p>   Adam Michela   - 19th April 2005 03:23 -   # 
+
+<p>"Matthew Haughey says it's all about marketing." 
+
+<p>That's not what he says at all. He's saying that if programmers would drop some of the geek talk (i.e. use the word "Ajax" instead of "XMLHttpRequest") then they'll get more money or praise--or both!--for including it in the apps they develop. You seem to be focussing on his second paragraph when, in the third paragraph, Matt's saying exactly what you think he should be saying, that "it's about smarter and more effective conversations." 
+
+<p>   Richard   - 19th April 2005 03:25 -   # 
+
+<p> I agree. Jesse made a fairly low key blog entry about applying a name to this back in February. He wrote an article about it that got some attention, but beyond that I haven't seen him driving the message, it drove itself. That kind of rocketing success is beyond the realm of shrewdly planned marketing and well into plain luck and good timing. Good on you, Jesse, for getting the knowledge and popularity ball rolling where others of us have tried without success. Now everybody knows about it and has a handy name to call it. I'm still gobsmacked that it continues to hold such novelty to many who claim advanced web programming expertise, however it looks like the attention is attracting some pretty bright sparks.  
+
+<p>   Brent Ashley   - 19th April 2005 03:46 -   # 
+
+<p> My question is how broad do we make the term? I've seen it applied to sites that use DHTML that have no Ajax-esque "features" but still get touted as such (by 3rd parties, not the author). Do we just start using it for   DHTML that doesn't suck  ?  
+
+<p>   David Schontzler   - 19th April 2005 04:01 -   # 
+
+<p>I disagree that the term AJAX is useful. in fact, I believe it is harmful. 
+
+<p> To say that there was previously no single one term for the technique that AJAX describes is incorrect. The term   remote scripting   has been used to describe the concept for a significant amount of time and it covers what AJAX means. The term 'remote scripting' is non-technical in that it does not specify implementation details or the names of specific technologies such as 'JavaScript' or 'XML'. It simply indicates that scripting is happening remotely, which is something that we can gather from the name itself. 
+
+<p>The term AJAX does not relieve us from using technical terms about implementation. The word 'Ajax' itself is jargon and doesn't convey any meaning (other than a cleaning product), unless we know that it is an acronym for "Asynchronous Javascript And XML". Even when knowing this, it is still hard to see what it does. If somebody told me to write something using "Asynchonous JavaScript and XML" I wouldn't know what they were expecting. 
+
+<p>The aim, obviously, is to brand 'Ajax' so that we begin to associate it with the technology, like a brand name. However, I have something against this too. Much like when the term "DHTML" was invented and everybody turned to the search engines (or W3C) for "DHTML 1.0 Specification" (only to be disappointed that there is no such thing), "Ajax" is a new term for existing technologies and does not represent any new capability or technique that isn't available with the technologies we already know the names of such as "JavaScript" and "HTTP". I feel it is misleading to come up with a new brand name to describe existing, established technologies. 
+
+<p>  Ian Hickson   feels a similar way, although he suggests the use of "XML and script" to describe what AJAX means instead of "remote scripting" as I mentioned. 
+
+<p> Thomas Rutter - 19th April 2005 04:32 -   # 
+
+<p> Thomas Rutter sounds correct to me. What was wrong with "remote scripting" for 5+ years? Jesse couldn't do any research? Also, as many have pointed out, "Ajax" is a terrible name because very inaccurate: you don't need the "A" or the "x" (the "x" is actually a bad idea in most cases). Ja?  
+
+<p> stylo~ - 19th April 2005 05:08 -   # 
+
+<p> One thing I forgot to add: "ajax" is tied to one method of transporting data. What about flash remoting, or load/save, let alone iframes et al? "Remote scripting" still covers and explains all of these fine because it explains what you are doing, not how exactly.  
+
+<p> stylo~ - 19th April 2005 05:12 -   # 
+
+<p> I still don't understand why Asynchronous Remote Scripting Environment never got popular support. ;)  
+
+<p>   Alex Walker   - 19th April 2005 05:18 -   # 
+
+<p> My contribution to the naming hubbub, from last month:   One Hundred Words for Snow  .    Why not "remote scripting"? Well, for one, it's 2 words-- seems superficial, but it matters. And, for another, it's boring-- doesn't marshal enthusiasm to toss it around, no mysterious acronym to expand. Not only that, it seems so generic as to be blanched of context.    I'm being kinda facetious, but that doesn't mean it's not true, too. :) It's a bit dumb, but the term's stuck now and curmudgeonly grousing won't dislodge it. "Ajax" caused enough light bulbs to go on over heads and a chorus of "aha"'s loud enough to give it critical mass to make it worth using.  
+
+<p>   l.m.orchard   - 19th April 2005 12:03 -   # 
+
+<p> The term   is   useful, I think that was part of the point of the original article. Interesting how after all of the noise this comes to light.  
+
+<p>Q. Why did you feel the need to give this a name? 
+
+<p>A. I needed something shorter than Ã¢ï¿½ï¿½Asynchronous JavaScript+CSS+DOM+XMLHttpRequestÃ¢ï¿½ï¿½ to use when discussing this approach with clients.  
+
+<p>The article itself and the naming proved to be the catalyst for all of this new stuff we're seeing. It was, unintentionally IMO, the lightening rod that really set things off. 
+
+<p>   Mike P.   - 19th April 2005 12:47 -   # 
+
+<p>Agreed that a short catchy name is useful to further discussion on the subject but think the negative reactions to AJAX come more from a healthy reaction to hype. 
+
+<p>Personally there's a bunch of problems I have with the original article that coined the term AJAX, beginning with the suggestion that there's some magic "AJAX engine" which makes tapping into this "fundamental shift" in web applications a breeze. 
+
+<p>In particular, what I find disappointing is the remark Matthew Haughey makes; 
+
+<p> but the beauty of the term ajax is that we now have an easy way to sell the technology  
+
+<p>From my perspective, there's a question of responsibility here because "AJAX" is by no means ready for mass production or even really anything but adding the odd "neat feature" to a web application, one which will probably behave unexpectedly some % of the time 
+
+<p>There's a whole bunch of issues, beginning with   when to use AJAX   to treating a Javascript interpreter as a   serious runtime environment  , how to write   serious Javascript  , security issues (what haven't we thought of?) and   reliable messaging  . And that's just a start. 
+
+<p>May be a cynical (or even hypocritical) point of view but perhaps it's time to to be a little more mature about buzzing a technology that isn't ready to "sell" to anyone but other nerds. Ultimately it's a question of trust (or loss thereof) from those paying the bills. 
+
+<p>   Harry Fuecks   - 19th April 2005 14:26 -   # 
+
+<p>#1 on the   Cluetrain Manifesto  :   Markets are conversations. 
+
+<p>You and Matt can both be right. 
+
+<p>   Joshua Porter   - 19th April 2005 14:51 -   # 
+
+<p> I think the recent hype can be attributed to the name, it just makes it easier to discuss.  
+
+<p>   Hanni   - 19th April 2005 17:12 -   # 
+
+<p> I think Harry's spot on about the natural reaction to the ill whiff of hype. A further issue not mentioned here yet is the questionable status of the "X." I have yet to find a situation in which is was necessary (or even desirable) to use XML with XMLHttpRequest. Instead I generally pass javascript object or array literals, which don't need to be parsed, of course, and don't have to be packaged as XML in the first place. Maybe I'm just not making complex enough implementations yet...  
+
+<p> Chris Feldmann - 19th April 2005 18:18 -   # 
+
+<p> Chris,  
+
+<p> Actually, you may not be having that need because you're controlling both the request and the response. If you ever need interop between different parties, XML might help.  
+
+<p> But since requests are limited to same-domain, this seems unlikely to occur in practice.  
+
+<p> Jeremy Dunck - 19th April 2005 19:27 -   # 
+
+<p> I may be mistaken, but I think what Simon is trying to point to is the usefulness of a new term as an abstraction. The new term comes to represent something at a higher level of consciousness than can be achieved by a lengthier, more detailed (even if more specific or accurate) equivalent. As an abstraction, it can be introduced into a new context in a way that couldn't easily be done before. This is how ideas evolve through language. AJAX may or may not be the best possible new term, but it seems to have already taken on a life of its own so it's probably a moot point.  
+
+<p>   Lynne Martin   - 19th April 2005 20:47 -   # 
+
+<p> "I disagree; it's about smarter and more effective conversations." Which, according to Cluetrain, *is* good marketing, no?  
+
+<p>   Chris L   - 20th April 2005 07:32 -   # 
+
+<p>Lynne: that's exactly what I was trying to say. The term Ajax is simply an extremely useful abstraction. 
+
+<p>   Simon Willison   - 20th April 2005 13:08 -   # 
+
+<p>I think when Matthew says it's about marketing, he's right, and that's the biggest reason I dislike the term. If it was really just about enabling developers to communicate with each other easily I wouldn't be (as) opposed to the name. However, the primary effect of creating the term, and (IMO) the goal behind it's introduction, is to give buzzword happy clients a new checkbox to ask for when they spec out a site, and web developers a new option to tack an price onto the project they are working on. 
+
+<p>If you are a developer who likes to make money this way, then I suppose that's good for you, but to me, that seems like an unscrupulous way of doing business. I don't want a client to tell me he wants to use AJAX on his site because he read about it online, I wan't him to tell me his goals for the site. And I don't want to tell him that I'm going to use AJAX to implement a feature on the site, because he doesn't care (or if he does, he only cares because he heard it was cool somewhere, but doesn't know what it means) I just want to tell him what will happen when a user does X action, because that's what he really cares about. 
+
+<p>And therin lies the crux of the issue. By giving the technology a flashy name, you are encouraging clients to be concerned about implementation details, which they shouldn't be. The client should only be concerned about what his website does. The developer can then make the appropriate decision whether some form of asynchronous interaction is necessary to implement a feature, and how to implement that interaction. 
+
+<p>Beyond that, I also have some more pedantic objections to the term. First, I think the knee-jerk reaction to a lot of people who have been using similar technologies for years was 'Who the heck is Adaptive Path that they get to make up a name for something I've been doing forever?' If it was at least Google, who was the first to use the concept in a way that gained widespread recognition, I think people whould have been a little more accepting. Second, the name itself isn't in any way descriptive, and the acronym, if you atually bother to figure out what it stands for, is downright inaccurate for ~98% of implementations. 
+
+<p>   Drew   - 20th April 2005 18:55 -   # 
+
+<p> Drew - I share your pedantic objections, but they aren't bug enough problems for me to reject something that has obviously struck a nerve with the development community at large. I also don't see Ajax as just an implementation detail - the ability to load new data from the server without reloading the entire page is a huge leap forward in that it enables dramatically different interfaces. Google Maps is the perfect example. Sure this stuff has been possible for years, but (most) people have only started to understand its potential in the past couple of months.  
+
+<p>   Simon Willison   - 20th April 2005 23:53 -   # 
+
+<p> I agree about a key value of design patterns being in the definition of terms. I know that this isn't directly related to your point, but I don't think that AJAX itself is a pattern, I think its more of a technique. Personally I think that AJAX can be decomposed into several smaller patterns. Some   background on my thoughts  , and my latest   draft notes   on a pattern analysis for browser based intermediaries. I'm not particularly wedded to any of the names, so comments very welcome. The aim is to describe at a more fine-grained level what patterns are in use when creating these kinds of tools.  
+
+<p>   Leigh Dodds   - 21st April 2005 10:05 -   # 
+
+<p>Simon: If it was a term that described, as you say, "the ability to load new data from the server without reloading the entire page" then I think there may be less people who have a problem with it. It's the way that it specifies Javascript and XML, so because I've been doing my remote scripting without using XML the term Ajax doesn't apply to me, which implies that my way must be inferior and not The Right Way. 
+
+<p>An acronym brings authority to a technique, especially amongst people who don't know how to do it themselves. If someone asks me if Ajax is behind their fancy feature, and I say 'no, my way is better here', it makes it likely that they will assume that I'm incompetent and that my method is dodgy, purely because there isn't an umbrella acroynm for remote scripting - the fact that the technique I use is widespread becomes irrelevant. 
+
+<p>I agree that it would be useful to have a more pithy descriptive term than remote scripting, but Ajax is not that term. Ajax describes using javascript and XML to do remote scripting, and in doing so it unconciously implies that Ajax is the only way to do it; this is too small a corner of web dev to be home to acronyms for every implementation. 
+
+<p>   radiac   - 21st April 2005 11:45 -   # 
+
+<p>To anyone but those with detailed scripting knowledge, Ajax means "that thing that allows those webheads to build neat UIs". At one gig, I used to keep an xml representation of some data handy for the sole purpose that when one of the investors came by and asked me if we were using XML, I could load it into IE and expand and collapse the nodes and they'd walk away impressed, confident that we were using cutting edge XML technology. These are the people who need the term Ajax most. They are the same people who needed the terms DHTML, B2B, P2P, yadda yadda.  
+
+<p>We nerds need the term Ajax too because it has just enough ambiguity to it that when we meet another nerd we can impress them with our disdain for everyone else's misunderstanding of it and regale them with our own slightly different but demonstrably superior technique and long history of being ahead of the curve and how we used to have to remote-script two miles to school each day in the snow. 
+
+<p> For those who contemplate using XML for encoding and marshalling with less regard to envelope size and more to abstraction, the logical endpoint to this may be to simply use a Javascript/XMLHTTP SOAP or XML-RPC implementation and use those already well established and robust services on the server side rather than inventing all sorts of Ajax wheels on both sides of the divide.  
+
+<p>   Brent Ashley   - 21st April 2005 21:50 -   # 
+
+<p>I agree with Thomas Rutter. Firstly, 'ajax' means nothing to me. I've used HTTPXMLRequest and heard of remote scripting, but when Simon first mentioned 'ajax' my eyes brushed over it. It seemed to have no connection with any technology I was familiar with. 
+
+<p>Like Thomas points out, 'ajax' is not a standard - hence Googling for it will merely result in a number of irrelevant results, and a smattering of blog entries. It is just a new jargon word. In fact it's   worse   than most jargon in that it conveys no intuitive meaning. 
+
+<p>   Chris Beach   - 24th April 2005 00:06 -   # 
+
+<p>Ajax isn't a great term -- the letters stand for specific technologies, which will change.  
+
+<p>Maybe it's just me, but I sense there's something more here that just a hodgepodge of hip new libraries. And yet I cannot differentiate Ajax from an ordinary user agent that has extra scripting. 
+
+<p>People say Ajax is about indirection and intermediaries, and multiple HTTP requests behind the scenes -- but an ordinary web browser already does all that! 
+
+<p>   Neil Kandalgaonkar   - 24th April 2005 08:19 -   # 
+
+<p>I have to say you nicely confuse n-tier an MVC there ;) A good example when acronyms are misunderstood (well, maybe Simon hasn't misunderstood, maybe I'm a pedant, or *I* have misunderstoon). 
+
+<p>As I see n-tier applications this means multiple layers of the application that interface with each other in a protocol stack kind of way. Each layer builds on the lower one, allowing one layer to be ripped out and replaced. Typical n-tier is a 3 tier db-middleware-gui split, typical 2 tier is just server-gui where the server and db are very tightly coupled. We can get a 3.5 tier app db-business logic-facade interface published via some form of rmi-client (3.5 as arguably the facade/rmi interface could be seen as middleware/gui). 
+
+<p>MVC is often used in a n tier application, but you can have MVC in a 2 tier application (the model can be in memory, no need for a database/persistance layer), MVC is having a request processor (controller), which acts on the model, and then the controller updates the view. 
+
+<p>I don't like this AJAX acronym. As someone who has never developed an XMLRequest app, and is unlikely to in the near future, if someone said Ajax to me I would think they are talking about some   cleaning product  , not HTTPXMLRequest used for data requests. I don't think an acronym is needed here, plenty of good arguments why not. 
+
+<p> Mark Swanborough - 25th April 2005 11:48 -   # 
+
+<p> Personally there's a bunch of problems I have with the original article that coined the term AJAX, beginning with the suggestion that there's some magic "AJAX engine" which makes tapping into this "fundamental shift" in web applications a breeze.  
+
+<p> Actually, there is such a "magic AJAX engine", at least for ASP.NET. It's the   MagicAjax.NET   framework.  
+
+<p> Argiris Kirtzidis - 30th November 2005 14:42 -   # 
+
+<p>AJAX? BS marketing term. 
+
+<p>XMLHttpRequest too long? Just use XHR 
+
+<p>But heck, I even have issues with the name XMLHttpRequest. It was basically chosen (by MS I believe) to pander to marketing.   Doesn't anyone realize that XHR exists completely independently of XML and that even that function name is terribly inaccurate??!? 
+
+<p>It's just one frickin' Javascript object which should have been available way back in the 90s and is   best named HTTPRequestObject()  .  
+
+<p>I agree though that just because AJAX is one biatch-ugly name doesn't mean I won't be using it when talking to marketing types. But please, when we techies discuss this XHR-enabled capability amongst ourselves, we should make an effort to think up of a more technically decriptive term. Inappropriate names hinder learning. 
+
+<p> Jon P - 2nd February 2006 09:34 -   # 
+
+<p> Of course it's all marketting... Look at "Firewire" vs "IEEE1394" What gets annoying though is when clients say "Must use AJAX" simply because it's the buzz word of the moment. Reminds me of a friend of mine who was so happy she got a phone with "Bluetooth". A few weeks later she asks "What is this bluetooth thing anyway and what can i use it for?" Yep. it's all marketting.  
+
+<p>   John Cox 

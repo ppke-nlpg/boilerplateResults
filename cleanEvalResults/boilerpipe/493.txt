@@ -1,0 +1,95 @@
+<h>Computer - PLC    communications
+
+<p>Original RS232 standard
+
+<p>The original RS232 standard was developed about 40 years ago and specifies that the maximum baud rate is 19,200 and the maximum cable length is 50 feet.  While that may have been good 20 years ago -- it's too short and slow today!  Although today's computers are clocked to support much higher baud rates -- technically you need to be careful.  You also need to be careful about using long cable lengths.  Many people have gotten 100 foot cables to work, the question is reliability.  If we are using good quality cable and connectors and have error detection built into the protocol then we might go over the 19,200 and 50 foot limits.  Errors will be detected and we'll know how much of a problem it is.  Otherwise we'll stick to the limits to minimize our risk or use RS422 or RS485.  
+
+<p>RS422 and RS485 use a balanced line approach that eliminates many problems with RS232.  For example Profibus is based on RS485 and Profibus runs at speeds up to 12 Mbaud (625 times faster than 19,200 baud).  The problems with RS422 and RS485 is that the set-up is more difficult: you have to use more expensive cable (for proper impedance and capacitance), properly terminate the ends of the cables, set addresses, etc.  But the advantages are longer cable lengths, higher baud rates, and multiple devices share the same communication network.  
+
+<p>If you want to learn more about the RS232, RS422, and RS485  click here and click here .  
+
+<p> 
+
+<p>It does not take much to run and test these examples:
+
+<p>One computer with two serial ports or two computers with one serial     port each
+
+<p>A serial cable (typically 9 pin female to 9 pin female) and null modem     adapter (or null modem serial cable)
+
+<p>If you want to test RS485 then you will need two or more RS485 converters 
+
+<p>B&B Electronics and Black Box are two favorites for serial communications.  These two websites  also have tutorials about serial communications.  B&B Electronics products  usually cost less but Black Box usually has higher quality.  So for demos,  training, testing purposes we typically use B&B equipment.  For actual  installations we typically use Black Box.  (We want to minimize risk and  those calls in the middle of the night).  In all fairness to B&B  Electronics, if you buy their products and all the separate options  (isolation, surge protection, etc) that may be built-in to the Black Box  equipment then you are at about the same price and quality  as Black Box.  You can usually find serial cables, 9 and 25 pin connectors, null modem adapters, tools, and gender changers at your local Radio Shack, computer store or order on-line.  
+
+<p>Connection problems
+
+<p>There are typically three problems that you will experience while trying to connect serial devices:
+
+<p>25 pin or 9 pin connectors
+
+<p>Male and female connectors and cables
+
+<p>DCE and DTE
+
+<p>The RS232 standard started out with a 25 pin connector.  Most RS232 connectors today are 9 pins.  Try to work with 9 pin connectors when ever possible so convert 25 pin connectors to 9 pin connectors using 25 pin to 9 pin adapters.  
+
+<p>The second thing that will mess you up is whether the connectors are male or female (pins or sockets).  Therefore it helps to have an assortment of gender changers (male to male, female to female).  (Please -- no e-mails -- I'm not making any of this up).  Gender changers come in both 9 pin and 25 pins.  If you have changed everything from 25 pin to 9 pin then you won't need many 25 pin gender changers.  
+
+<p>The third problem is DCE & DTE.  If two serial ports both transmit on pin 2 and receive on pin 3 (i.e. they are both DTE) and you plug in a straight through serial cable then you will transmit into the transmit pin (not the receive pin) on the other end and the other device can't receive the  data.  That is what null modem adapters are for.  Null modem adapters swap the wire connections on pins 2 and 3 (and also the handshaking lines) so that the transmitter (pin 2) goes into the receiver (pin 3) of the other device.  During the design phase you could worry yourself about this or you could just carry null modem adapters to the installation site with you.  Plug in the serial cable.  If it does not work then insert the null modem adapter and then see if it works.  Note that you can buy serial cables either straight through or null modem (crossed).  
+
+<p>Another trick to is to buy 9 pin RS232 to RJ45 (modular connector) adapters and then use regular Ethernet cable to connect the adapters.  
+
+<p>Most RS422 and RS485 connections are done using screw terminals.  Therefore you don't have to worry about gender changers and adapters.  
+
+<p> 
+
+<p>Getting Started
+
+<p>The first step is to get connected and test out all the low level stuff: cables, serial port hardware, serial port drivers, interrupt conflicts, etc.  The best way to do this is to attach the serial cable between two computers and run the HyperTerminal communications program that comes with Microsoft Windows (Start, Programs, Accessories, Communications, HyperTerminal).  You run the HyperTerminal program on both computers and should be able to type messages into the main text box and see them appear on the other computer.  You can also send text files from one computer to the other.  You can create small text files to send using Notepad.  Just open Notepad type in some text and save the file.  Note that in HyperTerminal you will have to specify the connection to be direct to COM1, COM2, ... whatever serial port you plugged the cable into.  We would initially set the communications parameters (on both computers) to 9600 baud, no parity, 8 data bits, 1 stop bit.  
+
+<p>If this does not work then try the following:
+
+<p>Try inserting the null modem adapter
+
+<p>Check computer's setup to see that the serial port is enabled and what     COM port (1, 2, 3, 4, ...) it is configured for (hint: COM1 is address 3F8     hex and IRQ4, COM2 is address 2F8 hex and IRQ3, COM3 is address 3E8 hex and     IRQ4, and COM4 is address 2E8 hex and IRQ3).  
+
+<p>Check to make sure that infrared (IR) communications is not enabled on     that COM port
+
+<p>Check to make sure that other devices are not interfering with that COM     port and the interrupt is not being used.  For example if you are     trying to use COM1 and a modem is trying to use COM3 and you are both     using interrupts then one or both programs will not function     correctly.  
+
+<p>Handshaking
+
+<p>"Handshaking", when talking about serial communications, is how one        device tells another device that it is ready to receive data.  There        are several layers of handshaking.  There are the Data Terminal Ready        (DTR) / Data Set Ready (DSR) lines that indicate the other device is        plugged in, powered up and is present.  Then there is Request To Send        (RTS) / Clear To Send (CTS) which indicates that the receiver has room in        it's input buffer and is ready to accept data.  Third, there is XON        and XOFF.  XON and XOFF are a method that one device can use the        serial link to tell the other device to stop sending and then when to        start sending again. 
+
+<p>Suppose that there are two serial devices, A & B.  Let's say that        device A is a Pentium 4, 3 GHz with hyperthreading, lot's of memory and        doing very little work.  It can transmit and receive very fast.  But device B is a special device with a CPU that is having to do a lot of        other things and find time for serial communications.  Also, device B        might have a small receive buffer.  So if device A were transmitting        to device B then device A could transfer data much faster than device B        could receive it.  So device B would use handshaking to tell device A        when to stop sending and then when to restart. 
+
+<p>RTS/CTS are hardware and require wires to carry these signals between        devices.  XON/XOFF are special characters sent over the serial link        and do not require additional wires.  XOFF is the character CTRL-S        (ASCII code 19) and XON is the character CTRL-Q (ASCII code 17).  For        example, if you connect two computers with a serial cable and are able to        type characters on one computer and see the characters appear on the other        computer -- press CRTL-S (XOFF) on one computer to stop communications.  Type on the other computer and you should see that the characters are not        transmitted.  Once you press CTRL-Q (XON) the characters should show        up because they were held at the transmitting computer until XON was sent        by the receiving computer. 
+
+<p>What if one device requires hardware handshaking and the other device        can not supply it?  You must "jumper out" the hardware handshaking        lines by wiring the RTS/CTS lines together and the DTR/DSR lines together.  Note that some serial ports that use DTR & DSR also use Carrier Detect        (CD) and will want the CD line tied into the DTR and DSR lines. 
+
+<p> 
+
+<p>NOTE
+
+<p>Visual Studio 2005 will include a new namespace called "Ports" and a new class called "SerialPort".  Read all about it here:
+
+<p>VS 2005 is still in beta so you can download the beta        and play with it or wait till early in 2005 to get the released product. 
+
+<p> 
+
+<p> 
+
+<p>Writing Code
+
+<p>Visual Basic 6 provides, free of charge, the MSComm control with Visual Basic.  This allows the programmer to quickly and easily configure the COMM serial port and then read and write data. 
+
+<p>The .NET framework does NOT have a control built-in for serial communications!  I guess us serial programmers just aren't cool enough for the developers of NET.  Well those guys can take their serial ports and ... Oh wait a minute.  In  the 101 VB.NET & C# examples that you download they wrote a serial port class and  give you the source code to learn from!  Cool.  This class is  essentially a wrapper (we forgot what the "official term" for wrapper is in  .NET)  for operating system API calls -- but very, very educational.  Problem is  that this example has some bugs in it.  For an updated version, we suggest  you check: 
+
+<p>Corrado Cavalli's serial  communications source code at www.CodeWorks.it
+
+<p>We view Corrado's code as the best "open source" .NET serial communications  source code because Corrado keeps updating it. 
+
+<p>NOTE that you could use the old MSComm ActiveX control with .NET programs.  However, this defeats the whole purpose of .NET managed code and XCOPY  deployment since you would have to register the MSComm control on every computer  you installed the software on (instead of simply copying the code). 
+
+<p>As of April 2004, Corrado, in our humble opinion, is not done.  So to  fully understand everything, you will need to do a lot more reading:
+
+<p>

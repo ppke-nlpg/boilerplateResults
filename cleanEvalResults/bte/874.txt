@@ -1,0 +1,101 @@
+
+URL: http://news.com.com/Gates+sees+big+dollars+in+little+devices/2008-1016_3-5701477.html
+ Newsmaker:  &nbsp; Gates sees big dollars in little devices 
+
+<p> Bill Gates says cell phones have yet to catch up to the power of his company's software.  
+
+<p> By   Ina Fried   Staff Writer, CNET News.com 
+
+<p> Published: May 10, 2005, 9:00 AM PDT  
+
+<p>  See all Newsmakers 
+
+<p>   TalkBack  E-mail  Print  del.icio.us  Digg this 
+
+<p>   Bill Gates doesn't think his company has been slow to crack the cell phone market. He just thinks the little devices have yet to catch up to the power of his company's software. 
+
+<p>Still, with cell phones quickly gaining the power PCs had not that long ago,   Microsoft's chairman   sees a bright future, in which the company's operating system can quickly gain share from Nokia and others that run rival software. 
+
+<p>  Gates   spoke to CNET News.com on the eve of a speech announcing Windows Mobile 5.0, the next version of Microsoft's operating system for handhelds and cell phones. In the chat, Gates outlined the company's mobile strategy, explained why Microsoft is steering clear of the portable-game market (for now) and described why he's happy that Microsoft is an underdog, for a change. 
+
+<p> The richness of software on mobile devices is just at the beginning. We see certainly a decade's worth of work where mobile devices can get richer and richer.  
+
+<p>  Q: Microsoft has been trying to crack the mobile-device market for some time. What makes this market so important?  Gates: Essentially, you find us in every device where software makes a big difference; Microsoft comes in and sees how we can make a contribution.  
+
+<p>The mobile space, there are so many neat things that can go on if--for example--you use Outlook and our phone, if you use Office and a phone, if you use our mobile format and a phone. The richness of software on mobile devices is just at the beginning. We see certainly a decade's worth of work, where mobile devices can get richer and richer.  
+
+<p>  Microsoft did get off to a fairly slow start in the handheld and phone arenas. Why do you think that was?  Gates: If you take the handheld space, I wouldn't say we were slow there. It depends on if you have this expectation that we always get some gigantic market share overnight. We don't really have that expectation of ourselves except over a very long period of time.  
+
+<p>We also bet on the hardware growing into what we are doing with the software...If the primary thing that people are doing is not data-oriented, our software--anybody's software--can't make that much difference. It's really only as data browsing, e-mail and media and software applications have come in and become very important on the phone that people are seeing the uniqueness of what we are offering.  
+
+<p>If you look at this two years ago, we basically had Orange, in Europe, shipping our devices. If you go back three years ago, we had nobody shipping any phones from us...Now, even before we were shipping...Windows Mobile 5.0, (we have signed with) 68 operators in 40-plus countries. We'd expect with Windows Mobile 5.0, between now and the end of the year that we'll expand that. Still, as a percentage of the market, compared to, say,   Nokia  , we're a small percentage. We expect our percentage to grow at quite a healthy clip. 
+
+<p>  We're seeing some interesting intersections of cellular and other wireless technologies. Where do you see Wi-Fi fitting into the cell phone world?  Gates: One of the technological things we've done with the 5.0 platform is to make it easy for our hardware partners to plug in different radio stacks. This is the first time we've had a partner building a 3G (  third-generation  ) phone around our software.  
+
+<p>We also support Bluetooth, Wi-Fi. We have a number of partners who have talked with us about building phones that support both wide-area wireless and support Wi-Fi. It's up to them to announce how they are going to offer and price those products, but a number of operators are building those products. 
+
+<p> A good place to start is having the (cell phone) operators like you.  
+
+<p>  Microsoft has crafted a lot of deals in the mobile world in recent months, in many cases partnering in one area with a rival from another area--companies like Symbian, Nokia and PalmOne and RIM (Research In Motion) with a recent mobile instant-messaging deal. What is the strategy?   Gates: One is for us, by ourselves, to come out with new features. We do a vast amount of that. The second thing we do is take scenarios that require devices working together and participate in licensing or the creation of standards.  
+
+<p>For example, in the case of   music  , music on the phone will be a very big scenario, both phones with solid-state storage or, eventually, disk-based storage. We took our Windows Media format and said let's make it available and very inexpensive. We hope that makes the music scenario grow up on the phone. We did license that to Nokia and others. Likewise, the whole scenario of mail on the phone is one we think has also been a little complex. 
+
+<p>  You have the IM group having to deal with Research In Motion, and obviously they are a competitor to Windows Mobile in doing Exchange on mobile devices. Similarly, PalmOne right now runs the rival Palm operating system, but Microsoft has crafted a deal so it can run your ActiveSync technology. It seems like a lot of different strategies.   Gates: Everything we do along these lines, certainly I'm involved in making sure we are coherent in how we do those things. Take our media formats--we've been licensing those to everyone in sight. Having some of the key technologies be available elsewhere drives those scenarios to critical mass. What the Windows Mobile team does then is make sure they've got the best implementation. I can say with great confidence, even where we're licensing out all that technology very inexpensively, our share within this industry is going to grow quite significantly. 
+
+<p>   Related story  Gates takes aim  at H-1B restrictions  Microsoft chairman comes  to Washington to offer  scathing critique of  immigration rules. 
+
+<p>   You've talked about a willingness to partner with competitors where you can to drive the industry. Is there more room for partnership with Linux vendors? I understand that (Microsoft CEO) Steve Ballmer met with (Red Hat CEO) Matthew Szulik at the end of March. I'm curious if that relationship is evolving.   Gates: We're always talking to people about standards, like Web services standards or how we get systems to work better through interoperability. I don't think you can say anything about the open-source community as a whole because there are so many different players in there with so many different products. There is  
+
+<p>   CONTINUED   Page   1   |   2 
+
+<p>   TalkBack  E-mail  Print  del.icio.us  Digg this 
+
+<p>&nbsp; 
+   More Newsmakers 
+
+<p>&nbsp;5&nbsp;comments 
+  Post a comment 
+
+<p>TalkBack 
+
+<p>  More Like domination 
+
+<p>Terrance Laird&nbsp;   May 15, 2005, 10:21 PM PDT 
+
+<p>  Keep MS out of my cell phone!!!!!!!!!!!!!! 
+
+<p>Earl Benser&nbsp;   May 11, 2005, 2:31 PM PDT 
+
+<p>  Rich, Richer, Richest 
+
+<p>Stating&nbsp;   May 10, 2005, 4:31 PM PDT 
+
+<p>   &nbsp;Read more comments&nbsp;&gt; 
+
+<p>   Related stories 
+
+<p>From News.com Extra 
+
+<p>   Get more news around the Web with News.com Extra &gt; 
+
+<p>Resource center   from News.com sponsors 
+
+<p>Aligning CIO & CEO visions 
+
+<p>What CIOs need to know 
+
+<p>It's a simple truth. The closer you and your CEO see things, the greater your chance for success. Our exclusive report can help you get there&mdash;and help your business grow. Get the report featuring the views of 765 CEOs on innovation. 
+
+<p>  learn more 
+
+<p>   What CEOs think: Innovation Insights for CIOs   Learn How CIOs can deliver strategic success for their enterprises 
+
+<p>   The New CIO: Beyond Technology   Learn how CIOs become heroes 
+
+<p>   Podcast: Chris Gorog of Napster   Learn about the impact of technology in strategy execution 
+
+<p>   The future of the Enterprise   Read more about tomorrow's organization 
+
+<p>   CIO Vision Series:Innovating within a retail industry disrupted by the Web   Video: CIO of Virgin Entertainment Group, Robert Fort 
+
+<p>   CIO Vision Series: Innovating around social search  

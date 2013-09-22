@@ -1,0 +1,203 @@
+
+URL: http://www.jeffcomo.org/main/jobs.html
+<p> <!--- Begin var months=new Array(13); months[1]="January"; months[2]="February";
+ months[3]="March"; months[4]="April"; months[5]="May"; months[6]="June";
+ months[7]="July"; months[8]="August"; months[9]="September";
+ months[10]="October"; months[11]="November"; months[12]="December";
+ var time=new Date(); var lmonth=months[time.getMonth() + 1];
+ var date=time.getDate(); var year=time.getYear(); if (year <
+ 2000) // Y2K Fix, Isaac Powell year = year + 1900; // http://onyx.idbsu.edu/~ipowell
+ document.write("<font size=1><right>" + lmonth + " "); document.write(date
+ + ", " + year + "</right></font>"); // End --->    
+
+<p>Positions available throughout the entire county government will
+ be updated to this page routinely. For the most up-to-date listing,
+  contact the Jefferson County Human Resources Department. 
+
+<p> Please note that the employment applications available on this
+ page are PDF documents. Adobe Acrobat Reader (4.0 or more recent
+ version) is required to view PDF files. To download the free
+ Adobe Acrobat Reader from the Adobe web site, click on the logo.
+ 
+
+<p>Animal Control Kennel Laborer IIDivision of Animal ControlDepartment
+ of Land Use, Development and Code Enforcement$19,739 to 22,011
+ Annually
+Depending on Qualifications
+
+<p>POSITION SUMMARY:
+
+<p>Performs labor work cleaning and sanitizing kennels and general
+ grounds maintenance, which includes grass cutting, weed trimming,
+ trash pickup and snow and ice removal. Cleaning duties include
+ general sweeping, mopping, disinfecting and scrubbing of the
+ Animal Control facilities and kennels that become unsanitary
+ or offensive to the public. 
+
+<p>
+ Assists public as necessary, as well as officers in removing
+ animals from vehicles and putting them in cages, animal intake
+ processes and record keeping, and with adoption processes including
+ handling of animals for viewing and application completion.
+
+<p>MINIMUM QUALIFICATIONS:
+
+<l>High School Diploma or Equivalency 
+
+<l>Animal handling techniques helpful 
+
+<l>Red Cross Pet First Aid Training desirable 
+
+<p>KNOWLEDGE, SKILLS AND ABILITIES:
+
+<l>Knowledge of simple, routine or repetitive tasks, operations
+ and skill to operate simple equipment that operates repetitively,
+ such as lawn mower, weed eater, tools commonly used in carpentry
+ and construction, and housekeeping. 
+
+<l>Ability to lift, carry and push moderately heavy objects and
+ materials, 50 to 75 pounds, such as dogs and other animals.
+ 
+
+<l>Ability to walk on undeveloped properties and uneven pavements.
+ 
+
+<l>Ability to recognize and identify similarities or differences
+ between colors, shapes, and sounds such as identifying animal
+ body language signals and sounds of distress. 
+
+<l>Ability to work well with others, and to represent the County
+ in a professional manner. 
+
+<l>Must have good oral and written communication skills and the
+ ability to resolve problems with tact and diplomacy. 
+
+<p> The Division of Human Resources will receive applications from
+ internal candidates until Wednesday, December 13, 2006. External
+ applications will be accepted concurrently and will be considered
+ if not filled by an internal candidate. 
+
+<p>Electrical InspectorBuilding DivisionDepartment of Land Use,
+ Development and Code Enforcement
+
+<p>Depending on Qualifications
+
+<p>POSITION SUMMARY:
+
+<p>Performs on-site inspection of all new construction and renovation
+ projects requiring building permits to ensure compliance with
+ county building ordinances and state laws and regulations. Evaluates
+ drawings, plans, blueprint; reviews building permit applications
+ for compliance with county building codes and approves acceptable
+ applications. 
+
+<p>MINIMUM QUALIFICATIONS:
+
+<l>High School Diploma or Equivalency and trade school certification;
+ or 
+
+<l>Associates Degree in building technology or related field. 
+
+<l>Requires five (5) years of experience as an electrician. 
+
+<l>Must be able to be certified for 1 and 2 family dwellings as
+ electrical inspector within 6 months. 
+
+<p>KNOWLEDGE, SKILLS AND ABILITIES:
+
+<l>Must have good oral and written communication skills. 
+
+<l>Ability to read and interpret plans, drawings and blueprints.
+ 
+
+<l>Ability to understand, interpret and apply county building codes
+ and zoning ordinances and BOCA codes. 
+
+<l>Ability to detect county code violations and deviations from
+ approved plans. 
+
+<l>Ability to work independently and to carry out assignments to
+ completion with minimal instruction, adhere to prescribed routines
+ and practices, maintain records, and to make reports requiring
+ detail and accuracy. 
+
+<l>Ability to work well with others and to assist the public cooperatively
+ and courteously. 
+
+<p> The Division of Human Resources will receive applications from
+ internal candidates until Monday, November 20, 2006. External
+ applications will be accepted concurrently and will be considered
+ if not filled by an internal candidate. 
+
+<p>Responsible for providing direct and appropriate care to the
+ juvenile residents placed with Jefferson County Children's Home
+ in accordance with established policies, procedures and guidelines
+ to ensure the rights and privileges of the juvenile residents
+ are not abridged in any manner. Performs routine housekeeping
+ duties as directed; maintains and generates log entries' reports
+ and all other documentation as required by policies, procedures
+ and guidelines. 
+
+<p>MINIMUM QUALIFICATIONS:
+
+<l> High School Diploma or Equivalency 
+
+<l> Must be 21 years of age or older 
+
+<l> Experience in working with youths (professionally or volunteer
+ basis) preferred 
+
+<p>KNOWLEDGE, SKILLS AND ABILITIES:
+
+<l> Must possess good communication and problem solving skills.
+ 
+
+<l> Ability to perform routine housekeeping duties 
+
+<l> Knowledge of basic computer skills 
+
+<l> Must be available to work evening, midnight and weekend schedule.
+ 
+
+<p> The Division of Human Resources will receive applications from
+ internal candidates until Friday, March 3, 2006. The position
+ will be open for outside applicant consideration after this
+ date. 
+
+<p>Type a variety of documents, often legal in character, working
+ from rough draft. Scan documents into document imaging program.
+ Organize and compile files; run criminal histories. Assist with
+ receptionist duties, and other miscellaneous clerical duties.
+
+<p>KNOWLEDGE, SKILLS AND ABILITIES:
+
+<l>Knowledge of business English, spelling and to make arithmetic
+ computations. 
+
+<l>Knowledge of office practices and procedures and record keeping
+ methods. 
+
+<l>Must have good oral and written communication skills and the
+ ability to resolve problems with tact and diplomacy. 
+
+<l>Ability to maintain moderately complex clerical records and to
+ prepare reports from records and to check for accuracy. 
+
+<l>Ability to make routine decisions in accordance with procedures,
+ laws and regulations and to apply these to work problems. 
+
+<l>Strong computer skills and knowledge of Microsoft Office essential.
+ 
+
+<l>MINIMUM QUALIFICATIONS:
+
+<l>High School Diploma or Equivalency 
+
+<l>One year of experience in a legal environment. 
+
+<p> The Division of Human Resources will receive applications from
+ internal candidates until Friday, December 15, 2006. The position
+ will be open for outside applicant consideration after this
+ date. 
+
+

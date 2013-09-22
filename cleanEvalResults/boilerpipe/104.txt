@@ -1,0 +1,251 @@
+<h>Jun 03, 05 - 09:09 am
+
+<p>"Macintosh owners buy 30% more software than their Windows counterparts"
+
+<p>I think the important information is that mac users pay for more software. The average windows user will get office, or at least word with their pc and really what else do they buy? Anti-virus software, maybe some games?
+
+<p>Since I bought my mac I have paid for more software than I ever imagined I would, a lot of it is shareware type stuff and admittedly I could get freeware versions but I appreciate the good work and am willing to shell out a few bucks for it. On windows if you do a search for a particular kind of app you get thousands of matches - most of which are truly awful. As a result most windows people don't pay for anything. The average windows pc will be full of dozens of freeware apps that people never use. My mac has dozens and dozens of apps I use all the time, some free, some not.
+
+<p>It's all well and good having a much bigger market of users but with apple you get a quality (and growing) market of paying users. Wizzard Software have cleverly realised this.
+
+<p>Comment:
+
+<p>Jun 03, 05 - 09:17 am
+
+<p>Here is the statement that cheeses me off no end...
+
+<p>"I need a PC because at work we use (insert vertical market software name here) and it is only available for the PC"
+
+<p>If more requests were made to the makers of said software we would see a shift... or better yet, find a developer that is hungry or just out of or even still in school and write the new app yourself!
+
+<p>My wife is an orthodontist and there is NO software for office management that suits her needs. DentalMac is not there and so far from what I have seen the level of interface deisgn is atrocious, nowhere near Mac standards. So I have been teaching myself Cocoa and brushing up my 20 year old coding skills (God, I can't believe I used to understand C) and I am writing an app myself which if I can finish it and make it purty I might just sell on the open market.
+
+<p>Grass Roots people! It aint just fer pole ee ticks!
+
+<p>P.S.
+
+<p>Please visit petitiononline.com/xsi2646/petition.html and vote to get Softimage XSI ported to the Mac. No stupid comments please. Thanks.
+
+<p>Comment:
+
+<p>From: Hybrid
+
+<p>Jun 03, 05 - 09:26 am
+
+<p>Good stuff. Once M$ gets enough pressure from this issue, they're sure to finally do something about it.
+
+<p>(I'm convinced that they can, but can't be arsed)
+
+<p>Comment:
+
+<p>Jun 03, 05 - 09:30 am
+
+<p>>"Macintosh owners buy 30% more software than their Windows counterparts">
+
+<p>That may be because some windows people I hear--steal software by illegal downloading.  NO! It couldn't be--could it?
+
+<p>MW feet. As in walking to a Mac world.
+
+<p>Comment:
+
+<p>Jun 03, 05 - 10:27 am
+
+<p>doesn't 'Winn Schwartau' hold a seat on the Jedi Council?
+
+<p>Comment:
+
+<p>From: jdb
+
+<p>Jun 03, 05 - 02:20 pm
+
+<p>I don't think sales represents the percentage of Mac users. The real percentage is a little lower, probably around 10%. The sales figures are that Mac users are more likely to actually pay for the software they use.
+
+<p>And before someone asks, no I don't have proof, just supposition.
+
+<p>Comment:
+
+<p>From: Ampar
+
+<p>Jun 03, 05 - 02:39 pm
+
+<p>" In addition, the Software Publishers Association (SPA) estimates that 16 percent of computer users are on Macs."
+
+<p>Actually, what they really meant was, " In addition, the Software Publishers Association (SPA) estimates that the TOP 16 percent of computer users are on Macs."
+
+<p>Comment:
+
+<p>From: What's the frequency, Kenneth?
+
+<p>Jun 03, 05 - 04:24 pm
+
+<p>Actually, it's hard to tell where SPA gets their numbers, but they _did_ differentiate between market population and market veracity.  That is, they believe Mac users buy 18% of the software and comprise 16% of the installed base.  It _would_ be interesting to know where they get their numbers.
+
+<p>Maybe since Internet Exploder has been hit so badly in the browser wars, we're seeing some "real" numbers for who's (online, at least) using what operating systems.
+
+<p>Comment:
+
+<p>Jun 04, 05 - 01:11 am
+
+<p>It confirm what I was thinking.
+
+<p>Mac users are more inclined to pay for software, just as they are more inclined to pay for online digital music...
+
+<p>Why do you think Apple is dominating the online music store market? Aside from having the best product?
+
+<p>Because Mac users and PC users that like Apple are valuing intellectual property more than the average folks. These people know that Apple was more than once "copied" by companies like Microsoft.
+
+<p>People that don't want to give Apple any credit are often people that don't value intellectual property in general. "Everyone is copying (each other) anyway" is their moto...
+
+<p>Another reason why Mac users put more value in IP is that many of them are content creator themselves.
+
+<p>Comment:
+
+<p>From: advocate_one
+
+<p>Jun 05, 05 - 04:12 am
+
+<p>so what about Linux then??? we don't have very many viruses either... I'm sure that a very high proportion of that 16% figure is really Linux users.
+
+<p>Comment:
+
+<p>From: Virtual-Twin
+
+<p>Jun 05, 05 - 04:46 am
+
+<p>advocate_one, even if half of those were Linux users, lets say 8%, that would leave 8% for Macs and that would still be much higher than the 2% numbers that some people like to repeat (Yes it's the percentage of computer sold, not the installed based and the number actually rose to 3.6%)
+
+<p>But I wonder how they could make such a stupid error in their research.
+
+<p>In reality, I doubt that 8% of computer users run Linux as their only OS. Many dual boot, and still use Windows a good part of the time. Developers wont port applications to another OS if the people using it are just a reboot away from Windows. (Hence when they do port to another OS they chose the Mac OS because its users -can't- use Windows)
+
+<p>The real installed base of Mac users in percentage of home computer users are probably something like 8-10%
+
+<p>Comment:
+
+<p>From: toti
+
+<p>Jun 05, 05 - 04:51 am
+
+<p>Virtual-Twin wrote "Because Mac users and PC users that like Apple are valuing intellectual property more than the average folks."
+
+<p>Actually most Mac users don't give a diddly about IP. What Mac users do care about is a job well done. If the IP is original or "borrowed" they care about, do not.
+
+<p>I have over US$5000 ( that's three zeroes ) of software, published and shareware, that I have paid for in the past three and a half year ( since I switched to Mac ), and mostly I'm pleased about every penny I have shelled out.
+
+<p>A good product and good service is what people care about. The "IP" is something most people don't evenn understand ( and at least for now, a US only thing - software isn't patentable in EU/EFTA, not yet and hopefully never )
+
+<p>Comment:
+
+<p>From: Pandora
+
+<p>Jun 05, 05 - 05:23 am
+
+<p>Basically this "research" is worthless. Even taking them at face value and assuming that 16% of users are not suffering from virus and malware attacks, what makes them think that equates to Mac usage? Linux users, many of whom no longer dual-boot (dual-booting is SO 20th century, darling!) are at least as secure from these programs as Mac users. But even Windows users can be too.
+
+<p>I have unpatched Windows 98 machines running behind a one-line Linux firewall with no problems because the users are smart enough to never open strange email attachments, never follow dubious links and never ever use IE to browse the Web. That's pretty well all it takes. That 16% is not going to be all Mac users. probably not even half once Linux; BSD; sensible old Windows users; and modern, firewall-included, Firefox-using Windows users are subtracted out.
+
+<p>Comment:
+
+<p>From: Me
+
+<p>Jun 05, 05 - 06:21 am
+
+<p>"Even taking them at face value and assuming that 16% of users are not suffering from virus and malware attacks, what makes them think that equates to Mac usage?"
+
+<p>Idiot. The article says:
+
+<p>'In addition, the Software Publishers Association (SPA) estimates that 16 percent of computer users are on Macs.'
+
+<p>And:
+
+<p>'Macintosh enthusiasts have enjoyed - literally - zero viruses'
+
+<p>This is NOT equivilant to "16% of computer users do not suffer viruses and all of them are Mac users"
+
+<p>Read the damn thing before posting.
+
+<p>Comment:
+
+<p>Jun 05, 05 - 06:34 am
+
+<p>"16-percent of computer users are unaffected by viruses, malware because they use Apple Macs"
+
+<p>Maybe you should try reading at least the headline before telling people to read the article. I agree, though, that the article conflates several different sources and then throws in the above title for no justifiable reason.
+
+<p>On the other hand, 16% Mac usage is simply not believable. My experience is that Mac and Linux are about tied so that would make Windows' market share just under 70%, and that's just not right. Regardless of Linux, web log stats consistantly show Mac useage in the low single figures. Are Mac users in some way averse to using the Web? I don't think so.
+
+<p>As I said, this "research" is worthless.
+
+<p>Comment:
+
+<p>From: Raymond
+
+<p>Jun 05, 05 - 06:47 am
+
+<p>Don't forget the huge number of Macs around that never show up on any internet usage statistics becuase they are not connected to the net. I think of production systems in newspapers, video-editing, music-editing/creating. Systems that are on separate networks, physically disconnected from the Internet. This is areas where macs always have been popular.
+
+<p>Comment:
+
+<p>From: simdude
+
+<p>Jun 05, 05 - 07:06 am
+
+<p>I don't think you'll see Apple hype this very much because this is the type of thing that could backfire. As Mac gain a larger market share, they become a more desirable target and virus will eventually be written. I think OS X does a much better job than other OS's in closing security holes (along with other BSD systems), but these are the types of stories I'm sure Apple loves to see others promote while they sit back quietly and smile.
+
+<p>Comment:
+
+<p>From:
+
+<p>Jun 05, 05 - 07:12 am
+
+<p>I'm a little confused here.  This 16% figure seems to be based on sales of software, right?  If this is the case (and it seems to be) then isn't this about as spurious as countering 'computer sales' to estimate the percentage of users.
+
+<p>And where does this leave me.  I'm a Linux user.  In the past five years I've used Linux on desktops and servers, I've never violated the usage rights on software and (here's the kicker) I've never paid for software.  Nadda, not a cent.
+
+<p>So how many Linux users are there out there that are completely ignored by counting software sales?  Given there wasn't a single mention of computer users that use open source software, it's hard to take these statistics that seriosly?
+
+<p>It looks more like some statician's attempt at trying to mount an argument that more manufacturers should focus on Mac users that any credible assessment of who uses what.
+
+<p>Comment:
+
+<p>From: Smitry
+
+<p>Jun 05, 05 - 08:35 am
+
+<p>While Mac OS X 10.3.9 IS stable and can run months without reboots, the Apple's Tiger, the new boy in town, keeps crashing all the time and, apparently, is the most unstable and full of bugs version of Mac OS X ever :(
+
+<p>Comment:
+
+<p>Jun 05, 05 - 08:41 am
+
+<p>"a big fsck you to Microsoft"
+
+<p>...make that a big "fsck -f" : )
+
+<p>Comment:
+
+<p>From: Ditto
+
+<p>Jun 05, 05 - 08:47 am
+
+<p>Since upgrading to tiger on 4 different machines, so many apps crash regularly.. suprisingly the apps that crash the most are apple apps (mail, safari) and the dashboard frequently takes 15-20% cpu bogging down the system.
+
+<p>Comment:
+
+<p>From: Mac Admin
+
+<p>Jun 05, 05 - 09:03 am
+
+<p>I have Mac OS X 10.4.1 Tiger running on an installation of over 800 Macs comprising over 8 different Mac models.  It is rock solid for me.  Sounds like a few users above have corrupted prefs and/or are trying to run apps that's aren't updated for Tiger.  Unless you know what the hell you're talking about, you should not be blaming Tiger.
+
+<p>Comment:
+
+<p>From: Volte
+
+<p>Jun 05, 05 - 09:27 am
+
+<p>*Sigh* You guys don't understand how much this sucks for 100% lifetime mac users. The more people coming over to this side, the more it sucks. I feel like I don't want to share the good stuff. If we get anywhere near 50% of the market, we will no longer have the "virus free" thing. THe only reason we are virus free is be cause viruses come from nerds, nerds are lazy, and the payoff for writing a virus for the mac is not worth the effort.
+
+<p>Such sad sad times...
+
+<p>

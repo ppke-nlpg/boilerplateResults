@@ -1,0 +1,40 @@
+
+URL: http://www.webshowcase.net/nealefamily/screen3_14.html
+<h>Red Hat Enterprise Linux Test Page
+
+<p>This page is used to test the proper operation of the Apache
+ HTTP server after it has been installed. If you can read this
+ page, it means that the Apache HTTP server installed at this
+ site is working properly.
+
+<h>If you are a member of the general public:
+
+<p>The fact that you are seeing this page indicates that the website
+ you just visited is either experiencing problems, or is undergoing
+ routine maintenance.
+
+<p>If you would like to let the administrators of this website know
+ that you've seen this page instead of the page you expected,
+ you should send them e-mail. In general, mail sent to the name
+ "webmaster" and directed to the website's domain should reach
+ the appropriate person.
+
+<p>For example, if you experienced problems while visiting www.example.com,
+ you should send e-mail to "webmaster@example.com".
+
+<p>For information on Red Hat Enterprise Linux, please visit the
+ Red Hat, Inc. website. The documentation for Red Hat Enterprise
+ Linux is available on the Red Hat, Inc. website.
+
+<h>If you are the website administrator:
+
+<p>You may now add content to the directory /var/www/html/. Note
+ that until you do so, people visiting your website will see
+ this page, and not your content. To prevent this page from ever
+ being used, follow the instructions in the file /etc/httpd/conf.d/welcome.conf.
+
+<p>You are free to use the images below on an Apache and Red Hat
+ powered HTTP server. Thanks for using Apache and Red Hat Enterprise
+ Linux!
+
+

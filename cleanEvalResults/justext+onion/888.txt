@@ -1,0 +1,310 @@
+
+URL: http://oskuro.net/blog/2004/Sep
+<p>I couldn't resist to publicly thank Thiemo Seufer for all the
+ invisible work he (with others) has done to fix a series of
+ problems in the mipsen toolchain. Thanks to his work on binutils
+ and gcc, mozilla and offspring are now compilable on our 11
+ architectures, which was a quite big sarge blocker.
+
+<p>Sometimes I feel this kind of jobs are not rewarded by users
+ as much as "package the latest GNOME/KDE/X/whatever" kind of
+ job because it's not as visible, unless you pay attention to
+ apt-listchanges or the BTS. But without them, there would be
+ no GNOME or KDE packages at all!
+
+<p>The observative Debian developers will have noticed that the
+ Debian ALSA team hadn't been as good as usual at delivering
+ new upstream versions a few days^H^H^H^Hweeks after it was released.
+
+<p>There were several reasons for this. The three team members (StevenK,
+ ElectricElf and me) got busy in other fronts, and the bug count
+ didn't stop going up. At one point, the BTS was too full of
+ ALSA bugs for us to be able to handle it, which just added a
+ bit more to the problem, because we never found time to sit
+ down and do triage.
+
+<p>Also, when we started the Alioth project, SVN or Arch weren't
+ available, so we went for a CVS setup which involved importing
+ the upstream sources to CVS and then working on top of that.
+ I never quite understood why we needed the whole sources in
+ CVS, but as I never got involved in the import business, I was
+ more or less ok with the setup. We would then use cvs-buildpackage
+ to build the stuff, and it worked quite well.
+
+<p>The problems came when ElectricElf started to be busy and away
+ from IRC. I dared not try to import the new upstream versions
+ myself, as I had managed to break the import twice in the past
+ (no, it's not so trivial), requiring Elf intervention to cleanup
+ after me. StevenK more or less managed to do stuff, but when
+ something went wrong, he also needed ElectricElf to look after
+ the repo. In short, we were depending on the Elf, who was just
+ too busy to do the stuff.
+
+<p>ALSA 1.0.6 was released over a month ago, and we hadn't tried
+ seriously to update the packages until now, because nobody was
+ stepping up to do the import stuff. So the three of us recently
+ considered adding new blood to the ALSA group, and we asked
+ Thomas Hood, who had been very helpful doing some BTS work on
+ our bugs in the past, to join us.
+
+<p>The last week has seen new vitality in pkg-alsa activity thanks
+ to him, but again the CVS issue was a showstopper. We managed
+ to do more or less sane alsa-oss and alsa-utils uploads, but
+ importing alsa-driver, which is always the bitch, failed again.
+ Thomas and I agreed that the setup was way overegineered for
+ a few packages that never touch the upstream sources directly
+ anyway, as we use dpatch, and I considered switching to SVN.
+ StevenK is an Arch dude though, and was reluctant. This morning,
+ to my surprise, he told us we could try SVN so I rushed to import
+ our stuff in.
+
+<p>The result is that after the quick and clean import of just our
+ debian/ dirs into our new SVN repo, we've done 1.0.6 uploads
+ of the alsa-foo packages in less than one day. And we've got
+ more fixes on the way...
+
+<p>Hmm. This was a long way of saying "ALSA packaging moved to SVN".
+ Procrastination is sometimes like this... :)
+
+<p>Manoj: sorry if I moaned about cvs-buildpackage before... nothing
+ wrong with that, it's just our ex-setup which was quite inconvenient...
+
+<p>I went to the dentist to get the first of my wisdom teeth removed.
+ I went in a bit nervous, like a 10 year old, but I was more
+ annoyed than frightened about the removal. I was quite happy
+ of having grown up with no teeth decay and with all my teeth
+ in good shape, and now I had to get some removed even if they
+ are healthy.
+
+<p>Anyway, it all lasted for about 25 minutes, including the short
+ wait for my turn and the wait for the anesthesia to do its job.
+ After that, the doctor started pulling and doing stuff and voilà,
+ it was out, and my mouth full of blood. He gave me my tooth
+ so I can do whatever I want with it. It's long, and the part
+ that was exposed is cleaner than what wasn't. I'm keeping it
+ for a while, maybe I get a great idea of what to do with four
+ long Wisdom teeth. I tried to get two teeth out at once, but
+ the doctor said it wasn't possible, as that would involve both
+ sides of the mouth, and that can get annoying when eating. The
+ next two to go out will involve surgery. That won't be as easy
+ as today...
+
+<p>The rest of the evening was spent at Kike's house and trying
+ to go to the bicycle demonstration for the "Day without cars",
+ but we got to the starting point late and never found them.
+ So, while we looked for it, Kike told me Ferran Torrent is about
+ to publish the third part of the book saga "Societat limitada"
+ and "Espècies protegides". Not finding the group of bicycles,
+ we moved to FNAC to look for the new book, but it isn't out
+ yet. I'll raid the "Tres i quatre" bookstore to get it as soon
+ as it's out. I can't wait.
+
+<p>Oh, before the dentist I met Kike and Raúl to plan our next
+ cycling trip during the October 9-12 long weekend. The route
+ is decided, and it's going to be *tough* once again!
+
+<p>Even if I said I had finished season 2004, I ended signing up
+ for the last triathlon of the 2004 calendar, in Pinedo (hey,
+ it was free after all!). This was a wild idea, even if the triathlon
+ is sprint distance and oriented to attract new people to triathlon,
+ with easy courses for the bike and run. I have not trained at
+ all since I came back from Oxford, and today it showed a bit...
+
+<p>First, I went to Pinedo after having very, very little sleep
+ during the whole weekend, and very tired. I was one of the first
+ guys to get boxes setup, so 40 minutes before the start I was
+ walking around half naked in the cold of dawn.
+
+<p>When it was finally time to get into water to warm up, I started
+ waking into the sea and came across a large rock that was hiding
+ inside the dirty sea water (Pinedo's is the first beach near
+ the entrance to Valencia's big sea harbour, and it sucks), and
+ hit my knee quite hard. I didn't give this much importance besides
+ the usual loud cursing and swearing, and went swimming for a
+ while. When I came out to get ready for the triathlon start,
+ someone told me "hey, what the fuck is that?", pointing at my
+ leg. Eww, it was completely red, from the blood coming out of
+ my knee. It didn't hurt, so I just cleaned it with some water
+ and a few minutes later the race started.
+
+<p>As usual, I got many blows until I got to the first buoy, and
+ I wasn't getting any good sensations. I came out of the sea
+ quite behind my normal positions, I guess, and quickly came
+ out for the cycling. I managed to link with the pack ahead of
+ me and all was well until I completed the second lap of four.
+ Then, the knee started to hurt a little, then a bit more, until
+ I lost my group and a few others that came from behind. I was
+ very close to abandon the race after the third lap, but decided
+ to do the last 5 kilometres to see if the run was ok with my
+ knee.
+
+<p>As soon as I started running, I realized my knee hurted still,
+ so I abandoned after the first 500m because I didn't want to
+ run the full 5 kilometres just to finish. I would if the triathlon
+ was a bit interesting, but not this one...
+
+<p>A pitty, it's the first time I don't finish a triathlon I've
+ started, and I've had worse injuries in other races...
+
+<p>After the race, there was a very cool race, an aquathlon, with
+ phisically disabled people from the Valencian Disabled Sports
+ Federation. It was great to see people who can't walk or have
+ other mobility disorders swim some good 400 metres, get out
+ of water and then race with their wheel chairs down the promenade.
+
+<p>After the adapted race, there were a series of aquathlons for
+ children. I served as "buoy man" for the smaller ones (around
+ 7 years), which had to swim 50 metres, so I stood in the middle
+ of the sea with my teammate Montxi watching them come. That
+ was great too, watching very young kids being introduced to
+ this kind of sports that early.
+
+<p>The aquathlons were the only positive moments of a quite bad
+ morning. I was quite fond of not having abandoned any race until
+ now... :|
+
+<p>For a long time I had been thinking about abandoning my old nick
+ Oskuro and start using something simple like jordi.
+
+<p>I picked up Oskuro 8 years ago, when I got involved in a MUD
+ at University. As I came in just a few days after Josep and
+ Raúl started the project, I was given the chance of participating
+ in the development, so I had to pick a nickname. As I had no
+ experience at all in role-playing, I found it difficult to come
+ up with a cool nickname for my Demi-God character, and at some
+ point someone suggested me "Oskuro", as I was going to play
+ the role of the God with bad alignment. Well, how could I imagine
+ at that time that this nickname would follow me until mid-2004
+ and that so many people would know me by my nick and not for
+ my real name...
+
+<p>I was directly involved in the MUD development until a bit more
+ than 3 years ago, when I joined Debian and the time I could
+ use for mudding activities quickly vanished. I got in touch
+ with Debian's IRC while I was mudding though, so the nick stuck
+ with me in the Debian world. But hey, it's a stupid nick (translates
+ to dark in English, if you don't mind the spelling mistake),
+ and it doesn't make much sense anymore. Many people think I'm
+ dark-skinned when my skin is pale and my hair slightly blonde...
+ :)
+
+<p>I made this change on my jabber profile months ago, and today
+ I finally changed my nick on OpenProjects and OFTC, not yet
+ on GIMPnet as "jordi" is owned by Jordi Mas in that network.
+ I guess I'll stick to jordim there, which is my *.gnome.org
+ user name. I'll keep using both randomly as a transition, but
+ at some point I'll abandon my old nickname for good. In short,
+ look for me at jordi@OPN/OFTC on IRC!
+
+<p>Today's testing run finally allowed eog 2.6 to enter testing,
+ which was the only missing piece of the GNOME meta-packages
+ in testing. Sarge users will get a few new packages pulled by
+ the gnome-desktop-environment and gnome packages, and new Sarge
+ installs will finally get a complete GNOME 2.6 desktop installed.
+
+<p>The only big missing bit now is gdm 2.6, which is missing an
+ arm build (already built, just not uploaded) of libselinux.
+ With this version of GDM in Sarge, GNOME users will be able
+ to shutdown the computer directly when they close their session,
+ which is probably a feature many want to see in the release.
+ And that's about it... I guess I'll do a final sarge upload
+ with a few minor tweaks (version bumps and other tightening),
+ and then will start to work on updating the dependencies for
+ the GNOME 2.7/2.8 packages in experimental.
+
+<p>So, in short, Sarge finally has completed the GNOME 2.6 transition.
+ Even before GNOME 2.8 is released upstream!
+
+<p>Today I was supossed to run a promotion triathlon in Moncofa,
+ but I ended up not turning up. One reason is that I had a very
+ bad contracture in my right shoulder. Another reason, and probably
+ more important, is that I didn't think there would be a triathlon
+ at all. On Saturday I went to have lunch to the beach and after
+ all of these days of bad weather, the sea was very rough. An
+ indication of bad weather in València is when the Malvarosa
+ beach is packed with windsurf sails, and yesterday it really
+ was.
+
+<p>Óscar and I decided to not go at all, because waking up at 6:30
+ for nothing would have been very annoying... and we were very
+ right: this morning the triathlon was cancelled and the ran
+ a duathlon instead.
+
+<p>I wanted Moncofa to be the final competition this year, so I'm
+ officially on triathlon vacation now for a few weeks. This means
+ no kind of training for a few very good days until we start
+ the new season in late September. Of course, a few changes in
+ my life are going to keep me quite busy in the next few weeks,
+ so all of this extra free time is very welcome.
+
+<p>The season could have gone a lot better. During Winter, I had
+ to overcome a variety of injuries in ankles and knees, plus
+ a never-ending cold. And when the good weather came, I was quite
+ unmotivated, which really doesn't help in this sport. I am only
+ happy about the result in Santa Pola and Oliva. I hope 2005
+ goes better overall.
+
+<p>The big storms of the past days not only affected some trees
+ and the cars below them. On Saturday I went to where my main
+ server lives and discovered the primary hard drive had developed
+ a new musical skill: every time the BIOS tried to access it
+ it would reply with a funky loud sound I have never heard before
+ (and no, it's not the usual high pitch sound of a drive when
+ it's dying). After getting quite worried about those backups
+ I never made, I managed to make it go quiet and boot again (that
+ was just before I wrote the previous blog entry). I know I shouldn't
+ be trusting that drive much more, but I have no time to look
+ for a replacement right now. I hope there are no more big storms
+ in some time...
+
+<p>Besides that, my main Debian computer just would not react to
+ the power switch at all. I first thought the power supply was
+ completely fucked, but a few minutes ago I managed to get it
+ back to life after fiddling inside the box, randomly unplugging
+ and plugging power cords back and forth.
+
+<p>In short, it seems my computers are not in their best shape ever.
+ This reminds me (again) that I really need to look for a UPS
+ for the two boxes. Any cheap recommendation that works well
+ with GNU/Linux? And of course, this is the signal that I fucking
+ need to make backups of my stuff!
+
+<p>Aww, Erinn, when I wrote about the storm the other day I didn't
+ know that you were being evacuated due to Frances. I hope all
+ is well!
+
+<p>(Readers from Florida, skip this entry as it's probably insulting
+ that I talk about big storms when that hurricane is approaching
+ your houses :)
+
+<p>On Thursday, there was a big rain storm in València, one of
+ the biggest I've seen in my life. By pure bad luck, I was inside
+ a bar in Benimaclet at 00:15, saying good bye to my friends
+ when it started to rain. As I had to cycle back home and it
+ was raining a lot, I decided to wait until it stopped. 3 hours
+ later, I was still inside the bar, watching how the rain got
+ heavier and the square where it's located was flooding, as the
+ sewers couldn't deal with all the water that was coming in.
+ A few minutes later, the water was so high that it started getting
+ in the bar, but luckily it stopped raining so intensely and
+ the water level started to go down again.
+
+<p>When I got home, I found the living room was full of water, as
+ well as the kitchen. Cleaning that made me go to bed at 4 or
+ so, making me a zombie next morning at work...
+
+<p>Last night I went to Bétera to have dinner with some team mates,
+ and I was able to see the most impressive electric storm of
+ my whole life. The lightnings were continuous, and the storm
+ seemed to move towards our direction. At one point it started
+ raining very heavily, and water started pouring into the house
+ even with the windows closed. The extremely strong winds did
+ the rest: we could see how huge, 20m tall trees around us just
+ broke as if they were matches, with quite bad results for the
+ cars that were at one side of it, which were basically crushed.
+
+<p>It's incredible how small and irrelevant we can feel when nature
+ shows its real power...
+
+
+

@@ -1,0 +1,83 @@
+
+URL: http://washingtonpost.com/blogs/ask-the-post/post/editors-note-new-choices-for-washingtonpostcom-readers/2011/11/18/gIQAm03DZN_blog.html?hpid=z4
+<h>Editors' note: New choices for washingtonpost.com readers
+
+<p>The Washington Post&rsquo;s Web site serves millions of readers
+ who have different interests and needs. Our U.S. and international
+ audiences come to us to understand Washington, D.C. &mdash;
+ its politics, personalities, institutions, agencies and policies
+ &mdash; and what that means to America as well as to the world.
+ As a news organization rooted in the greater D.C. metro area,
+ we also serve readers who come from the District, Virginia and
+ Maryland by providing deep and unparalleled coverage of regional
+ sports, politics, traffic, weather, real estate, crime, education,
+ arts, culture and more. 
+
+<p>Based on feedback from both these audiences, as of today, we
+ are offering washingtonpost.com readers the ability to quickly
+ access more of our local/regional content and top news headlines
+ from our main homepage. For readers who live in greater D.C.
+ metro area, you can choose washingtonpost.com/regional to see
+ a larger set of headlines under Local News  that looks like
+ this:
+
+<p>
+Don&rsquo;t worry; on washingtonpost.com/regional you&rsquo;ll
+ still get the same national/international news and all of our
+ most popular opinions and blogs. The Opinions columns, for instance,
+ have simply moved down a notch as you can see here:
+
+<p>
+We also realize there may be some of you who live in the Washington,
+ D.C . metro area who might not want, or be interested in, even
+ more local news. If so, you will have a choice to select your
+ homepage &mdash; one with more prominent metro area headlines
+ or our U.S. edition. You can also switch between the two as
+ often as you like by simply picking one of the two editions
+ on the top left of your homepage here:
+
+<p>
+Registered readers can go to &ldquo;Manage Your Profile&rdquo;
+ to select a homepage preference &mdash; National homepage or
+ National/Local homepage. Once you select your preference, you&rsquo;ll
+ automatically be sent to your preferred homepage when you log
+ into washingtonpost.com.
+
+<p>We hope that by giving you more choices in how you read what
+ you want to read, we are making it easier for you to find what
+ interests you most. We continue to work on making our overall
+ Web site faster and easier, and this is one of the steps along
+ the way.
+
+<p>Please let us know if you have any questions, comments or suggestions
+ by writing to us at ideas@washpost.com.
+
+<p>Update:We are continuing to work on technical issues that may
+ prevent readers from consistently getting the page of their
+ choice. We will update this post when those issues are resolved.
+
+<p>If you are having problems with the &ldquo;edition toggle,&rdquo;
+ it may be that you previously selected another homepage as your
+ default. To undo that:
+
+<l>&bull; Make sure you&rsquo;re logged in to washingtonpost.com.
+
+<l>&bull; Click on your registered log-in name at the top of the
+ homepage.
+
+<l>&bull; Click on Homepage Selection.
+
+<l>&bull; Make National homepage your default and click update to
+ save your selection. Then, if you choose, select National/Local
+ homepage to make this your homepage.
+
+<p>Update (Dec. 6): This issue has been fixed. The toggle button
+ near the top left of the home page does not work for registered
+ users who use Firefox or Chome as their Internet browser and
+ have the National/Local home page selected as their preference.
+ To fix it, click on your username at the top of the home page,
+ select &ldquo;Homepage Selection | Network News Preferences&rdquo;
+ and change your preferred home page to &ldquo;National homepage.&rdquo;
+ You will no longer be automatically redirected to the local
+ version of the page, but the toggle button will work.
+

@@ -1,0 +1,5 @@
+<h>Random function flaw leads to 'Patient zero'
+
+<p>The computer used to kick-start a global worm outbreak in March 2004 has been traced using crucial kinks in its code. The worm code involved using a random function to generate the next set of targets. Since Randon function provided by operating systems
+
+<p>

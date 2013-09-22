@@ -1,0 +1,162 @@
+
+URL: http://techupdate.zdnet.com/techupdate/stories/main/0,14179,2913225,00.html
+<p>When I interviewed Sun chief engineer Rob Gingell last August,
+ he hinted at a blurring of the lines between Linux and Solaris,
+ if not an outright merger. Said Gingell: "Five years from now,
+ when all the tribes intermarry, who is going to know what's
+ Solaris and what's Linux, and who's going to care?" 
+
+<p> So, while attending a recent chalk talk at Sun's Burlington,
+ Mass., campus, my ears perked up when the company's chief technology
+ officer Greg Papadopolous talked about how applications designed
+ to run on Red Hat Linux can run unmodified on the Intel version
+ of Sun's Solaris x86. 
+
+<p> As it turns out, this wasn't the news I thought it was. Binaries
+ designed to run on Red Hat Linux don't natively run on Solaris
+ x86 without some help--yet. Achieving this level of compatibility
+ requires a Linux emulator called Lxrun. Lxrun is an open-source
+ project that's been around since 1997, and to which Sun has
+ contributed engineering resources in order to guarantee its
+ compatibility with Solaris x86. (Lxrun does not run on versions
+ of Solaris designed for the Sparc architecture.) 
+
+<p> The way Lxrun works is relatively straightforward. First, Solaris
+ x86 users install Lxrun on their systems. Depending on which
+ distribution of Linux they want to emulate (Red Hat, SuSE, Mandrake,
+ et al), they also must load the libraries from that distribution
+ into a directory where Lxrun will be looking for them. It is
+ indeed possible to write an application that runs on one distribution
+ of Linux, but not others. The difference is in the distribution-specific
+ libraries and the chance that a developer may or may not take
+ advantage of them. (The UnitedLinux movement is an important
+ sidebar to this library business that I'll get to shortly.)
+ 
+
+<p> When Sun's Papadopolous mentioned compatibility with Red Hat
+ Linux, almost as if to exclude the other popular distributions,
+ it wasn't a slip of the tongue. There has been a lot of speculation
+ about which of the many Linux distributions Sun will go with
+ when its Linux business is running on all cylinders. Still,
+ Papadopolous' comments don't make Red Hat a shoo-in. 
+
+<p> According to Sun's Linux strategy and marketing group manager
+ Jack O'Brien, "While we don't distribute Red Hat's libraries
+ with the copy of Lxrun that's on the companion CD for Solaris,
+ we did make some effort to make sure Lxrun works with them.
+ But nothing stops anyone from installing it with other libraries."
+ 
+
+<p> According to Sun Solaris product manager Chris Baker, once Lxrun
+ and the appropriate libraries are loaded onto a Solaris x86
+ system, a Linux application doesn't know or care that Solaris
+ is running under the hood. All application programming interface
+ usage is redirected to the Linux libraries. 
+
+<p> But both Baker and O'Brien discussed other options available
+ to Solaris x86 users interested in running Linux applications.
+ These options provide some interesting clues to the direction
+ that Sun is taking with respect to the marriage of Linux and
+ Solaris. 
+
+<p> "Whereas some open source developer might have had Linux in
+ mind as a target," said Baker, "nothing prevents a user of some
+ other version of Unix from compiling for their platform. The
+ question is: What will happen if the developer of that source
+ code made calls to some Linux-specific APIs? If the version
+ of Unix that you're compiling for can't respond to those calls,
+ you will have to adjust the source code to redirect those calls
+ to the Unix library that provides the same or similar functionality."
+ 
+
+<p> To help Solaris users surface any potential library incompatibilities
+ when porting Linux applications to Solaris, Sun has a downloadable
+ Linux Compatibility Assurance Toolkit (LinCAT). 
+
+<p> Although LinCAT works for both the x86 and Sparc versions of
+ Solaris x86, to the extent that LinCAT is more about portability
+ than compatibility, Sun is dealing with the compatibility issue
+ in other ways. The easiest way to guarantee compatibility of
+ the same source code between Linux and Solaris (or any other
+ version of Unix) is to make sure that Solaris can respond appropriately
+ to applications, even when they make calls to Linux-specific
+ APIs. If this could be accomplished for the x86 and Sparc versions
+ of Solaris, we would move one giant step closer to the world
+ that Gingell described, where the tribes are intermarried and
+ no one will "know what's Solaris and what's Linux." 
+
+<p> According to Baker, Sun is on that path now. Slowly but surely,
+ Sun is enhancing Solaris with libraries that will respond to
+ Linux-specific source code exactly as expected. More germane
+ to the future of UnitedLinux, however, is how Sun will measure
+ such compatibility with Linux. 
+
+<p> According to O'Brien, "We are striving towards Linux Standards
+ Base (LSB) compliance." In almost the same breath, O'Brien warned
+ that imprimaturs of UnitedLinux and LSB, such as one might find
+ attached to a particular application claiming compliance, don't
+ necessarily mean the same thing. In other words, applications
+ designed for UnitedLinux-compliance could have compatibility
+ issues with non-UnitedLinux-compliant distributions. 
+
+<p> Baker, suggesting that UnitedLinux would eventually become irrelevant,
+ said, "Which direction to take was at the core of our deliberations
+ for Solaris. We believe, as Red Hat does, that LSB compliance
+ is the right thing to do." 
+
+<p> O'Brien concurred. "LSB is the way of the future and is what
+ ISVs should be paying attention to." With Sun and Red Hat firmly
+ behind LSB, my sense is that UnitedLinux will indeed one day
+ be irrelevant. 
+
+<p> To demonstrate Sun's commitment to LSB compliance, O'Brien said,
+ "Sun is a participant in the Free Standards Group, which is
+ the parent to the LSB project. We've assigned engineering resources
+ to it and we'll be promoting it over the long run. Ultimately,
+ if you're a Linux application developer and you develop for
+ LSB compliance, your application will be guaranteed to run unchanged
+ on Solaris as well." 
+
+<p> "That doesn't mean you won't want to take a look at your source
+ code and change some of the Linux-specific calls to Solaris
+ ones," said O'Brien. "Some parts of Linux are by no means as
+ mature as what is in Solaris. The threading model is one example.
+ Solaris really shines when it comes to multithreading. It was
+ designed from the ground up for multithreaded, multiprocessor
+ environments. In the Linux world, that multithreading capability
+ is only recently with us, and is still by no means as mature
+ as what is in Solaris. There are also other services and functions
+ built into Solaris that are more mature--like resource, volume,
+ and quality of service management. Not that these aren't available
+ on Linux; but you'll need third-party products and will have
+ to do some integration work on your own." 
+
+<p> Gingell's five-year plan for an intermarriage of the two operating
+ systems seems to be on an accelerated track. Solaris continues
+ to take on more API-level compatibility with Linux. In turn,
+ Linux, through Sun's participation in the Free Standards Group,
+ will undoubtedly take on more of the industrial strength attributes
+ for which Solaris has long been known. 
+
+<p> What does this mean in the big picture? With Sun focused on
+ an intermarriage of its Unix with Linux, and with IBM having
+ already stated that Linux is the successor to its version of
+ Unix (AIX), the future is looking very Linux-like. Should Linux
+ achieve the cross-vendor compatibility that everybody hoped
+ Unix once would, IT managers would face the sort of options
+ that the concept of "compliance with standards and competition
+ on implementation" is supposed to produce. In that world, the
+ various hardware providers (Dell, HP, IBM, Sun, et al) will
+ be working extremely hard to convince you that, when it comes
+ to powering Linux, their hardware platforms are less costly,
+ more secure, and more reliable than the rest. 
+
+<p>How Linux-like is your future looking? Leave a message in ZDNet's
+ TalkBack forum or e-mail, me at david.berlind@cnet.com.
+
+<p>TECH UPDATE TODAY DAILY:
+ Dan Farber and David Berlind deliver
+ daily insights on the business and technology news that matters
+ to enterprise IT. 
+
+

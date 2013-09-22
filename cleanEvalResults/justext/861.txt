@@ -1,0 +1,363 @@
+
+URL: http://arstechnica.com/journals/microsoft.ars/2005/9/19/1285
+<h>Pouring cold water on the Vista graphics FUD
+
+<p>Being hyped about something and reporting it with spirit usually
+ makes good news, but not when reporters spin things into a ridiculous
+ mess. Sadly, that's what has happened in the case of recent
+ comments made by Nigel Page, a strategist with Microsoft Australia.
+ Page pointed out the big graphical change with Windows Vista,
+ namely the move from bitmaps to vectors. Bitmaps are digital
+ definitions of images that are essentially like your TV: tons
+ of little mapped dots, which from a certain perspective, come
+ together as a picture. If you've ever zoomed in on a circle
+ (or been too close to your TV), you've probably seen that in
+ detail, images are not as smooth as they look at a distance.
+ That's bitmaps for you! Vectors, on the other hand, don't use
+ dots and maps to define an image; rather, they use mathematical
+ expressions, which render smooth and gorgeous lines at whatever
+ resolution. 
+
+<p>Page, in talking about all of this, apparently said that while
+ 128MB of video RAM would be OK, 256MB would be better, and "I
+ expect that video card memory will go up a lot when Longhorn
+ is released." The full quote follows:
+
+<p>"The GPU will need a plenty of room to operate in Vista. The
+ more memory you put on a video card, the better, really. We
+ want the least dumping back to main memory because that's slower
+ than graphics. If you have 128 MB, that's good; if you have
+ 256 MB, that's better; but I expect that video card memory will
+ go up a lot when Longhorn is released."
+
+<p>This last bit has given some sites the urge to basically blow
+ the entire thing out of proportion. Let's get the fact out on
+ the table: the Longhorn Display Driver Model (LDDM) is a big
+ step forward, and it's going to make a lot of people happy.
+ The one thing it's not going to do is make people with video
+ cards sporting 64MB of video RAM miserable. Such claims are
+ simply out of touch with reality.
+
+<p>First, let's be clear: more RAM is almost always a good thing,
+ up to a certain point. If you have a video card with 256MB,
+ you're a lucky punk. It's hardly a requirement, though. To claim
+ that "256 MB is a happy medium" is just ridiculous. And Page's
+ claims that video RAM sizes will increase after the launch is
+ like stating the obvious: most shipping RAM configurations increase
+ every year on account market factors. 
+
+<p>More importantly, as we've covered more than once before, the
+ graphical experience in Vista will be tiered. Now, how many
+ times will we hear this FUD over the next year or so? And keep
+ in mind that big, scary vector-based display models have been
+ on weaker hardware on OS X for a few years now.
+
+<h>Reader Comments
+
+<p> So how will this affect people running on board graphics? Since
+ it uses system memory could they actually have a better experience
+ than someone with an old GF2 with 32MB of video ram? 
+
+<p> I was under the impression that properly done vector graphics
+ took less space than bitmaps on disk and in memory until they
+ were rasterized, at which point they took the same amount. 
+
+<p> " I was under the impression that properly done vector graphics
+ took less space than bitmaps on disk and in memory until they
+ were rasterized, at which point they took the same amount."
+I
+ dunno. Computationaly is it more expensive to read a lot of
+ bitmap data from disk and dump it to memory, or to read a little
+ vector data from disk and render it to memory? Once either of
+ those chores is done, the memory targeted will be cached. At
+ that point it won't matter how you got there, eh? So I don't
+ see a difference memory-consumption-wise. 
+
+<p> "Since a display (I'm thinking LCD) is comprised of discrete
+ pixels, doesn't the gfx card have to convert the image back
+ to a bitmap-type signal anyways? (Call me clueless)"
+
+<p>
+Well yeah but if the resolution changes, it'll re-render. So
+ instead of just blowing up a 32x32 icon to 128x128 pixels, it'll
+ re-render at the 128x128 resolution and look hella better. So
+ yes at the end of the day you have pixels. But you have pixels
+ rendered at the proper resolution, not zoomed in on. 
+
+<p> Wrink the person with the GF2 wont be able to use the hardware
+ accelerated UI only DX9 hardware will be able to.
+
+<p>
+From this article there is a bit of info on how the LDDM driver
+ works and basically if you have a GPU with a LDDM driver then
+ you won’t have any trouble it will take care of handling the
+ resources needed and it will be transparent to the user.
+
+<p>
+However if only a basic compatibility driver is provided then
+ performance could suffer as it's not as efficient as the LDDM.
+ 
+
+<p> "Well seeing as how we haven't even seen the final look of the
+ Vista UI, saying it looks like crap is a bit presumptuous."
+
+<p>
+Well all we can say for sure is that it looks like crap right
+ now. I'm curious, Mac people, did the early OSX stuff look like
+ crap and then turn out pretty? Or were the early OSX shots as
+ pretty as Aqua ended up shipping? 
+
+<p> Linux is moving to Cairo just fine without needing to bump up
+ video card memory at all. Why is it that doing 2d vector graphics
+ should require anything special in the video card at all, again?
+ 
+
+<p> NATO: It looks like crap right now. Why are they showing off
+ their crappy interface and telling me its the way of the future?
+ Presumptuous perhaps on my part, but I say it's well founded
+ presumption. More RAM on your vid card won't fix bad UI. 
+
+<p>
+• Excessive use of transparency on windows, to the point that
+ overlapping windows create a muddy mess behind them. Just because
+ you can use transparency (pending a capable vid card), doesn't
+ mean it looks good.
+
+<p>
+• In the 3D business, when you can't make something pretty,
+ you make it shiny
+
+<p>
+• Flip3D? Please, how fast are people going to turn this feature
+ off (if you can). And they're adding a new key to the keyboard
+ for this?
+
+<p>
+• Graphic design of the icons is appalling. Does no one at
+ MS look at the icon-building community and borrow a few ideas?
+
+<p>
+• Interface is so cluttered with gradients and buttons and
+ alternate ways to view things. I like options, but i think they
+ should be a bit more organized. Don't throw the information
+ at me. Let me decide what i want to see, when I want to see
+ it.
+
+<p>
+• Glowing roll-overs on close and min/max buttons. Again,
+ just because you can do it, doesn't make it pretty, and they're
+ too small
+
+<p>
+• Supposedly the sidebar is coming back. Why? So my already
+ cluttered desktop can collapse on its own weight?
+
+<p>
+• Did any of the MS UI designers pass a color theory test?
+
+<p>
+On a positive note, at least everything isn't name "My this"
+ and "My that," although they'll probably bring that back...
+ 
+
+<p>
+"Microsoft's first technical beta of Vista layers OpenGL over
+ Direct3D in order to use OpenGL with a composited desktop to
+ obtain the Aeroglass experience. If an an application runs using
+ a high-performance OpenGL ICD - the desktop compositor will
+ switch off - significantly degrading the user experience. Write
+ to your preferred software developer, hardware developer and
+ video card manufacturer and tell them to make sure Microsoft
+ solves this problem before release and fully supports OpenGL
+ ICDs within Aero. Hardware and software vendors listen to developers.
+ Don't be passive - send those emails and keep the topic in the
+ foreground" 
+
+<p>Well NATO, that sounds like an excuse for "We can't make anything
+ look pretty, but hopefully someone (Apple?) will show us how
+ to do it before we release the final version" 
+
+<p>
+You seem determined to hate it. I can't tell you if it will
+ be pretty or not, since no one has seen the final version. The
+ sensible thing would be to wait and see, but you've made up
+ your mind already it seems. 
+
+<p> I'm not determined to hate it, but I have very little faith
+ in Microsoft's ability to deliver a pleasing and functional
+ UI. The WindowsXP default appearance has grown on me, so I may
+ change my tune. I just hope they have something good for us
+ to make Vista worth the wait. 
+
+<p> I've been harping that "It's no the final UI!" for many months
+ now, but this video interview (http://channel9.msdn.com/Showpost.aspx?postid=114694)
+ with one of the Aero designers has me concerned, specifically
+ that they feel they're "pretty much done" with the UI (paraphrased).
+
+<p>
+Now, if he means UI elements and design of Explorer that's ok
+ - however there is another video with the shell team which should
+ cover that arena. 
+
+<p>
+I agree, right now it's hideous, and the defence of "It's a
+ beta!" are growing thin. MS knows every shot of Vista will be
+ plastered all over the web, why not spend a couple of days to
+ just get some consistent elements and a theme that's half as
+ good as any posted in perpetual desktop thread in the Windows
+ software forum?
+
+<p>
+And yes, the transparency so far is ridiculous. Heck, even without
+ windows layering it stil makes it hard to read the title on
+ an app. 
+
+<p> Well, hopefully they'll let the user decide. I can make my Linux
+ box much more hideous, with transparency and sidebars in abundance,
+ but I don't have to keep it that way. I think they're basically
+ showing off what it CAN do, not how it has to be, but we'll
+ see.
+
+<p>
+This reminds me of friends who say 'I have to get a good video
+ card because I need to be able to watch DVDs and edit video
+ on my PC' so they go out and drop $300 on a nice 3D accelerator
+ not understanding that a $50 64 meg card would perform just
+ as well on anything but 3D gaming.
+
+<p>
+The new version of Gnome is done with vector graphics and seems
+ to be quicker in rendering than the previous version, on the
+ same hardware, my integrated intel 900 series video with 8mb.
+ Even using DirectX 9.0 features I don't see how they could manage
+ to have problems on a 128MB card. 
+
+<p> JohnDeHope3: Unfortunately, Apple ended up shipping almost exactly
+ what the early Aqua screenshots looked like. Yes, its pretty,
+ but in a lot of ways it is terrible interface design.
+
+<p>
+Regardless of my opinion of Aqua, Apple said the early screeshots
+ were what they were going to ship ... and then that's what they
+ shipped. Microsoft has said that the UI is not done. Maybe both
+ have been open about their interface design process.
+
+<p>
+DGlue: I can't watch a video at work, but I'm wondering if he
+ meant "we're done and soon we'll release the updated UI for
+ everyone to see" or "we're done and you've pretty much seen
+ what it looks like"? 
+
+<p> I saw this 128MB+ "requirement" as well and I don't understand
+ it at all (and I've read through all the WinHEC and meltdown
+ slides). What is actually taking up that 128MB+? It sounds to
+ me like some marketing guys at Microsoft said "Well, the cards
+ that support shader 2.0 have 128MB of VRAM or more, so therefore
+ Aero requires that much." 
+
+<p> Disclaimer - I'm a typical programmer, meaning I don't give
+ a crap about fit and finish () but...
+
+<p>
+Icons, colors, transparency, etc. = non-fixed themeable properties.
+ 
+
+<p>
+I could care less about how it looks now, because it's not going
+ to look like that once I've found a third party theme I like.
+ 
+
+<p>
+I'm more interested in the interaction model - but then, I'm
+ a Windows user, so I'm obviously not worried about color-matching
+ my OS's UI with my favorite beret and iPod cover. Or my favorite
+ pizza-stained ThinkGeek shirt that I wear in my Mom's basement.
+ I'm sure there's some other stereotypes I could use here. 
+
+<p> I'm sure Vista's theme will change but I highly doubt the basic
+ UI elements will and that's a major problem. I get a headache
+ trying to decode a Windows Vista mentally. Too many icons, too
+ much clutter, too many colors, too many translucent boxes, too
+ many ballon tips, etc. It's a mess. 
+
+<p>
+With the "deluxe experience", in addition to RGB, everything
+ on the desktop's got an Alpha value now, probably. That's 33%
+ more VRAM needed, right there. Then, I'd tend to think more
+ VRAM would be needed to composite lots of graphics with Alpha
+ channels (multiple windows), as opposed to just resolving for
+ visibility, like in the old days. I'm not an engineer though.
+ 
+
+<p> OK OK, not to start a flame war or be too trollish, but -- Mac
+ OS X runs "OK" w/ 32MB VRAM, and even less frankly. At least
+ for a lot of the things most people use their computers for
+ (light web browsing, email, word processing). And every version
+ has pretty much gotten quicker than the last, on the same old
+ hardware. Admittedly, 10.3 to 10.4 was not really speed increase
+ on slower Macs from what I have seen, for most tasks. But come
+ on -- even 128 at the low end strikes me as out of touch with
+ reality. I guess M$ can count on selling enough licenses through
+ the big PC manufacturers to not bother doing anything that might
+ encourage users of older PCs to upgrade... 
+
+<p> Well, MS's lockstep with the box manufacturers is upgrade the
+ OS upgrade the hardware. That's whay they grumble when the OS
+ is late.
+
+<p>
+You'll find that when it finally comes out, an upgrade hardware
+ cycle will begin again.
+
+<p>
+I don't think there's much choice. Adding major features always
+ seems to require more hardware. If you try to keep it down,
+ you just have to eliminate things. Despite how we complain,
+ we all want more.I t also keeps the box people happy, they sell
+ more stuff. 
+
+<p> Actually I liked how the beta version of Windows XP looked.
+ It wasn't spectacular, but it was workable.
+
+<p>
+I absolutely hate the fischer-price "made for a 3 year old's
+ idea of pretty" look of the default XP theme. The first thing
+ I do to an XP install is to turn all of that crap off, and kick
+ it back to a decent Windows 2000 look. Personalized menus suck.
+ They confuse the hell out of the average user. If you (the developer)
+ have so many items in a menu that they scroll off the bottom
+ of the screen, you should be sent back to GUI-design school,
+ cause you obviously slept in class.
+
+<p>
+My thinking is that if XP's beta looked ok (actually kinda nice),
+ and turned out crappy, then two inferences can be drawn. 1)
+ They figure if they make a nasty looking beta, people will be
+ relieved when the shipping product doesn't look like crap. 2)
+ The XP pattern will repeat, and the shipping product will be
+ the UI equivalent of Quasimodo. 
+
+<p> M$ has fixed most of my major feature requirements with XP Pro.
+ It's fairly stable, has VNC-ish service, firewall (not bad),
+ decent networking, and better support for older apps than 2000.
+ It doesn't require reboots for as many dumb things, and has
+ a more service oriented setup (which is good).
+
+<p>
+There is still tons of room for improvement, and while adding
+ some higher order features to the GUI could make it more usable,
+ there are far too many other things that are going backwards.
+ I probably won't be using it.
+
+<p>
+The OpenGL thing is among the biggest issues. If my OpenGL games
+ run like shit, Microsoft can shove that OS someplace uncomfortable.
+ I'll recommend people avoid it like the plague. One of the major
+ reasons that M$ has so much support is that the gamer crowd
+ has always bashed (myself previously included) those platforms
+ with weak game support (Macs, Linux). This is because M$ supported
+ gamers by working to make sure the platform ran games really
+ well. This gamer for one won't take this stab in the back lightly.
+ 
+
+

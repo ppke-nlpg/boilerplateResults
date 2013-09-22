@@ -1,0 +1,433 @@
+<h>NUMERATOR  DENOMINATOR ---------  ------------        10            5         8            3        23            9        40           17      1024           16        85           34
+
+<p>6 rows selected.
+
+<p>You can also create a new column, REMAINDER, to hold the values of NUMERATOR % DENOMINATOR:
+
+<p>INPUT/OUTPUT:
+
+<p>SQL> SELECT NUMERATOR,      DENOMINATOR,      NUMERATOR%DENOMINATOR REMAINDER      FROM REMAINS; NUMERATOR DENOMINATOR REMAINDER --------- ----------- ---------        10           5         0         8           3         2        23           9         5        40          17         6      1024          16         0        85          34        17
+
+<p>6 rows selected.
+
+<p>Some implementations of SQL implement modulo as a function called MOD (see Chapter 4, "Functions: Molding the Data You Retrieve"). The following statement produces results that are identical to the results in the preceding statement:
+
+<p>SQL> SELECT NUMERATOR,      DENOMINATOR,      MOD(NUMERATOR,DENOMINATOR) REMAINDER      FROM REMAINS;
+
+<p>Precedence
+
+<p>This section examines the use of precedence in a SELECT statement. Using the database PRECEDENCE, type the following:
+
+<p>SQL> SELECT * FROM PRECEDENCE; N1        N2        N3        N4 --------- --------- --------- ---------         1         2         3         4        13        24        35        46         9         3        23         5        63         2        45         3         7         2         1         4
+
+<p>Use the following code segment to test precedence:
+
+<p>INPUT/OUTPUT:
+
+<p>SQL> SELECT   2  N1+N2*N3/N4,   3  (N1+N2)*N3/N4,   4  N1+(N2*N3)/N4   5  FROM PRECEDENCE; N1+N2*N3/N4 (N1+N2)*N3/N4 N1+(N2*N3)/N4 ----------- ------------- -------------         2.5          2.25           2.5    31.26087     28.152174      31.26087        22.8          55.2          22.8          93           975            93         7.5          2.25           7.5
+
+<p>Notice that the first and last columns are identical. If you added a fourth column N1+N2* (N3/N4), its values would also be identical to those of the current first and last columns.
+
+<p>Comparison Operators
+
+<p>True to their name, comparison operators compare expressions and return one of three values: TRUE, FALSE, or Unknown. Wait a minute! Unknown? TRUE and FALSE are self-explanatory, but what is Unknown?
+
+<p>To understand how you could get an Unknown, you need to know a little about the concept of NULL. In database terms NULL is the absence of data in a field. It does not mean a column has a zero or a blank in it. A zero or a blank is a value. NULL means nothing is in that field. If you make a comparison like Field = 9 and the only value for Field is NULL, the comparison will come back Unknown. Because Unknown is an uncomfortable condition, most flavors of SQL change Unknown to FALSE and provide a special operator, IS NULL, to test for a NULL condition.
+
+<p>Here's an example of NULL: Suppose an entry in the PRICE table does not contain a value for WHOLESALE. The results of a query might look like this:
+
+<p>INPUT:
+
+<p>OUTPUT:
+
+<p>ITEM            WHOLESALE -------------- ---------- TOMATOES              .34 POTATOES              .51 BANANAS               .67 TURNIPS               .45 CHEESE                .89 APPLES                .23 ORANGES
+
+<p>Notice that nothing is printed out in the WHOLESALE field position for oranges. The value for the field WHOLESALE for oranges is NULL. The NULL is noticeable in this case because it is in a numeric column. However, if the NULL appeared in the ITEM column, it would be impossible to tell the difference between NULL and a blank.
+
+<p>Try to find the NULL:
+
+<p>INPUT/OUTPUT:
+
+<p>SQL> SELECT * 2 FROM PRICE 3 WHERE WHOLESALE IS NULL; ITEM            WHOLESALE -------------- ---------- ORANGES
+
+<p>ANALYSIS:
+
+<p>As you can see by the output, ORANGES is the only item whose value for WHOLESALE is NULL or does not contain a value. What if you use the equal sign (=) instead?
+
+<p>INPUT/OUTPUT:
+
+<p>SQL> SELECT *      FROM PRICE      WHERE WHOLESALE = NULL;
+
+<p>no rows selected
+
+<p>ANALYSIS:
+
+<p>You didn't find anything because the comparison WHOLESALE = NULL returned a FALSE--the result was unknown. It would be more appropriate to use an IS NULL instead of =, changing the WHERE statement to WHERE WHOLESALE IS NULL. In this case you would get all the rows where a NULL existed.
+
+<p>This example also illustrates both the use of the most common comparison operator, the equal sign (=), and the playground of all comparison operators, the WHERE clause. You already know about the WHERE clause, so here's a brief look at the equal sign.
+
+<p>Equal (=)
+
+<p>Earlier toChapter you saw how some implementations of SQL use the equal sign in the SELECT clause to assign an alias. In the WHERE clause, the equal sign is the most commonly used comparison operator. Used alone, the equal sign is a very convenient way of selecting one value out of many. Try this:
+
+<p>INPUT:
+
+<p>SQL> SELECT * FROM FRIENDS;
+
+<p>OUTPUT:
+
+<p>LASTNAME       FIRSTNAME       AREACODE PHONE    ST ZIP -------------- -------------- --------- -------- -- ----- BUNDY          AL                   100 555-1111 IL 22333 MEZA           AL                   200 555-2222 UK MERRICK        BUD                  300 555-6666 CO 80212 MAST           JD                   381 555-6767 LA 23456 BULHER         FERRIS               345 555-3223 IL 23332
+
+<p>Let's find JD's row. (On a short list this task appears trivial, but you may have more friends than we do--or you may have a list with thousands of records.)
+
+<p>INPUT/OUTPUT:
+
+<p>SQL> SELECT *      FROM FRIENDS      WHERE FIRSTNAME = 'JD'; LASTNAME       FIRSTNAME       AREACODE PHONE    ST ZIP -------------- -------------- --------- -------- -- ----- MAST           JD                   381 555-6767 LA 23456
+
+<p>We got the result that we expected. Try this:
+
+<p>INPUT/OUTPUT:
+
+<p>SQL> SELECT *      FROM FRIENDS      WHERE FIRSTNAME = 'AL'; LASTNAME       FIRSTNAME       AREACODE PHONE    ST ZIP -------------- -------------- --------- -------- -- ----- BUNDY          AL                   100 555-1111 IL 22333 MEZA           AL                   200 555-2222 UK
+
+<p>NOTE: Here you see that = can  pull in multiple records. Notice that ZIP is blank on the second record. ZIP is a character field (you learn how to create and populate tables on  Chapter 8, "Manipulating Data"), and in this particular record the NULL demonstrates that a NULL in a character field is impossible to differentiate  from a blank field.
+
+<p>Here's another very important lesson concerning case sensitivity:
+
+<p>INPUT/OUTPUT:
+
+<p>SQL> SELECT * FROM FRIENDS      WHERE FIRSTNAME = 'BUD'; FIRSTNAME -------------- BUD 1 row selected.
+
+<p>Now try this:
+
+<p>SQL> select * from friends      where firstname = 'Bud'; no rows selected.
+
+<p>ANALYSIS:
+
+<p>Even though SQL syntax is not case sensitive, data is. Most companies prefer to store data in uppercase to provide data consistency. You should always store data either in all uppercase or in all lowercase. Mixing case creates difficulties when you try to retrieve accurate data.
+
+<p>Greater Than (>) and Greater Than or Equal To (>=)
+
+<p>The greater than operator (>) works like this:
+
+<p>INPUT:
+
+<p>SQL> SELECT *      FROM FRIENDS      WHERE AREACODE > 300;
+
+<p>OUTPUT:
+
+<p>LASTNAME       FIRSTNAME       AREACODE PHONE    ST ZIP -------------- -------------- --------- -------- -- ----- MAST           JD                   381 555-6767 LA 23456 BULHER         FERRIS               345 555-3223 IL 23332
+
+<p>ANALYSIS:
+
+<p>This example found all the area codes greater than (but not including) 300. To include 300, type this:
+
+<p>INPUT/OUTPUT:
+
+<p>SQL> SELECT * 2 FROM FRIENDS 3 WHERE AREACODE >= 300; LASTNAME       FIRSTNAME       AREACODE PHONE    ST ZIP -------------- -------------- --------- -------- -- ----- MERRICK        BUD                  300 555-6666 CO 80212 MAST           JD                   381 555-6767 LA 23456 BULHER         FERRIS               345 555-3223 IL 23332
+
+<p>ANALYSIS:
+
+<p>With this change you get area codes starting at 300 and going up. You could achieve the same results with the statement AREACODE > 299.
+
+<p>NOTE: Notice that no quotes surround 300 in this SQL statement. Number-defined fieldsnumber-defined fields do not require  quotes.
+
+<p>Less Than (<) and Less Than or Equal To (<=)
+
+<p>As you might expect, these comparison operators work the same way as > and >= work, only in reverse:
+
+<p>INPUT:
+
+<p>SQL> SELECT * 2 FROM FRIENDS 3 WHERE STATE < 'LA';
+
+<p>OUTPUT:
+
+<p>LASTNAME       FIRSTNAME       AREACODE PHONE    ST ZIP -------------- -------------- --------- -------- -- ------ BUNDY          AL                   100 555-1111 IL 22333 MERRICK        BUD                  300 555-6666 CO 80212 BULHER         FERRIS               345 555-3223 IL 23332
+
+<p>NOTE: How did STATE get changed  to ST? Because the column has only two characters, the column name is shortened  to two characters in the returned rows. If the column name had been COWS,  it would come out CO. The widths of AREACODE and PHONE are wider than their column names, so they are not truncated.
+
+<p>ANALYSIS:
+
+<p>Wait a minute. Did you just use < on a character field? Of course you did. You can use any of these operators on any data type. The result varies by data type. For example, use lowercase in the following state search:
+
+<p>INPUT/OUTPUT:
+
+<p>SQL> SELECT * 2 FROM FRIENDS 3 WHERE STATE < 'la'; LASTNAME       FIRSTNAME       AREACODE PHONE    ST ZIP -------------- -------------- --------- -------- -- ----- BUNDY          AL                   100 555-1111 IL 22333 MEZA           AL                   200 555-2222 UK MERRICK        BUD                  300 555-6666 CO 80212 MAST           JD                   381 555-6767 LA 23456 BULHER         FERRIS               345 555-3223 IL 23332
+
+<p>ANALYSIS:
+
+<p>Uppercase is usually sorted before lowercase; therefore, the uppercase codes returned are less than 'la'. Again, to be safe, check your implementation.
+
+<p>TIP: To be sure of how these operators  will behave, check your language tables. Most PC implementations use the ASCII tables.  Some other platforms use EBCDIC.
+
+<p>To include the state of Louisiana in the original search, type
+
+<p>INPUT/OUTPUT:
+
+<p>SQL> SELECT * 2 FROM FRIENDS 3 WHERE STATE <= 'LA'; LASTNAME       FIRSTNAME       AREACODE PHONE    ST ZIP -------------- -------------- --------- -------- -- ----- BUNDY          AL                   100 555-1111 IL 22333 MERRICK        BUD                  300 555-6666 CO 80212 MAST           JD                   381 555-6767 LA 23456 BULHER         FERRIS               345 555-3223 IL 23332
+
+<p>Inequalities (< > or !=)
+
+<p>When you need to find everything except for certain data, use the inequality symbol, which can be either < > or !=, depending on your SQL implementation. For example, to find everyone who is not AL, type this:
+
+<p>INPUT:
+
+<p>SQL> SELECT * 2 FROM FRIENDS 3 WHERE FIRSTNAME <> 'AL';
+
+<p>OUTPUT:
+
+<p>LASTNAME       FIRSTNAME       AREACODE PHONE    ST ZIP -------------- -------------- --------- -------- -- ----- MERRICK        BUD                  300 555-6666 CO 80212 MAST           JD                   381 555-6767 LA 23456 BULHER         FERRIS               345 555-3223 IL 23332
+
+<p>To find everyone not living in California, type this:
+
+<p>INPUT/OUTPUT:
+
+<p>SQL> SELECT * 2 FROM FRIENDS 3 WHERE STATE != 'CA'; LASTNAME       FIRSTNAME       AREACODE PHONE    ST ZIP -------------- -------------- --------- -------- -- ----- BUNDY          AL                   100 555-1111 IL 22333 MEZA           AL                   200 555-2222 UK MERRICK        BUD                  300 555-6666 CO 80212 MAST           JD                   381 555-6767 LA 23456 BULHER         FERRIS               345 555-3223 IL 23332
+
+<p>NOTE: Notice that both symbols, <> and !=, can express "not equals."
+
+<p>Character Operators
+
+<p>You can use character operators to manipulate the way character strings are represented, both in the output of data and in the process of placing conditions on data to be retrieved. This section describes two character operators: the LIKE operator and the || operator, which conveys the concept of character concatenation.
+
+<p>I Want to Be Like LIKE
+
+<p>What if you wanted to select parts of a database that fit a pattern but weren't quite exact matches? You could use the equal sign and run through all the possible cases, but that process would be boring and time-consuming. Instead, you could use LIKE. Consider the following:
+
+<p>INPUT:
+
+<p>SQL> SELECT * FROM PARTS;
+
+<p>OUTPUT:
+
+<p>NAME           LOCATION       PARTNUMBER -------------- -------------- ---------- APPENDIX       MID-STOMACH             1 ADAMS APPLE    THROAT                  2 HEART          CHEST                   3 SPINE          BACK                    4 ANVIL          EAR                     5 KIDNEY         MID-BACK                6
+
+<p>How can you find all the parts located in the back? A quick visual inspection of this simple table shows that it has two parts, but unfortunately the locations have slightly different names. Try this:
+
+<p>INPUT/OUTPUT:
+
+<p>SQL> SELECT * 2 FROM PARTS 3 WHERE LOCATION LIKE '%BACK%'; NAME           LOCATION       PARTNUMBER -------------- -------------- ---------- SPINE          BACK                    4 KIDNEY         MID-BACK                6
+
+<p>ANALYSIS:
+
+<p>You can see the use of the percent sign (%) in the statement after LIKE. When used inside a LIKE expression, % is a wildcard. What you asked for was any occurrence of BACK in the column location. If you queried
+
+<p>INPUT:
+
+<p>SQL> SELECT *      FROM PARTS WHERE LOCATION LIKE 'BACK%';
+
+<p>you would get any occurrence that started with BACK:
+
+<p>OUTPUT:
+
+<p>NAME           LOCATION       PARTNUMBER -------------- -------------- ---------- SPINE          BACK                    4
+
+<p>If you queried
+
+<p>SQL> SELECT *      FROM PARTS WHERE NAME LIKE 'A%';
+
+<p>you would get any name that starts with A:
+
+<p>OUTPUT:
+
+<p>NAME           LOCATION       PARTNUMBER -------------- -------------- ---------- APPENDIX       MID-STOMACH             1 ADAMS APPLE    THROAT                  2 ANVIL          EAR                     5
+
+<p>Is LIKE case sensitive? Try the next query to find out.
+
+<p>INPUT/OUTPUT:
+
+<p>SQL> SELECT *      FROM PARTS      WHERE NAME LIKE 'a%'; no rows selected
+
+<p>ANALYSIS:
+
+<p>The answer is yes. References to data are always case sensitive.
+
+<p>What if you want to find data that matches all but one character in a certain pattern? In this case you could use a different type of wildcard: the underscore.
+
+<p>Underscore (_)
+
+<p>The underscore is the single-character wildcard. Using a modified version of the table FRIENDS, type this:
+
+<p>INPUT:
+
+<p>SQL> SELECT * FROM FRIENDS;
+
+<p>OUTPUT:
+
+<p>LASTNAME       FIRSTNAME       AREACODE PHONE    ST ZIP -------------- -------------- --------- -------- -- ----- BUNDY          AL                   100 555-1111 IL 22333 MEZA           AL                   200 555-2222 UK MERRICK        UD                   300 555-6666 CO 80212 MAST           JD                   381 555-6767 LA 23456 BULHER         FERRIS               345 555-3223 IL 23332 PERKINS        ALTON                911 555-3116 CA 95633 BOSS           SIR                  204 555-2345 CT 95633
+
+<p>To find all the records where STATE starts with C, type the following:
+
+<p>INPUT/OUTPUT:
+
+<p>SQL> SELECT * 2 FROM FRIENDS 3 WHERE STATE LIKE 'C_';
+
+<p>LASTNAME       FIRSTNAME       AREACODE PHONE    ST ZIP -------------- -------------- --------- -------- -- ----- MERRICK        BUD                  300 555-6666 CO 80212 PERKINS        ALTON                911 555-3116 CA 95633 BOSS           SIR                  204 555-2345 CT 95633
+
+<p>You can use several underscores in a statement:
+
+<p>INPUT/OUTPUT:
+
+<p>SQL> SELECT * 2 FROM FRIENDS 3 WHERE PHONE LIKE'555-6_6_';
+
+<p>LASTNAME       FIRSTNAME       AREACODE PHONE    ST ZIP -------------- -------------- --------- -------- -- ----- MERRICK        BUD                  300 555-6666 CO 80212 MAST           JD                   381 555-6767 LA 23456
+
+<p>The previous statement could also be written as follows:
+
+<p>INPUT/OUTPUT:
+
+<p>SQL> SELECT * 2 FROM FRIENDS 3 WHERE PHONE LIKE '555-6%'; LASTNAME       FIRSTNAME       AREACODE PHONE    ST ZIP -------------- -------------- --------- -------- -- ----- MERRICK        BUD                  300 555-6666 CO 80212 MAST           JD                   381 555-6767 LA 23456
+
+<p>Notice that the results are identical. These two wildcards can be combined. The next example finds all records with L as the second character:
+
+<p>INPUT/OUTPUT:
+
+<p>SQL> SELECT * 2 FROM FRIENDS 3 WHERE FIRSTNAME LIKE '_L%'; LASTNAME       FIRSTNAME       AREACODE PHONE    ST ZIP -------------- -------------- --------- -------- -- ----- BUNDY          AL                   100 555-1111 IL 22333 MEZA           AL                   200 555-2222 UK PERKINS        ALTON                911 555-3116 CA 95633
+
+<p>Concatenation (||)
+
+<p>The || (double pipe) symbol concatenates two strings. Try this:
+
+<p>INPUT:
+
+<p>SQL> SELECT FIRSTNAME || LASTNAME ENTIRENAME 2 FROM FRIENDS;
+
+<p>OUTPUT:
+
+<p>ENTIRENAME ---------------------- AL             BUNDY AL             MEZA BUD            MERRICK JD             MAST FERRIS         BULHER ALTON          PERKINS SIR            BOSS
+
+<p>7 rows selected.
+
+<p>ANALYSIS:
+
+<p>Notice that || is used instead of +. If you use + to try to concatenate the strings, the SQL interpreter used for this example (Personal Oracle7) returns the following error:
+
+<p>INPUT/OUTPUT:
+
+<p>SQL> SELECT FIRSTNAME + LASTNAME ENTIRENAME      FROM FRIENDS; ERROR: ORA-01722: invalid number
+
+<p>It is looking for two numbers to add and throws the error invalid number when it doesn't find any.
+
+<p>NOTE: Some implementations of SQL use  the plus sign to concatenate strings. Check your implementation.
+
+<p>Here's a more practical example using concatenation:
+
+<p>INPUT/OUTPUT:
+
+<p>SQL> SELECT LASTNAME || ',' || FIRSTNAME NAME      FROM FRIENDS; NAME ------------------------------------------------------ BUNDY    , AL MEZA     , AL MERRICK  , BUD MAST     , JD BULHER   , FERRIS PERKINS  , ALTON BOSS     , SIR
+
+<p>7 rows selected.
+
+<p>ANALYSIS:
+
+<p>This statement inserted a comma between the last name and the first name.
+
+<p>NOTE: Notice the extra spaces between  the first name and the last name in these examples. These spaces are actually part  of the data. With certain data types, spaces are right-padded to values less than  the total length allocated for a field. See your implementation. Data types will  be discussed on Chapter 9, "Creating and Maintaining Tables."
+
+<p>So far you have performed the comparisons one at a time. That method is fine for some problems, but what if you need to find all the people at work with last names starting with P who have less than three days of vacation time?
+
+<p>Logical Operators
+
+<p>logical operatorsLogical operators separate two or more conditions in the WHERE clause of an SQL statement.
+
+<p>Vacation time is always a hot topic around the workplace. Say you designed a table called VACATION for the accounting department:
+
+<p>INPUT:
+
+<p>SQL> SELECT * FROM VACATION;
+
+<p>OUTPUT:
+
+<p>LASTNAME       EMPLOYEENUM    YEARS  LEAVETAKEN -------------- ----------- --------- ---------- ABLE                   101        2           4 BAKER                  104        5          23 BLEDSOE                107        8          45 BOLIVAR                233        4          80 BOLD                   210       15         100 COSTALES               211       10          78
+
+<p>6 rows selected.
+
+<p>Suppose your company gives each employee 12 days of leave each year. Using what you have learned and a logical operator, find all the employees whose names start with B and who have more than 50 days of leave coming.
+
+<p>INPUT/OUTPUT:
+
+<p>SQL> SELECT LASTNAME, 2 YEARS * 12 - LEAVETAKEN REMAINING 3 FROM VACATION 4 WHERE LASTNAME LIKE 'B%' 5 AND 6 YEARS * 12 - LEAVETAKEN > 50; LASTNAME       REMAINING -------------- --------- BLEDSOE               51 BOLD                  80
+
+<p>ANALYSIS:
+
+<p>This query is the most complicated you have done so far. The SELECT clause (lines 1 and 2) uses arithmetic operators to determine how many days of leave each employee has remaining. The normal precedence computes YEARS * 12 - LEAVETAKEN. (A clearer approach would be to write (YEARS * 12) - LEAVETAKEN.)
+
+<p>LIKE is used in line 4 with the wildcard % to find all the B names. Line 6 uses the > to find all occurrences greater than 50.
+
+<p>The new element is on line 5. You used the logical operator AND to ensure that you found records that met the criteria in lines 4 and 6.
+
+<p>AND
+
+<p>AND means that the expressions on both sides must be true to return TRUE. If either expression is false, AND returns FALSE. For example, to find out which employees have been with the company for 5 years or less and have taken more than 20 days leave, try this:
+
+<p>INPUT:
+
+<p>SQL> SELECT LASTNAME 2 FROM VACATION 3 WHERE YEARS <= 5 4 AND 5 LEAVETAKEN > 20 ;
+
+<p>OUTPUT:
+
+<p>LASTNAME -------- BAKER BOLIVAR
+
+<p>If you want to know which employees have been with the company for 5 years or more and have taken less than 50 percent of their leave, you could write:
+
+<p>INPUT/OUTPUT:
+
+<p>SQL> SELECT LASTNAME WORKAHOLICS 2 FROM VACATION 3 WHERE YEARS >= 5 4 AND 5 ((YEARS *12)-LEAVETAKEN)/(YEARS * 12) < 0.50; WORKAHOLICS --------------- BAKER BLEDSOE
+
+<p>Check these people for burnout. Also check out how we used the AND to combine these two conditions.
+
+<p>OR
+
+<p>You can also use OR to sum up a series of conditions. If any of the comparisons is true, OR returns TRUE. To illustrate the difference, conditionsrun the last query with OR instead of with AND:
+
+<p>INPUT:
+
+<p>SQL> SELECT LASTNAME WORKAHOLICS 2 FROM VACATION 3 WHERE YEARS >= 5 4 OR 5 ((YEARS *12)-LEAVETAKEN)/(YEARS * 12) >= 0.50;
+
+<p>OUTPUT:
+
+<p>WORKAHOLICS --------------- ABLE BAKER BLEDSOE BOLD COSTALES
+
+<p>ANALYSIS:
+
+<p>The original names are still in the list, but you have three new entries (who would probably resent being called workaholics). These three new names made the list because they satisfied one of the conditions. OR requires that only one of the conditions be true in order for data to be returned.
+
+<p>NOT
+
+<p>NOT means just that. If the condition it applies to evaluates to TRUE, NOT make it FALSE. If the condition after the NOT is FALSE, it becomes TRUE. For example, the following SELECT returns the only two names not beginning with B in the table:
+
+<p>INPUT:
+
+<p>SQL> SELECT * 2 FROM VACATION 3 WHERE LASTNAME NOT LIKE 'B%';
+
+<p>OUTPUT:
+
+<p>LASTNAME       EMPLOYEENUM    YEARS LEAVETAKEN -------------- ----------- -------- ---------- ABLE                   101        2          4 COSTALES               211       10         78
+
+<p>NOT can also be used with the operator IS when applied to NULL. Recall the PRICES table where we put a NULL value in the WHOLESALE column opposite the item ORANGES.
+
+<p>INPUT/OUTPUT:
+
+<p>SQL> SELECT * FROM PRICE; ITEM           WHOLESALE -------------- --------- TOMATOES             .34 POTATOES             .51 BANANAS              .67 TURNIPS              .45 CHEESE               .89 APPLES               .23 ORANGES
+
+<p>7 rows selected.
+
+<p>To find the non-NULL items, type this:
+
+<p>INPUT/OUTPUT:
+
+<p>SQL> SELECT * 2 FROM PRICE 3 WHERE WHOLESALE IS NOT NULL; ITEM           WHOLESALE -------------- --------- TOMATOES             .34 POTATOES             .51 BANANAS              .67 TURNIPS              .45 CHEESE               .89 APPLES               .23
+
+<p>6 rows selected.
+
+<p>Set Operators
+
+<p>On Chapter 1, "Introduction to SQL," you learned that SQL is based on the theory of sets. The following sections examine set operators.
+
+<p>UNION and UNION ALL
+
+<p>UNION returns the results of two queries minus the duplicate rows. The following two tables represent the rosters of teams:
+
+<p>INPUT:
+
+<p>

@@ -1,0 +1,35 @@
+<h>How To Avoid "Page Has Expired" Warnings
+
+<p>by Chris Shiflett
+
+<p>Welcome to the first edition of Guru Speak, a new column that I'll be bringing to you every other month right here in PHP Magazine. The topics that I'll be writing about will vary, but one recurring topic that I want to focus on is that of providing thorough answers to frequently asked questions. This is a topic that is appropriate for PHP developers of all skill levels, and while some questions are not likely to concern experienced developers, the answers will hopefully lend new insight and provide a deeper understanding to everyone.
+
+<p>As one of the most active contributors to the PHP-General mailing list for the last few years, I have answered many questions, and it is pretty easy to determine which topics trouble developers the most. While part of the reason for the frequency with which some questions are asked is that people don't search the archives or the Web prior, there are also some questions for which there is no sufficiently complete answer available, because no one feels the need to provide one. In other cases, there are so many RTFM responses that search results become very diluted, making the real answers hard to find.
+
+<p>It is my sincere hope that this column can begin to address these types of problems, and I would like to thank the fine folks at PHP Magazine for agreeing to make my answers freely available on the Web. I am very interested in feedback, so please feel free to leave some on our forums anytime (link provided in the Links & Literature section) - perhaps you have new insight to add to one of my answers, a correction to make, a suggestion for the column, or a question of your own.
+
+<p>I hope you enjoy Guru Speak.
+
+<p>How Can I Avoid "Page Has Expired" Warnings?
+
+<p>One problem with organizing questions and answers, and in fact a big reason why searching the archives can be difficult for a beginner, is that the same question can be posed in so many different ways. This is especially true when the same problem arises under different circumstances, or when differences in browser behaviour can cause the same error to be reported in numerous ways.
+
+<p>A good example of this is the warning message declaring that a page has expired. Not only are there two different causes for this warning, but the warning message itself also varies from browser to browser, even under the same circumstances.
+
+<p>The warning is a result of the user utilizing the browser's history mechanism to access a previously viewed page, usually by clicking the back button or refreshing. One cause of the warning is that the page has expired from the browser's cache, so it wants to inform the user that it must request the page again, just in case this is not something the user wants.
+
+<p>Luckily, you have some control over what a browser caches. In fact, as long as you don't forbid it, each page that the user visits is cached locally by the browser. There are exceptions to this, such as when the user specifically configures the browser to prevent caching, or when the user sets the maximum cache size too small. These exceptions aren't a big concern, because the user probably does this intentionally and understands the consequences, or the user will have an adverse experience on any site and likely realize that the problem is a local one.
+
+<p>PHP, by default, does not forbid caching. When you request a simple PHP script, no caching headers are returned, so no Web agent's caching behaviour is modified. You can test this by using the LiveHTTPHeaders extension for Firefox and requesting a script such as the following:
+
+<p><?php
+
+<p>echo '<p>Guru Speak!</p>';
+
+<p>?>
+
+<p>Of course, no PHP application has scripts quite this simplistic. In fact, most PHP applications use sessions, and this is where caching becomes a problem. Add session_start() to the previous example, so that it becomes the following:
+
+<p><?php
+
+<p>

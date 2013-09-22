@@ -1,0 +1,17 @@
+<h>Page not found
+
+<p>The page you requested cannot be found. Please try searching our website or using the A-Z index .
+
+<p>Many web addresses have changed on our new website, please update your favourites / bookmarks
+
+<p>If you followed a link from another page on our website, please email the web manager giving the address of the page which has the link
+
+<p>If you followed the link from another website, please use the back button on your browser and inform the website that the link is no longer valid
+
+<p>If you typed the web address yourself, please check the address and spelling
+
+<p>This page was last updated on 07 November 2006
+
+<p> 
+
+<p>

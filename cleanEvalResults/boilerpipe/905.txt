@@ -1,0 +1,13 @@
+<h>January 24th, 2005 at 4:47 pm
+
+<p>I picked up a copy of Wired magazine with your pic on the cover and read the Firefox article on my flight to Florida.  I just recently downloaded firefox when a friend emailed me the link about a month ago.
+
+<p>What I found intriguing about the article in Wired was the security issue and the stark contrast between the time it takes for MS programmers to fix an IE bug vs. the developers who team up to fix an firefox bug in a percentage of the time.
+
+<p>I believe an analogy can be made regarding the critical importance of international cooperation (working in teams as opposed to the hegemony of working unilaterally) when it comes to fighting the worst ills of our present age such as drug trafficking, terrorism and the like.
+
+<p>In the NY Times article last year which featured Senator John Kerry on the cover, Kerry said as much but instead amidst the Media presidential campaign hoopla his message was twisted into an incomprensible sound bite that was taken out of context. In other words, terrorism should not be fought using Cold War period tactics and a Cold War paradigm but the technology available today in the Net Age.
+
+<p>Politics affects everything nomatter what denial some people indulge in.  Therefore, I would love to hear what developers thing about this idea!
+
+<p>

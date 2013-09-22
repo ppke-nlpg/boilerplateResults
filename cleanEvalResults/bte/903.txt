@@ -1,0 +1,119 @@
+
+URL: http://quality.kde.org/develop/howto/howtomedia.php
+ 
+
+<p>To work effectively with the media, it is worthwhile knowing at least a little about how the media works, and how you ought to produce certain kinds of work to get the best coverage possible. This page covers an overview of working with the media, a guide to writing and sending press releases, a guide to using interviews, and a guide to writing articles. You don't need experience to start working with the media, but reading this guide will give you a head start. Remember: the media rely on good stories and features, so if you can supply them with good material and make it easy for them, you'll be more likely to get good coverage. 
+
+<p>  Working with the media, an overview 
+
+<p>The first question you must ask when promoting your application in the media is: what am I trying to achieve? As a Quality Team member, you will be trying to promote the application as a viable competitor, either because a new major release has come out or simply because you feel the application needs more exposure. You may also want to dispel myths about the application, or attract developers, artists or new Quality Team members to the application. So before you begin to work with the media, think about what you are trying to achieve. Try not to achieve too many things; a good piece of promotion delivers a simple, interesting message that will catch and hold people's attention; a bad piece of promotion will be long, difficult to understand, confused, and will leave people wondering why they took the time to read it. 
+
+<p>Once you have established your aims, you need to think about what audience you want to reach, and which media outlets you should approach with this in mind. So if, for example, you want to reach KDE users, a good place to start would be the   KDE news   web site. If, on the other hand, you want to reach managers in small businesses, a trade magazine would be more appropriate. Think about your audience, and then research some web sites, magazines and other publications, and even radio and TV shows. You should find out who their audience is, what their content is generally like, and how you get your material into their publication or show. 
+
+<p>With this preparation behind you, you can begin to work on the material you're sending off, be it a full article, an interview (that you may also need to arrange), a press release or even simply a contact. And once the material is finished, you can get it published and enjoy the rewards. 
+
+<p>An important endnote is that you should keep records of who you contact (including individual's names and contact details), both so you can check up on how they are using material you send them, and so you can go directly to known people in the future. 
+
+<p>In summary, you should always consider the following: 
+
+<p>  Why   are we looking for coverage? (our aims) 
+
+<p>  Who   are we trying to reach? 
+
+<p>  What   type of coverage do we want to receive? 
+
+<p>  Which   media are we targeting? 
+
+<p>  How   do we get coverage? (What do we need to do to get them interested?) 
+
+<p>Perhaps the best way to deal with and use the media better is to read, listen to and watch the media more critically. If you want to know how to write a good interview, look for past interviews and think about what makes some good and others bad. 
+
+<p>  Writing press releases 
+
+<p>The press release is the most basic way to promote an application. You can use press releases to catch the attention of editors, and make them research and write an article, or do a piece in a show, on your application. Editors will look over a press release extremely quickly, and discard it if it doesn't make them interested, so it's important that you write them well. You can either use a press release as the basis for an article, and leave the publication/show to do all of the work, or you can use it as a way of getting them to contact you for a fuller story. The basic things to look out for are: 
+
+<p>Try to think of 3 main messages to convey 
+
+<p>Make it neat, so you can understand it at a glance 
+
+<p>If you're sending it by fax or post, put a KDE heading on the paper 
+
+<p>Make the headline snappy; draw the editor in with it 
+
+<p>Start with a brief paragraph of no more than two sentences to summarise 
+
+<p>Have a second paragraph that explains the first in a little more detail 
+
+<p>Put in a quote, perhaps from a developer or user 
+
+<p>If you feel the need, write more detail in a final paragraph 
+
+<p>Put links, background, contacts and other less interesting information into a notes section 
+
+<p>You can read a sample press release with annotations   here  . You may also want to look at some of the press releases already written for the KDE Project   here  , though bear in mind that they are written with the whole project in mind, whilst your press release will probably only focus on one application or module. 
+
+<p>Once you have written the press release, you need to get news editors to notice it. Don't worry if you've never sent a press release off before, or if you've never contact the publication you're sending it to. Send it by e-mail, and if possible by fax, to the editors of the publications and shows you've already researched. Look in particular for news desks or news editors. If you're sending it to a paper publication, you might also consider sending them a hard copy by post. The basic idea is to make sure the people you send it to read it, so don't send it in strange file formats, and be professional in your approach. Once you've sent it, if you can phone them and ask them if they got it; this is really just a shallow ploy to encourage them to read it, and you can also use the opportunity to ask if they're clear about its contents, and if they have any questions. Be persistent, but don't annoy them. 
+
+<p>  Writing articles 
+
+<p>Writing articles for web sites, newsletters, magazines, newspapers or any other media can be a great way to tell people about the applications you are trying to promote. A good article will inform people about the application, make them enthusiastic about it (even if they won't ever use the application), and possibly make them contribute to the project, either in terms of providing funding, code, graphics, documentation, or joining the Quality Team. But though they are an excellent tool for communication, they need to be done well. Nothing will make the work you are trying to promote seem more amateur (in terms of quality) than a poorly written article. Whilst this short guide won't make you a good journalist, it should at least provide some help in focussingand improving your writing. 
+
+<p>The first things to think about, as with anything in the media, are your key messages and aims. For example, if you want to write an article for an industry magazine to encourage that industry to adopt your application, make sure you keep this aim in mind, and put across clear, persuasive reasons why. Write down your aim, formulate some key messages that will meet this aim, and then try to work out a structure for your article. You should always begin with a sentence that will grab the readers' attention, and write the rest of the first paragraph as a summary of your article. You should then go through each key message in turn, developing the summary and drawing the reader into your arguments. At the end of your article, a short conclusion should round off your arguments, and ensure your aims have been met. 
+
+<p>Next you will need to do some research. What you research will depend on your aims and messages, but try to make sure that anything you mention in the article is true; you can also make articles more interesting through research by making references to other articles, recent events, competitors, or anything else you can think of. A really good article will demonstrate a clear understanding of its subject, and of the context of the subject. Through good research, you can not only make your article more accurate, but also much more interesting, and much more persuasive. 
+
+<p>Once you've come up with a good structure and done some research, you should write the article. Use whatever method you feel most comfortable with, and ask friends and colleagues to check your work if you're not too confident. In terms of style, use whatever is most appropriate to the publication you're writing for (find this out by looking at old work in the publication). A general tip is to use dialectic; for example, describe a feature in your application, and then suggest reasons why it might not be so useful, but then explain why it is in fact very useful; or outline arguments often used against your application, and then discuss them. 
+
+<p>Some golden rules to follow when writing articles: 
+
+<p>Stick to the point, and always focus on your key messages. 
+
+<p>Get all of your spelling, punctuating and grammar correct. 
+
+<p>Don't use inappropriate acronyms, e.g. don't use   IMHO   in an industry magazine. 
+
+<p>If you use acronyms, always explain them the first time you use them, e.g.   But the WTO (World Trade Organisation) said... 
+
+<p>If you quote somebody, make sure you do it accurately, and is possible reference them, either with a web link or something like   John Doe said "I like journalists" (John Doe, 'Me and my dog', 1999)  . 
+
+<p>If you reconstruct others' arguments that you intend to discuss, do so charitably, don't construct "  straw man  " arguments. 
+
+<p>Finally, there is no substitute for good writing style. Teaching that is beyond the scope of this short guide, but you might consider reading George Orwell's famous essay,   Politics and the English Language  , and buying a book called   The Elements of Style  . The following rules, adapted from Orwell's essay, are presented for the lazy: 
+
+<p>Never use a metaphor, simile, or other figure of speech which you are used to seeing in print.  
+
+<p>Never us a long word where a short one will do.  
+
+<p>Don't a word unless you are   certain   of its meaning (don't try too hard to sound clever!) 
+
+<p>If it is possible to cut a word out, always cut it out.  
+
+<p>Never use the passive where you can use the active.  
+
+<p>Read your work aloud; does your punctuation make the text flow?  
+
+<p>  Interviews 
+
+<p>Interviews are simply a special kind of article; the only difference is in the format and style. Interviews allow for a more conversational, friendly style, and give the journalist the opportunity to get all of the interesting thoughts out of other people directly. But they should still be used in the same way, to achieve certain aims and convey certain key messages. 
+
+<p>If you are the journalist doing the interview, begin by formulating your aims and the key messages you want to draw out of the interviewee. Then research the subject thoroughly, and try to come up with a range of questions, from the banal but necessary (e.g. asking them to introduce themselves) to the more probing and interesting questions. Contact the interviewee and arrange the interview, which can be done face-to-face, over an Instant Messaging protocol, or via e-mail. If you meet face-to-face or using IM, you can ask new questions as you go along, so be prepared to think fast, and try to ask new questions when you can think of them. If the interview is done by e-mail, you can ask some followup questions after you've received the initial answers. Make sure that by the time you are finished with the interview, there is enough material in the questions and answers for the article to be interesting and fresh; asking people what their favourite widget style is, for example, can be interesting, but not if all of your questions are that obvious. 
+
+<p>If you are being interviewed, then bear in mind that the journalist will be looking for particular answers out of you. If you can spot what they are trying to get you to say, and you like it, then say it - it will probably make the article much better. But don't be afraid to contradict the journalist, or to refuse to answer questions, or to give odd answers, so long as you don't think the journalist will abuse your trust and use that against you. Being interviewed can be like a game, so stay alert, think your answers through carefully, and again, always try to convey certain key messages. You don't want people to read your interview and come away thinking you were confused, incoherent and ignorant! 
+
+<p>If you're being interviewed on a radio or television programme, here are some key considerations: 
+
+<p>You need to think carefully about how you will come across; people will remember more of how you spoke (e.g. clearly and with confidence, or with arrogance, etc.) and what you looked like (e.g. nervous, confident, etc.) than what you actually say. 
+
+<p>Before the interview begins, ask:  
+
+<p>Is it live or recorded? (If recorded, you can ask to redo parts you get wrong) 
+
+<p>What is the audience? (You can adjust your answers to be suitable t the audience) 
+
+<p>What is your first question? (Very useful!) 
+
+<p>You need to be   even more   focussed on the three key messages, as they may cut what you say 
+
+<p>Practice before the interview, either with a tape/video recorder, or with friends 
+
+<p>&nbsp; 

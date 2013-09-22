@@ -1,0 +1,65 @@
+<h>>I thought so. That's a corporate branch of my university. *is embarassed*
+
+<p>I think the link to Melbourne Uni is long gone, so you're off the hook.
+
+<p>As someone who's contracted there twice now, I guess I should be embarassed. But I think I'll just put it all out of my mind.
+
+<p>Theft of intangibles is not new--look at the amount of fighting and delays in publishing in the scientific world occurs over whose name goes first on a paper/book/study!  There were some important ones held up for -years- over such disputes!
+
+<p>That's a subset of what might be called "fame-stealing" or "fame assigning" or other such things.
+
+<p>Another related example--I heard an NPR interview with a woman whose job is getting permission from people for them to appear identifiable on e.g. American's Dumbest Criminals.  The reasons the people agree range from plain old financial remuneration, to their time unit of fame, to the comments made by a DUI offender who tried to bribe the arresting police officer with sex, she wanted the video public and a copy of it for herself as a tangible reminder she could playback anytime she was tempted to touch alcohol again, to show herself just how utterly depraved and disgusting she got when drinking, so she would NOT do so again.
+
+<p>But anyway, the lure of being of focused on and getting that -fame- and exposure, acted as a powerful incentive.
+
+<p>#17 ::: Seth Breidbart ::: (view all by) ::: January 20, 2005, 12:58 AM :
+
+<p>MelbourneIT was not as merely clueless as the article makes out.  When Alexis finally did reach the president's cell phone, all he got was a return call from the corporate attorney saying that they weren't going to do anything about it.
+
+<p>Likewise, Verislime was notified unforgeably (personal contact by personally-known people to their NOC), and they also refused to return the domain.
+
+<p>#18 ::: CHip ::: (view all by) ::: January 20, 2005, 02:10 PM :
+
+<p>Seth -- is the president of Melbourne IT clueful? (He should be, but is he?) That sounds like standard behavior of a non-geek CEO bothered about geek matters on a weekend (at least if the botherer isn't someone who can drop a hammer on the CEO's company). If MeIT was spun off from a university, who knows what kind of management it was left with?
+
+<p>#19 ::: Metal Fatigue ::: (view all by) ::: January 20, 2005, 04:03 PM :
+
+<p>Chip: From reports on NANOG, MIT's CTO, at least, appears to be a stand-up guy.  The CEO...well, what do you think?
+
+<p>(Yes, I know that I am not the Seth from whom you expected a response, I just couldn't resist.  Mr. Breidbart has gotten mail intended for me on at least one occasion, and vice versa.  The first time we met in person, I was disappointed to find that we did not mutually annihilate in a shower of gamma rays.)
+
+<p>#20 ::: CHip ::: (view all by) ::: January 20, 2005, 05:39 PM :
+
+<p>Metal Fatigue: I think you support my point. Seth was damning the company for the actions of clueless top management. (Yes, it's nice when the CEO is responsible -- consider the round of idiot-CEO trials coming up -- but if the CTO is a standup guy it seems unlikely to me that the company as such could have committed a geek crime.)
+
+<p>#21 ::: Steve Taylor ::: (view all by) ::: January 20, 2005, 05:44 PM :
+
+<p>> Seth -- is the president of Melbourne IT clueful?
+
+<p>I'm not Seth either, but my impression was always that there was a disconnect between techies and management there. The tech people I worked with were serious and straightforward, while the management layer were the sort of people who went on about "Corporate Excellence" and "World Class Services" and so on.
+
+<p>I can't be objective on this.  I bought the domain name:
+
+<p>www.sherlockholmes.com
+
+<p>in late January 1996, from Verisign.  I planned to use it for my business, and for my Mystery Writers part of my web domain. Then I had to shut down my 3-room office from which I ran Sherlock Holmes Resume Service (partner bailed on me, who'd split the rent).
+
+<p>So I changed the snailmail address on my domain registration to my home address, and Verisign agreed.  End of the year, they snailmailed to my old office, and I never got that.  Next thing I know, the domain name's scopped up by some obsessed fan who'd legally changed his name to Sherlock Holmes (you know, like that guy who comes to cons and shows you that his driver's license in in his legal name: James T. Kirk).
+
+<p>I could never get it back.  So I have to use:
+
+<p>http://www.magicdragon.com/UltimateMystery/Mystery-Index.html
+
+<p>which just doesn't have the name-recognition and marketing pizazz. Not domainjacking.  Just that Verisign never cared then, and doesn't care now.
+
+<p>#23 ::: Bill Blum ::: (view all by) ::: January 20, 2005, 06:59 PM :
+
+<p>JVP wrote:
+
+<p>So I changed the snailmail address on my domain registration to my home address, and Verisign agreed. End of the year, they snailmailed to my old office, and I never got that. Next thing I know, the domain name's scopped up
+
+<p>Changing the address on your domain registration does NOT automatically mean your billing address is updated accordingly.  This sort of thing was unfortunately all too common with verisign at the time...
+
+<p>This is either a bug, or a feature, depending on how you look at the situation.
+
+<p>

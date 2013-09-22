@@ -1,0 +1,384 @@
+
+URL: http://nielsenhayden.com/makinglight/archives/006019.html
+<p>
+InternetNews.com has an article Panix.com Hijacking Causes Panic
+ that includes some additional details. It appears that while
+ there was indeed a failure at Melburne IT, Panix may well be
+ not entirely blameless. 
+
+<p>According to a couple of articles, including the Netcraft article,
+ Panix officials insist that the panix.com domain had been registrar
+ locked at the time of the hijack. However, George DeCarlo, vice
+ president of marketing at Dotster (Panix's registrar), is reported
+ in the InternetNews.com article as saying that Panix did not
+ sign onto Dotster's domain-locking service. According to at
+ least one knowledgeable poster on NANOG, the panix.com domain,
+ as of a month ago, was not locked. The fact that the domain
+ wasn't locked doesn't absolve Melburne IT of failing to adequately
+ authenticate a transfer request, but it does indicate that Panix
+ may not have been as careful as they should have been. 
+
+<p>
+Nice piece at EWeek (successor to PC Week http://www.eweek.com/article2/0,1759,1751981,00.asp
+ ).....Have the new rules already failed, or have the registrars
+ failed their customers?.... 
+
+<p>Reports are several domains were redirected. One source says
+ "Almost 500,000 unique visitors were diverted yesterday to spyware"
+
+<p>Any thoughts from the international crowd about title and registry
+ as systems for confirming ownership of intangibles cf. systems
+ for land title? 
+
+<p>A public audit trail for ownership and hosting transfers sounds
+ nice. The registries auctioning expired and soon to expire domains
+ just might put a registry in some conflict with its clients?
+
+<p>
+Without disputing their designation as "for-real criminals,"
+ it would be quite foolish to pay for such an operation using
+ your own credit line, and computer crackers have at least as
+ much access to card numbers as people who are used to stealing
+ actual physical money.
+
+<p>It wasn't that Dortmunder didn't like computers. You could fence
+ them at the same discount as fur coats or DVD recorders, and
+ a considerably better rate than large pieces of jewelry with
+ names. What he found troubling was the unreality of computer
+ money. Once upon a time, you robbed a store, or if you were
+ large-minded, a bank, and you had a bag with paper in it. Everybody
+ liked the paper, and took it happily. (One of Dortmunder's girlfriends
+ called it "fungibility." The relationship didn't last long after
+ that.) But the important thing was, you knew when you had the
+ paper, you could put it in a box and open up the box to make
+ sure it was still there. Somebody might steal the box -- it
+ happened all the time -- but there were things to do about that,
+ not all of them involving blunt instruments. The computer was
+ a box, but you not only couldn't look inside it to see if the
+ money was there, if the money wasn't there, nobody could tell
+ Dortmunder exactly where it might have gone, or if it even still
+ existed. The U.S. Government had a pretty good set of rules
+ for replacing money that had unfortunately gotten a little burned
+ or had to have unpleasant substances scrubbed off it. They were
+ pretty nice about doing that, for the government. That didn't
+ seem to be true with computer money. It was kind of like knocking
+ over a jewelry store to steal the pretty reflections.
+
+<p>
+Dotster isn't claiming that it's all Panix's fault. The procedure
+ for
+ transferring *unlocked* domains involves notifying the
+ customer and
+ the original registrar. That didn't happen. (The
+ procedure for
+ transferring locked domains is "unlock it first",
+ which also involves
+ notifications.)
+
+<p>(My understanding is second hand, culled from a weekend of reading
+
+ panix.questions. Please correct me if I'm wrong.)
+
+<p>
+Giant bears that shoot laser beams from their eyes were a uhm-er
+ distinctive element of a particular indie RPG, still well remembered
+ among those of us who were there at the time for its awesome
+ awesomelessness. Could be pure coincidence, of course.
+
+<p>
+_Metamorphosis Alpha_ had bipedal wolves that shot radiation
+ from their eyes, which would really suck if your were a hard-working
+ elk just out to earn an honest day's fodder and make it through
+ the day without hair loss or skin tumors.
+
+<p>
+Ah, I fondly remember the silly monsters our local DMs came
+ up with: the Fire-Breathing Hobbit, the Molotov Cocktroll (a
+ troll that explodes when you kill it)...I'm not sure if the
+ Finger-Joint Shooting Skeletons were original, but I'm pretty
+ sure the Toe-Joint version was; they were called MissleToes.
+
+<p>Then there was the Wing, which was nothing but a great big...wing.
+ It wasn't particularly dangerous, but it was completely indestructible,
+ so there was no way to kill it for Experience Points. An example
+ of a TWP, or Time Wasting Pimp.
+
+<p>They were always creating some silly variation that wasn't as
+ dangerous or valuable, so that the players would waste time
+ being careful and trying to kill the thing, instead of ignoring
+ it. One more example: there was a standard critter called an
+ Umber Hulk, which had some kind of mindcontrol spell, I don't
+ remember what. My local DMs invented the Lumber Hulk, which
+ had Control Plants. 
+
+<p>
+Theft of intangibles is not new--look at the amount of fighting
+ and delays in publishing in the scientific world occurs over
+ whose name goes first on a paper/book/study! There were some
+ important ones held up for -years- over such disputes! 
+
+<p>That's a subset of what might be called "fame-stealing" or "fame
+ assigning" or other such things.
+
+<p>Another related example--I heard an NPR interview with a woman
+ whose job is getting permission from people for them to appear
+ identifiable on e.g. American's Dumbest Criminals. The reasons
+ the people agree range from plain old financial remuneration,
+ to their time unit of fame, to the comments made by a DUI offender
+ who tried to bribe the arresting police officer with sex, she
+ wanted the video public and a copy of it for herself as a tangible
+ reminder she could playback anytime she was tempted to touch
+ alcohol again, to show herself just how utterly depraved and
+ disgusting she got when drinking, so she would NOT do so again.
+ 
+
+<p>But anyway, the lure of being of focused on and getting that
+ -fame- and exposure, acted as a powerful incentive. 
+
+<p>
+MelbourneIT was not as merely clueless as the article makes
+ out. When Alexis finally did reach the president's cell phone,
+ all he got was a return call from the corporate attorney saying
+ that they weren't going to do anything about it.
+
+<p>Likewise, Verislime was notified unforgeably (personal contact
+ by personally-known people to their NOC), and they also refused
+ to return the domain.
+
+<p>
+Seth -- is the president of Melbourne IT clueful? (He should
+ be, but is he?) That sounds like standard behavior of a non-geek
+ CEO bothered about geek matters on a weekend (at least if the
+ botherer isn't someone who can drop a hammer on the CEO's company).
+ If MeIT was spun off from a university, who knows what kind
+ of management it was left with?
+
+<p>
+Chip: From reports on NANOG, MIT's CTO, at least, appears to
+ be a stand-up guy. The CEO...well, what do you think?
+
+<p>(Yes, I know that I am not the Seth from whom you expected a
+ response, I just couldn't resist. Mr. Breidbart has gotten mail
+ intended for me on at least one occasion, and vice versa. The
+ first time we met in person, I was disappointed to find that
+ we did not mutually annihilate in a shower of gamma rays.)
+
+<p>
+Metal Fatigue: I think you support my point. Seth was damning
+ the company for the actions of clueless top management. (Yes,
+ it's nice when the CEO is responsible -- consider the round
+ of idiot-CEO trials coming up -- but if the CTO is a standup
+ guy it seems unlikely to me that the company as such could have
+ committed a geek crime.)
+
+<p>I'm not Seth either, but my impression was always that there
+ was a disconnect between techies and management there. The tech
+ people I worked with were serious and straightforward, while
+ the management layer were the sort of people who went on about
+ "Corporate Excellence" and "World Class Services" and so on.
+
+<p>in late January 1996, from Verisign. I planned to use it for
+ my business, and for my Mystery Writers part of my web domain.
+ Then I had to shut down my 3-room office from which I ran Sherlock
+ Holmes Resume Service (partner bailed on me, who'd split the
+ rent).
+
+<p>So I changed the snailmail address on my domain registration
+ to my home address, and Verisign agreed. End of the year, they
+ snailmailed to my old office, and I never got that. Next thing
+ I know, the domain name's scopped up by some obsessed fan who'd
+ legally changed his name to Sherlock Holmes (you know, like
+ that guy who comes to cons and shows you that his driver's license
+ in in his legal name: James T. Kirk).
+
+<p>I could never get it back. So I have to use:
+
+<p>http://www.magicdragon.com/UltimateMystery/Mystery-Index.html
+
+<p>which just doesn't have the name-recognition and marketing pizazz.
+ Not domainjacking. Just that Verisign never cared then, and
+ doesn't care now.
+
+<p>
+JVP wrote:So I changed the snailmail address on my domain registration
+ to my home address, and Verisign agreed. End of the year, they
+ snailmailed to my old office, and I never got that. Next thing
+ I know, the domain name's scopped up
+
+<p>Changing the address on your domain registration does NOT automatically
+ mean your billing address is updated accordingly. This sort
+ of thing was unfortunately all too common with verisign at the
+ time... 
+
+<p>This is either a bug, or a feature, depending on how you look
+ at the situation.
+
+<p>Bonus points for one of the better views of what my daughter
+ & her girlfriends call "Oh look, it's Elijah Wood being asked
+ a really hard math question". (Their casting question: why is
+ Frodo so pretty when the other hobbits are so normal looking?)
+
+<p>There were three original tribes, or peoples, or whichever, of
+ hobbits; Stoors, Harfoots, and Fallowhides.
+
+<p>After they stopped wandering around Wilderland, got over the
+ Misty Mountains, and settled down in the Shire, these tribal
+ distinctions mostly went away, but some of the older prominent
+ families retained some of the characteristics thereof.
+
+<p>The important one for this purpose is that the Tooks retain a
+ strong Fallowhide strain -- meaning that they tend to be thin
+ (for Hobbits), 'bookish', 'pro-elvish interests' like book-learning
+ and the lore of strangers, and pretty, rather than being robust
+ or handsome -- and that Frodo has a lot of Took in him that,
+ well, took.
+
+<p>So they cast Frodo to look outright Elvish, to go with the way
+ he's described at various points.
+
+<p>Alternatively, most of the production was in the hands of rabid
+ fangirls and they wanted Frodo to be really cute.
+
+<p>In the end, I think the second supposition has the better support
+ on the basis of available evidence.
+
+<p>
+There is a Seth Breidbart Ph.D Yale, BA and MA Harvard aka "Seth
+ of the Lunarians" in Fallen Angels aka Seth of "Kill Seth! Kill
+ Seth! Kill Seth!" I know, is that the fellow being referred
+ to as "Mr Breidbart"??? 
+
+<p>Mutually annihilate in gamma rays? Naw, much too mundane and
+ no abstruse math involved.... [Seth is a Math Geek, but doesn't
+ show it generally as publically as some people do....] 
+
+<p>
+A fairly lightweight local newspaper story on your recent ISP
+ transfer troubles. (No, they couldn't resist the panix pun either.
+ Did the name come from something like Public Access Network
+ ... ix? ... er Number Nine??)
+
+<p> Merry chase but no need to PanixThe hijacking of a domain name
+ led to some swift phone calls across the world, writes Sam Varghese.
+
+<p>
+Metal Fatigue: you are the anti-Seth? (I will leave aside a
+ theological discussion about whether that necessarily makes
+ you Osiris.) Perhaps you could supply antisethtics for the raffle
+ at Lunacon. (No, seriously, Seth buys a lot of tickets and thus
+ contributes lots of money to the cause. Whatever it is.)
+
+<p>At any rate, I think you actually agree with Paula, who was saying
+ that mutual annihilation would be too mundane, and not involve
+ sufficient abstruse math, to be the end of the Seth and the
+ Anti-Seth. 
+
+<p>I suggest that what actually happened when you met in the flesh
+ is that each of you generated a virtual self, which changed
+ places with the corresponding self of the other, and that the
+ originals were, in fact, annihilated and replaced with the virtuals,
+ not that it matters (npi), since they are identical in every
+ respect. To a casual observer it would appear that you passed
+ close to each other (or perhaps through each other, but no such
+ observation has been reported in the Journal of Sethology) with
+ no ill effects, whereas actually mutual annihilation was, in
+ fact, achieved, but the matter generated was exactly equal to
+ the energy released (minus a bit for entropy; I assume you felt
+ somewhat tired after this event).
+
+<p>The abstruse math is left to the reader. If Catherine Asaro is
+ out there, no doubt she can correct my physics (which is a little
+ rusty, since I haven't studied it since about 1972).
+
+<p>re: "The abstruse math is left to the reader. If Catherine Asaro
+ is out there, no doubt she can correct my physics (which is
+ a little rusty, since I haven't studied it since about 1972)."
+
+<p>I will avoid abusing readers with Math and Physics, except to
+ point out the current controversy about information being lost
+ or not lost in Black Holes (Stephen Hawking admitting he was
+ wrong, etc.). For our purposes, if Seth fell into a black hole,
+ and Metal Fatigue did not, but Seth & anti-Seth are quantum
+ entangled, then what happens to their blog postings? This being
+ the Einstein Wonderyear Centenary, the International Year of
+ Physics, and all that, there's a Nobel Prize in Blogology waiting
+ for the right person here...
+
+<p>
+Epacris: panix I think came from "public access network *ix",
+ inasmuch as most Unix variants of the time were called something
+ ending in -ix (Ultrix, AIX, etc) and were generically called
+ *ix.
+
+<p>
+I heard a story on NPR that the US government was upset with
+ Panix for refusing to turn over customer lists, or something
+ like that. Is anyone here familiar with that story? I hate to
+ feel paranoid.
+
+<p>
+A memory just surfaced from long ago, wherein at the end of
+ a party at a convention, Mr Ford made a reference to the poem
+ about Dr Edward Anti-Teller, that failed to elicit comprehension/recognition
+ on the part of both TNH and PNH. 
+
+<p>
+Yes, Dr. Edward Anti-Teller, "sitting, knitting macassars for
+ his chairs." Can't remember the name of the poem but it's reprinted
+ by Martin Gardner in one of the Annotated Alice books...
+
+<p>
+See also recent discussions on phishing morphs to pharming -
+ The Register and all the usual suspects
+
+<p>Gerhard Eschelbeck, CTO of Qualys, cited the recent hijack of
+ New York ISP Panix as typical of the type of threat that might
+ emerge. Eschelbeck reckons the use of redirection attacks remains
+ largely the domain of mischief makers. Other security commentators
+ ascribe darker motives. "Pharming is a next-generation phishing
+ attack," Scott Chasin, CTO of MX Logic, told Government Computer
+ News.
+
+<p>
+The -ix name in the earlier waves of ISPs often stands for 'Internet
+ Exchange'. I know this is true of 'CIX' (Commercial Internet
+ Exchange) and 'LINX' (London INternet Exchange), at least. May
+ or may not hold in the panix case, though.
+
+<p>As mentioned, it appears that the CEO of MelbourneIT is clueless,
+ the CTO clueful. The company deserves damnation for the actions
+ of its top manglement; they're the ones responsible for (in
+ any number of cases) driving it into the ground.
+
+<p>Metal Fatigue, I seldom use the title in polite conversation,
+ at least in the US. When I do use it here, it's either in a
+ (very) professional situation, or insulting. I like the (implied)
+ attitude of the Yale faculty on the topic: "Of course I have
+ a doctorate. Doesn't everybody?"
+
+<p>Paula, I don't have an MA from Harvard, my first degree there
+ is an SM. (Advanced degrees there are in Latin.)
+
+<p>
+Seth:  Paula, I don't have an MA from Harvard, my first degree
+ there is an SM. (Advanced degrees there are in Latin.)
+
+<p>When we were there, all the degrees were \named/ in Latin. (Don't
+ ask me what the diploma said; I have no idea where mine is.)
+ People are occasionally amused that I have an AB in Chemistry
+ (because SB was awarded only for extra-heavy concentration in
+ ]sciences[).
+
+<p>I may have been too drowned to remember (it rained buckets on
+ my commencement), but IIRC Yale (alma mater of my sister the
+ traditionalist) outclassed Harvard in two particulars, neither
+ of them involving large friendly letters: one set of degrees
+ (business? law?) were conferred in the future tense (indicative,
+ not subjunctive) due to a calendar glitch, and the PhDs were
+ conferred in Latin.
+
+<p>And if you want to start a fight, try contradicting a woman of
+ about our classes about which college her degree is from....
+
+
+

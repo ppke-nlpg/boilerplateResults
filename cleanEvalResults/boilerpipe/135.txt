@@ -1,0 +1,21 @@
+<h>Rants and Articles.
+
+<p>August 29, 2004
+
+<p>I was eight when I got my very first, honest-to-god computer. It was a Commodore 64 , which I’d been ogling for the better part of a year, ever since I became mistyfied by my first encounter with a computer mouse. Computers were going to change the face of the Earth back then, you see? We were all going to become millionaires if we got into computing.
+
+<p>It was bullshit, but it was very appealing bullshit, and we all bought it. Liked it, too.
+
+<p>Mothers drove in hordes to enroll their kids in computer classes. I begged my parents to get me in on the digital revolution that was going to shape the future.
+
+<p>Of course they couldn’t refuse.
+
+<p>The school’s name was “Galileo Center”. They had small branches strewn all over the country and a cheap tie-in TV programme that aired Saturday mornings and featured kids competing in games of manic miner and jetpac for paltry prizes and promotions. Considering the air of campiness that surrounded it, it was surprisingly competent as a programming school. I did Karel . I did LOGO . I did BASIC , Graphic BASIC and Pascal.
+
+<p>Many years later I found myself using an utterly new thing called the internet. Unlike computers themselves, the world-changing potential of this newfangled stuff wasn’t that apparent. Its main purpose seemed to be allowing anti-social geeks like myself to download the full script to all of Monty Python ’s movies, ASCII porn (yes, there was such a thing ) and engage in virtual text battles inside imaginary worlds .
+
+<p>But it changed things all right. It started a new dialogue among like minded individuals. A truly remarkable feat if I’ve ever seen one. I’m not talking about your grandmother who emails her niece and sends pictures via the mail thingie in her home computer. I’m talking about those of us who work with the very infrastructure of this new beast. Those who couldn’t possibly conceive a day without the internet. We. The compulsive Slashdot refreshers, the boingboing ers, the acronym-gobblers, the architects and designers and programmers whose very livelihood is dependent on the flow of ones and zeroes.
+
+<p>Our words are bits and our statements are programs. We have come to know each other’s bugs and learned to cope with them. We have resisted authority. We have lost and we have won . We have found ways to beat the system and we have developed altogether new systems to cope with our ever-increasing desire for information. Because information, its free flow and its sharing is what will ultimately make a difference in this Big Old World?.
+
+<p>

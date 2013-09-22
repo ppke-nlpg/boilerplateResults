@@ -1,0 +1,49 @@
+<h>Technological Excuses: A Rant : D. Keith Robinson's Asterisk
+
+<p>Technological Excuses: A Rant
+
+<p>25 Comments
+
+<p>“Can’t Never Did Anything.”
+
+<p>That was something my Mom used to say to me when I was little.  And it’s true.  There were times in my young life where I had a decidedly “can’t do” attitude. I’d come up with all sorts of reasons why I just couldn’t do something.  Of course my mother, with her motherly wisdom and years of experience, knew all too well that I could do these things.
+
+<p>I was either lazy, or scared or intimidated or just plain didn’t want to do.  This is an attitude I see quite often from Web professionals and I can’t help buy wonder why.
+
+<p>Technological scapegoat
+
+<p>Now that I’m older I can better recognize the “can’t do” when it pops up, in myself and in others.  And frankly it pisses me off more often than not.  Sure there are times when you really can’t do something and there are legitimate times when you simply don’t want to do something for whatever reason.  But more often than not it seems to be laziness, fear or lack of know-how.
+
+<p>I don’t know how many times I’ve heard someone say something like, “the CMS won’t allow us to do such-and-such.” Or, “our FlexGUI won’t allow for easy implementation of a liquid layout.”
+
+<p>(That last one is true.  Totally hilarious, but true.)
+
+<p>I’ve been guilty of this and to be honest, I’m really working on never again blaming a bit of technology on anything unless it’s really the reason why something can’t be done and I’ve got no hope of trying another technology or getting around it in some way.
+
+<p>Most often it doesn’t even come to that.  I sit down and think about it and usually I’ll come up with a solution.  Nowadays if I honestly think something can’t be done, I say I’ll try and sort it out and at least give myself a chance to solve the problem before thinking of another way.
+
+<p>I had a Web developer the other day tell me we couldn’t recreate a simple roll-over effect with CSS. Maybe he couldn’t get that working right that second, but it definitely could be done.
+
+<p>Technology shouldn’t make business decisions
+
+<p>In many cases I’m seeing that the technology (or, more accurately, the people using the technology) is driving business decisions.  This, to me anyway, is totally backwards.  A classic cart before the horse situation. It reminds me of a “dot-bomb” experience I had awhile back.  I worked for a company who would let their testing department dictate the release schedule.  Sure this was great for the geeks who felt they always needed more time, and simply “couldn’t conform to marketing’s aggressive schedule.” But it drove the rest of the company crazy.
+
+<p>I always thought this was bullshit.  I mean, shouldn’t business people make business decisions?  If you can’t handle the workload, hire more people.  If you’re technology isn’t flexible enough to handle the requirements laid out by your designers, get a new technology.  Technology should help you solve problems, not create more.
+
+<p>It’s a people problem
+
+<p>99% of the time I hear someone crow about not being able to do something it sure as heck can be done.  Sadly oftentimes instead of actually getting done it gets half-assed or compromised in someway and this more often than not causes failure for the project.  You can usually chalk that up to poor decision-making or ego.
+
+<p>And why to companies insist on riding a technology until the bitter end?  I mean if it’s really a hinderance and you know it’s going to fail, wouldn’t it make sense to kill it and go a new direction sooner rather than later?  I’ve seen millions (yes, millions) wasted on a poor choice of technology.
+
+<p>I think this is usually an attitude problem, cultivated by having to deal with poorly developed technology.  There are a few ways around this.  First, take a positive, problem solving attitude and second, get better (more flexible, more standard, more appropriate, etc.) technology.
+
+<p>Prepare.  Then take a can do, problem solving attitude.
+
+<p>A truly successful business will take a decidedly can do attitude and back that up with solid research, helping to insure the technologies they go with won’t provide any opportunity for a can’t do mentality to rear it’s ugly head.
+
+<p>As well, successful leaders know when to put their ego on ice and pull the plug on something that is destined for failure.  A sure sign of successful leadership is how they deal with bad decisions and crisis.
+
+<p>Sounds pretty simple to me.
+
+<p>

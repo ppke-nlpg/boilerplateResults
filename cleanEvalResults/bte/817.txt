@@ -1,0 +1,153 @@
+
+URL: http://www.wombatnation.com
+ 
+
+<p>Ok, this is getting tedious. It looks like I need to investigate writing some code to automating writing the inital part of these earthquake posts. 
+
+<p>At 9:21 this morning   we had a 3.5 magnitude earthquake   at almost the exact same location as yesterday evening&#8217;s quake. I was still lying in bed when this one hit. I felt a quick, thudding jerk to the right, followed by a series of smaller bumps that diminished in amplitude. It lasted for only about 1 second. The direction of the initial movement was away from the epicenter.  
+
+<p>   1 Comment 
+
+<p>   : 12:26 am:   Robert  Earthquake 
+
+<p>   Earthquake #2 
+
+<p>Just two days after our   3.7 temblor  , another earthquake just struck tonight at 10:50 pm. This one felt a little weaker at our house, but it had more of a rumbling, rolling character. It seemed to last just over one second, with one loud thump followed quickly by several thumps of diminishing amplitude. 
+
+<p>It was also a   3.7 according to the USGS  . When I first went to the page for tonight&#8217;s it was listed as a 3.6, but when I refreshed the page it had changed to a 3.7 after review by a seismologist. This quake was also 2 miles ESE of Berkeley, but it was 6.2 miles deep instead of 5.6 miles deep.   Let&#8217;s hope the North Hayward fault is just letting off a little stress, and not warming up for the big one.  
+
+<p>   0 Comments 
+
+<p>   12/20/2006: 9:05 pm:   Robert  Earthquake 
+
+<p>   Earthquake! 
+
+<p>Not a huge quake, but it was pretty close to us. The   preliminary USGS report   says it was a 3.7 at 7:12 pm 2 miles ESE of Berkeley. The epicenter was very   close to the Claremont hotel in Oakland  . 
+
+<p>I felt a couple of thumps over about 2 seconds. There was one relatively strong thump and a couple of mild ones. The only damage we know of so far at our house was one cookie sliding off a cookie sheet in the oven.   I filled out the USGS survey indicating how strong the shaking was at my house. The   Community Internet Intensity Map for this quake is available online  . 
+
+<p>A friend who was still at the office in Alameda IM&#8217;d me immediately to ask if I also felt the quake. My wife called KALX and they didn&#8217;t feel anything there, even though they are much closer to the epicenter. Of course, the radio station is in the basement of a building on which a ton of money was spent on seismic retrofitting. 
+
+<p>Given how minor the quake was, I don&#8217;t think the seismic work we had done on our house this summer made much of a difference, but I&#8217;m still very happy to have had the work done.  
+
+<p>   0 Comments 
+
+<p>   12/19/2006: 8:56 pm:   Robert  Bicycling 
+
+<p>   Mad German Cycling Skills 
+
+<p>Not a mad German, actually, but mad skills (I refuse to write skillz, damn it, I just did) demonstrated by a German woman from   Universität Würzburg  . She performs some   amazing stunts while riding a fixie   in a gymnasium. I&#8217;ve seen guys do some of this stuff on stunt bikes, but I think it&#8217;s a lot easier on a small bike that is built for stunts. Not that I would really know. My best stunt was doing a stoppie on my road bike while skidding through an intersection past the hood of a car that almost cut me off. Maybe that and fishtailing around a dog that ran directly in front of me in the street as I was coming down a 11 percent slope at about 35 miles per hour. Don&#8217;t tell my mother about either of those.   I think she is performing at some kind of end of semester event at the university. I tried to understand the conversation in German at the beginning, but they weren&#8217;t talking loud enough for me to understand much of it.  
+
+<p>   0 Comments 
+
+<p>   11/19/2006: 9:59 pm:   Robert  Privacy and Security  ,   Speech 
+
+<p>   Mediocre Fraud Alert DTMF/Voice Apps 
+
+<p>In response to the   notification from Avaya that my personally identifiable information may have been compromised  , I decided to try the automated phone systems used by Equifax, Experian and TransUnion for adding a fraud alert to my credit file. All three automated DTMF/voice applications were pretty bad. 
+
+<p>  Equifax 
+
+<p>The app used two significantly different male voices. What was really bad, though, is that the app played essentially the same long winded message in both voices informing me that Equifax would automatically request that Experian and TransUnion place a fraud alert on my credit file. You almost get the feeling they don&#8217;t want you to set up a fraud alert. 
+
+<p>The Equifax app also had the absolutely useless intro message of &#8220;Please listen carefully, as our menu options have changed.&#8221; Who would ever call this app enough times to have memorized the options? Also, when did the options last change? Yesterday, two years ago? About the only reason an app should have this prompt is if it is frequently used by power users and the options really have changed very recently. 
+
+<p>The app provided no confirmation of spoken digits, even when I intentionally spoke them quickly and slurred the numbers. When I slurred the digits so much that it didn&#8217;t hear all of them, I got a prompt indicating that the number needed to be ten digits. 
+
+<p>The app failed to place a fraud alert on my credit file, very likely due to the fact that it probably collected incorrect numbers that it failed to confirm with me so i could correct them. 
+
+<p>  Experian 
+
+<p>The app was DTMF only, so there was much punching of digits on the keypad. This made the data collection process slower and more painful than for Equifax and TransUnion. 
+
+<p>The app started with a menu of options. Setting up a fraud alert wasn&#8217;t one of them. By stepping through several layers of menus, I finally got to the point where fraud alerts were mentioned. 
+
+<p>Along the way, I was offered the option to hear an eight-minute recording of California rights, since I called from a California area code. Neither Equifax and TransUnion offered this. I don&#8217;t know if they are supposed to, but I can pretty much guarantee no one will listen to it. Since Experian is paying the toll charges for the phone call, they don&#8217;t want you to listen to it, either. 
+
+<p>The app was very repetitive. It presented the same info in several ways. Many of the prompts repeated themselves. It was repetitious. 
+
+<p>One good thing about the app was that it used a single female voice for the prompts. The   VUI   design was not very good, though. The confirmation dialogs were particularly painful. 
+
+<p>Several prompts in, I was informed that to place a fraud alert, I would need to be transferred to a separate secure system and that I would not be able to return to the main menu. Which made me wonder, why did I start out in the insecure system? What made the secure system secure? It&#8217;s not like our conversation was suddenly being encrypted. 
+
+<p>The best thing about the Experian app is that I was able to use it to successfully add a fraud alert. It was a painfully slow, mind numbing experience, but it appears to have worked. 
+
+<p>  TransUnion 
+
+<p>The TransUnion app started with a very specific fraud alert intro. It also used a single female voice throughout the app. Like the Equifax app it accepted spoken digits and yes/no, in addition to DTMF digits. 
+
+<p>The confirmation dialogs for digits were clunky &#8220;We captured one two three four five&#8221;, but at least they were there. I&#8217;m still wondering who the &#8220;we&#8221; was. I only heard one voice. Maybe it was the royal &#8220;we&#8221;. 
+
+<p>  Summary 
+
+<p>The VUI for each of the apps appears to have been designed by someone with little experience in   IVR   application design. As far as usability goes, I would rank them as follows: 
+
+<p>TransUnion 
+
+<p>Equifax 
+
+<p>Experian 
+
+<p>However, I have to give Experian some extra points, because it was the only app that alowed me to successfully place a fraud alert on my credit file. Nonetheless, it&#8217;s hard to call any of them a winner. 
+
+<p>While plodding through these automated systems, I took the opportunity to clean up dead links and out of date info on my   privacy and security   page.  
+
+<p>   0 Comments 
+
+<p>   : 5:58 pm:   Robert  Privacy and Security 
+
+<p>   Fraud Alert and Incorrect Experian Phone Number 
+
+<p>I just received a letter from Avaya informing of the theft of an employee&#8217;s laptop that may contain my personally identifiable information (PII). The letter suggests that I contact one of Equifax, Experian or TransUnionCorp to have a fraud alert placed on my credit file. If you contact one, they will allegedly automatically contact the other two. 
+
+<p>While I&#8217;m glad to have received the notification so I can take action before something bad happens, I wish Ross Senholzi, Director, Finance, (or more likely, one of the people in his group) had spent a few more minutes proofreading the letter. One glaring error in the letter is the URL for filing a complaint with the FTC. Somehow I don&#8217;t think that www.consumer.gov/idtehft (sic) is the correct URL. Unless, of course, the people managing the website at the FTC can&#8217;t spell &#8220;theft&#8221; either. At least this is an obvious mistake that virtually everyone will correct if they type it into a browser. 
+
+<p>A far worse error is an incorrect number for Experian. The correct number is 888-397-3742, not 800-397-3742. In Avaya&#8217;s defense, lots of other people get this wrong, too. Search on &#8220;800-397-3742&#8243; and you will find a lot of sites listing this as the Experian fraud alert line. But they could have at least tried calling the number once. 
+
+<p>If you call 800-397-3742, you get an amazingly bad DTMF app. After a welcome message &#8220;Hello and thank you for calling&#8221; that never mentions Experian, you are presented with a one choice menu, &#8220;To hear how we can easily help repair your credit by removing negative or erroneous items from your credit report, please press 1 now&#8221;. If you don&#8217;t do anything, the prompt repeats. A few seconds later, the app hangs up on you. 
+
+<p>Here&#8217;s the rub, though. If you do press 1, you get a sales pitch from the &#8220;Consumer Information Bureau&#8221; for a paid service to repair your credit record. If you press 0 to try to reach an agent, the app hangs up on you. The owner of this number appears to be some other company that has latched on to the fact that many websites have the wrong phone number for Experian. A reverse lookup on 888-397-3742 returned Experian as the owner of the number. A reverse lookup on 800-397-3742 returned nothing. 
+
+<p>This is very, very bad.  
+
+<p>   1 Comment 
+
+<p>   11/11/2006: 10:25 pm:   Robert  Software 
+
+<p>   OS Sounds 
+
+<p>Microsoft supposedly spent   18 months working on the 45 built-in system sounds for Vista  . This may seem like a long time (and I guess it is), but I have yet to use an OS where I enabled the system sounds for any significant amount of time. It may not seem like a difficult task to come up with 45 short sounds, but they need to appeal to a lot of people, produce a cognitive association with a specific type of event, sound good on a wide array of sound production devices, etc. 
+
+<p>OS X has probably been the closest to acceptable to me. With previous Windows versions, I&#8217;ve usually turned off the system sounds within just a few days of turning them on. I&#8217;ve been trying out the standard set of system sounds with Fedora Core, but I&#8217;m not too enamored with them, either. 
+
+<p>I was pretty surprised to learn that Robert Fripp was hired by the Vista team to produce a lot of recordings, some of which were used to develop the four-second startup sound. It turns out that Brian Eno actually did some recordings from Windows 95. I don&#8217;t remember any Windows 95 sounds being particularly Enoesque, but then I don&#8217;t remember Windows 95 very well at all, either.  
+
+<p>   0 Comments 
+
+<p>   11/1/2006: 11:44 pm:   Robert  Linux 
+
+<p>   Acrobat and Fedora Core 6 Conflict 
+
+<p>If your web browser (this happened for very recent versions of Firefox and Opera for me) hangs within seconds after launching on Fedora Core 6, check in the System Monitor to see if a process called acroread is consuming virtually all the CPU cycles. Killing the process isn&#8217;t sufficient. A new acroread process will be started every time you launch the browser, presumably due to a browser plug-in. There is a solution, though: 
+
+<p># rpm -e acroread 
+
+<p>Fortunately, there are plenty of other options for viewing PDFs with Linux.  
+
+<p>   3 Comments 
+
+<p>   10/26/2006: 11:10 pm:   Robert  Music 
+
+<p>   KALX Fundraiser 2006 
+
+<p>  The   KALX Fundraiser for 2006   runs through this Sunday. But don&#8217;t wait, call (510) 642-5259 to donate now. Yes, now. Hey, how can you possibly live without a t-shirt displaying an acorn radio lovin&#8217; squirrel? I like the fact that it actually appears to be a hybrid wombat-squirrel.  
+
+<p>   0 Comments 
+
+<p>   10/25/2006: 11:50 pm:   Robert  Food and Drink 
+
+<p>   How You Know You&#8217;re in Texas 
+
+<p>Whenever we go to San Antonio, we always eat at a Mexican restaurant called Las Palapas near my mother-in-law&#8217;s house. 
+
+<p>  

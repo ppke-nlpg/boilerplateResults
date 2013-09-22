@@ -1,0 +1,15 @@
+<h>Simon Willison’s Weblog
+
+<p>Why the term Ajax is useful
+
+<p>Software design patterns are useful mainly because they provide a shared vocabulary: rather than discussing the intimate details of a three layered application architecture, we say “MVC”. Rather than describing an object that tracks your progress while looping over a collection, we say “Iterator”.
+
+<p>The same is true for Ajax . While the techniques it describes have been around for years, grouping them under a single term is extremely valuable for raising the level of discussion about them. No longer will we have to explain XMLHttpRequest / hidden iframes / crazy cookie tricks in depth when discussing sites which pull fresh information from the server without reloading the whole page. Instead, we can say “Ajax” and move on to more interesting things.
+
+<p>Matthew Haughey says it’s all about marketing . I disagree; it’s about smarter and more effective conversations.
+
+<p>Posted 19th April 2005 at 1:15 am
+
+<p>This is Why the term Ajax is useful by Simon Willison, posted on 19th April 2005 .
+
+<p>

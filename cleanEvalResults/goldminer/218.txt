@@ -1,0 +1,50 @@
+
+URL: http://www.aish.com/dating/advice/Dating_Advice_12_-_Financial_Decisions.asp
+<p>Questions for Rosie & Sherry can be sent todatingmaze@aish.com.
+ Due to the large volume of questions received, they are unable
+ to answer each one.
+
+<p> Rosie Einhorn (a psychotherapist) and Sherry Zimmerman (a family
+ lawyer) are the authors of a brand-new book, "In The Beginning
+ - How To Survive Your Engagement and Build a Great Marriage"
+ (Targum Press), and of "Talking Tachlis - A Singles&#39 Strategy
+ for Marriage." They are founders of Sasson V&#39Simcha (www.jewishdatingandmarriage.com),
+ a non- profit organization which provides programs and services
+ to help Jewish singles. Rosie & Sherry present seminars on effective
+ dating throughout Israel and the U.S. 
+
+<p> If you would like to receive this or other Aish.com features
+ via e-mail, please enter your e-mail address here:
+
+<p>  
+
+<p>Namerequired
+
+<p>Display my name? Yes   No
+
+<p>EMAILrequired - not displayed
+
+<p>Your email address is kept private. Our editor needs it in case
+ we have a question about your comment.
+
+<p>One Line Summary:
+
+<p>Commentsrequired
+
+<p>Aish.com Weekly Email - Over 190,000  subscribers
+
+<p> 
+
+<p>
+ Like what you read? As a non-profit organization, Aish.com
+ relies on support from readers like you to enable us to provide
+ inspiring and relevant articles. Click here to support Aish.com.
+
+<p>
+ <!-- function Info(url){ var w=500, h=300; var left = 1, top
+ = 1, scr = window["screen"]; if(scr) { left = (scr.width - w)
+ / 2; if(left < 1) left = 1; top = (scr.height - h) / 2; if(top
+ < 1) top = 1; } window.open(url, 'Info','top='+top+',left='+left+',width='+w+',height='+h+',scrollbars=1,resizable=1,name=InfoWindow,screenX=1,screenY=1');
+ } // --> 
+
+

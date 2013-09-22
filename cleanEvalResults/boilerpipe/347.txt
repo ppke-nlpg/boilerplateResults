@@ -1,0 +1,27 @@
+<h>Broad Coalition of Organizations Calls for More INDUCE Act (IICA) Hearings
+
+<p>A broad collection of technology companies, civil liberties groups and other organizations have just released a letter calling for further hearings on the Inducing Infringement of Copyrights Act of 2004 before the bill enters markup. The letter is a response to the new version of the INDUCE Act (IICA) proposed by the Copyright Office (which I haven't yet written about, but is most definitely on my "to do" list). Clearly, Congress should take this letter's advice.
+
+<p>Text of the letter below:
+
+<p>Dear Senators Hatch and Leahy:
+
+<p>The undersigned entities are writing to express their concerns with the Copyright Office's September 9, 2004 recommended statutory language for a new form of secondary liability for copyright infringement.  We commend the Copyright Office for its efforts to meet with the many different stakeholders and to fashion a recommendation that attempts to address the competing interests.  Notwithstanding the Copyright Office's hard work and creativity, the September 9 draft is not ready for mark-up by the Senate Judiciary Committee. The draft raises a host of new issues and would create an unprecedented new form of liability of uncertain, but potentially unlimited, reach.
+
+<p>The Copyright Office's most recent approach would create a new form of strict copyright liability for a large class of providers of hardware, software and services used in conjunction with the electronic or physical dissemination of goods, services, and information.  These companies and institutions could be found liable without regard to their knowledge, intent, or relationship to the infringer, simply for providing a product, service, facility or financing.  All it takes to be found liable is to meet one of the three vague criteria proposed by the Copyright Office, which are to be applied to some undefined subset of a defendant's products or services.  As a result, anyone involved in the development or operation of electronic, or even physical, communication, distribution, or dissemination technologies could be strictly liable when it unknowingly derives revenue that may be small in relation to its own provision of goods and services.  Perhaps most troubling, entities that participate in the Internet and other electronic space would have no way of structuring their activities to anticipate and avoid -- or even minimize -- these risks.
+
+<p>The Copyright Office's new draft fails to codify the Supreme Court's Betamax decision, which, despite having fostered twenty years of explosive growth in technology, is now under unrelenting attack.  Moreover, the Betamax doctrine will provide no defense against the Copyright Office's proposed new form of liability.  Nor would it be availing to present any defense based on lack of knowledge, intent, or affiliation with any infringer. Thus, legitimate enterprises may have no effective means of preventing the substantial litigation cost of virtually every infringement case going to trial.  The September 9 draft also explicitly opens the door to secondary liability -- posing yet another challenge and obstacle -- to those who finance new ventures or "incubate" new technologies.  Thus, it may sweep up far more than bad actors who build business models based in infringement.
+
+<p>While the decision to embark on a new approach shows that the Copyright Office has been willing to listen to criticism of previous approaches and to explore new directions, the very novelty of this approach suggests that further analysis and review are in order.  Indeed, each major alternative that has been presented to your staff (including those emanating from the private sector) has revealed an attempt to avoid the pitfalls of S. 2560 as introduced, yet has differed dramatically from other serious proposals.  No private or public sector consensus has yet formed as to theoretical framework and practical impact.
+
+<p>In the first hearing on S.2560, the Committee called on interested parties to propose legislative alternatives.  The resulting process has led to a number of significant alternatives, which differ greatly from the original and from each other.  However, each would work a fundamental change in copyright law, with potentially enormous impact on the competitiveness and economic growth of this nation.  Before any approach becomes law, it should, at minimum, be subjected to careful scrutiny in a public hearing at which novel elements in these approaches can be compared, and discussed as to their full implications.  The process thus far has been constructive, but has not resulted in either the consensus or the confidence in a legislative framework that ought to underlie a major and consequential revision to the Copyright Act.
+
+<p>We continue to appreciate the seriousness and cordiality with which your staffs have approached this issue, and look forward to continuing to work with you and with them.
+
+<p>Sincerely,
+
+<p>[Numerous technology companies, civil liberties groups and other organizations]
+
+<p>Want to know more about the INDUCE Act?
+
+<p>

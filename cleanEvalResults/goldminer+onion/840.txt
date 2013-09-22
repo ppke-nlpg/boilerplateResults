@@ -1,0 +1,108 @@
+
+URL: http://lists.w3.org/Archives/Public/www-qa-wg/2002May/0013.html
+<p>FINAL MINUTES QA Working Group Teleconference Friday, 5-May-2002
+ Scribe: Jack Morrison Attendees: (KG) Kirill Gavrylyuk (Microsoft)
+ (dd) Dimitris Dimitriadis (Ontologicon) (LH) Lofton Henderson
+ (CGMO - WG co-chair) (JM) Jack Morrison (Sun) (LR) Lynne Rosenthal
+ (NIST - IG co-chair) (DM) Dave Marston (S) Sandra Martinez (sandra.martinez&#x40;&#0110;&#0105;&#0115;&#0116;&#0046;&#0103;&#0111;&#0118;)
+ Regrets: (MS) Mark Skall (NIST) (DD) Daniel Dardailler (W3C
+ - IG co-chair) (DH) Dominique Hazael-Massieux (W3C - Webmaster)
+ Absent: (KD) Karl Dubost (W3C, WG co-chair) (PF) Peter Fawcett
+ (Real Networks) (KH) Katie Haritos-Shea (DOC) (AT) Andrew Thackrah
+ (Open Group) (OT) Olivier Thereaux (W3C - systems) Summary of
+ New Action Items: A-2002-05-02-1 - dd - provide text for Checkpoints
+ 12.1, 12.2 and 12.3 by cob tomorrow (05/03/02) A-2002-05-02-2
+ - dd - provide text for Checkpoints 13.1, 13.2 and 13.3 by cob
+ tomorrow (05/03/02) and remove bulleted items in Guideline 13
+ description A-2002-05-02-3 - KG - draft issue statement for
+ Charter 3 (Issue 62) A-2002-05-02-4 - LH - draft issue statement
+ about Ops Guideline dealing with existing working groups A-2002-05-02-5
+ - KG - forward need CHECKPOINTS/GUIDELINES to LG by cob tomorrow
+ (05/03/02) and distribute to WG for review prior to pub cutoff.
+ Previous Telcon Minutes: http://lists.w3.org/Archives/Public/www-qa-wg/2002Apr/0100.html
+  Agenda: http://lists.w3.org/Archives/Public/www-qa-wg/2002Apr/0113.html
+  Minutes: 1.) Roll call See Above 2.) Any WG Logistical Topics
+ Many of the members are travelling today so the website and
+ logistics items were skipped 3.) Any discussion about FPWD Ops-Extech
+ LH The scope of this release is to define some case studies.
+ Should probably explain that a new section on General Remarks,
+ but do not have time before publication cutoff to write it.
+ ALL Team felt this was okay and that for now 3 case studies
+ was sufficient, as long as the Introduction was updated to explain
+ this is the first draft and that additional details will come
+ later. LH Other than that, some basic cleanup and a pub rules
+ check it was almost ready to do. LH When trying to write case
+ studies for Ops-Extech felt that the way the checkpoints are
+ currently written in the Ops Guidelines deals with new projects
+ and that the checkpoints are different for an existing Working
+ Group. Probably need to write something that applies equally
+ to all groups. The first 6 or so checkpoints all use the word
+ "charter", and maybe should not. Could we instead put in the
+ Methodology section something that describes how an existing
+ WG can achieve the checkpoints ? KG We should probably keep
+ it as is and just add in notes about what existing WGs need
+ to do. LH Since we can not decide this quickly we will leave
+ it open to after the public draft is release. (Lofton - If you
+ did not notice, I added an AI to you to create an issue here
+ - Jack) 4.) Continued checkpoint review of Ops-Spec Guidelines
+ (Lynne) Guideline 6 LR Explained what the objective of the section
+ was. ALL Everyone appears to be okay the way it is, so no changes
+ are required. Guideline 7 KG Since we are not going through
+ the Priorities should indicate that in the Status LR Will add
+ the note before pub release Guideline 12 dd Explained why the
+ sections are here in general. LH In the description, paragraph
+ 2, need pointer to the xmlspec. dd Will send link to LR by tomorrow.
+ LH Appears checkpoints 12.1, 12.2 &amp; 12.3 still need to be
+ described. dd Wanted to make sure that all the overall guidelines
+ are okay LH AI dd to provide description of checkpoints 12.1,
+ 12.2 &amp; 12.3 to LR by COB tomorrow. (05/03/02) ALL In CP12.2
+ need to define what is meant by "intended behavior" and how
+ it is connected to the test assertions. ALL In CP12.3 discussed
+ what needed to be in this guideline, that the terms are not
+ yet defined, and will be defined later, but we do need to document
+ what it means Guideline 13 LH/dd Need to be clear about the
+ terminology. Testable statements make up the test assertions.
+ Testable assertions are synthesized from the testable statements
+ and are a superset/group of them LR Not sure there is a distinction
+ between the terms, what was meant in CP13.1 was that everything
+ should be testable and you must have a way to get at the specific
+ items that need to be tested. LH/KG Not all testable assertions
+ are defined in the specification and we should not imply they
+ all should be. LH AI dd to provide description of checkpoints
+ 13.1, 13.2 &amp; 13.3 to LR by COB tomorrow. (05/03/02), and
+ remove bulleted items in Guideline 13 description. Aside to
+ Chapter 3 LH Since it is not defined maybe we should take this
+ out of the draft ? dd The section should probably stay even
+ if just as a placeholder. We need to define how the W3C will
+ endorse the specification guidelines. LR Is supposed to cover
+ endorsement by the W3C ? LH I thought it was more about the
+ interface between the various group ? If we are not sure then
+ I feel we should leave it out for now and create an issue around
+ it. MOST Agreed to drop it for this draft LH AI KG to develop
+ draft issue statement for Charter 3 (Issue 62) Guideline 7 (cont.)
+ KG Is the usage case definition "once included in the specification
+ the usage case becomes normative" acceptable ? DM If you add
+ "unless otherwise specified" it is much better ALL Agreed Guideline
+ 8 LH In CP8.2 change "should be" to "to be" LR Will try to make
+ the CPs more general and hash out the specifics when we review
+ priorities KG I have two additional (CHECKPOINTS or GUIDELINES
+ ?) that I would like to have added to the spec, if there is
+ no strong objection. LH I do not think we should add them unless
+ the group has a chance to review them. KR I will forward them
+ LR and the rest of the WG today. If no one has strong objections
+ THEN we can put them in. ALL Okay. Guideline 9 LH Definition
+ of Class of Product from dd will be in the next deaft, not this
+ one. Guideline 10 LH This will be a controversial guideline.
+ There are a lot off issues here. LR CP10.3 basically means do
+ not break things that are required functionality Guideline 11
+ LH We are already over the time limit and so unless there is
+ strong objection to this one. ALL Hearing none ... 5.) Adjourn
+ LH Asked who was going to the F2F. KG, SM and LH said they were
+ going. Discussed the need for dial in/out capability for the
+ F2F and felt it would be helpful. LH will check with Karl. LH
+ Next meeting will probably be in 3 weeks, LH to send out mail
+ and poll members. Next Meeting (tentative) Thursday, May 19,
+ 2002 2PM EST Meeting adjourned at 3:35PM EST. 
+
+
+

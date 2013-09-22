@@ -1,0 +1,128 @@
+
+URL: http://www.jidaw.com/itsolutions/vsatoutline.html
+<p> VSAT Training, VSAT field engineering training, VSAT Training
+ Nigeria, Panamsat, Certified VSAT Installer, lagos, abuja, port
+ harcourt, nigeria, qkon, DVB/TDMA, site survey, site building,
+ site commissioning, vsat test Equipment, certified VSAT installer,
+ vsat certified 
+
+<p>VSAT FIELD ENGINEERING TRAINING COURSE OUTLINE - CERTIFIED VSAT
+ INSTALLER PROGRAM
+
+<p>Theory &amp; Background
+
+<p>Implementation
+
+<p>Practical Training
+
+<p>Network Architecture
+
+<l>Architecture defined 
+ Star networks
+ Mesh networks
+
+<l>Application references
+
+<p>
+Site Survey
+
+<l>Location &amp; look angles
+
+<l> Infrastructure
+
+<p>Site Build
+
+<l>Minimum antenna mount
+ Requirements Lightning protection
+
+<l> Cable routing
+
+<l> Peak &amp; poll: Why?, What? How?
+
+<p>Network Concepts
+
+<l> Bandwidth:
+ - MHz vs Mbps.
+ - Speed vs throughput
+
+<l> Links budget basics:
+ - What?
+ - Why?
+
+<p>
+ 
+
+<p>Test Equipment
+
+<p>
+Test Equipment
+
+<l> Inclinometer
+
+<l> Compass
+
+<l> GPS
+
+<l> Field strength meter
+ Selection and training with respect to
+ PAS1R, PAS10, NSS 7 satellites
+
+<p> 
+
+<p>Equipment terminology
+
+<l> Remote site components:
+ - Antenna, dish?
+ - BUC, block-up convertor
+
+ - LNB, Radio, Modem
+
+<l> Operating Frequencies
+ - Ku-band
+ - C-band
+ - Ka-band
+
+<p>Signal Transmission
+
+<l>DVB
+
+<l>TDMA 
+
+<p>Quality of workmanship, field engineering and system performance
+ are determined by the skills and expertise of the engineer but
+ no engineer can perform precision works without precision instruments.
+ The course will also cover the following instruments: 
+
+<p>UnaOhm SBM105C Satellite Analog Digital Signal AnalyserThe SBM105
+ analyses the quality of satellite receive signals and offers
+ all measurements required by digital communication channels.
+ Is also offers level measurement of analog signals as well as
+ spectral analysis of the band.
+
+<p>SMARTToolPrecision level meter for setting and alignment of antenna
+ to ensure optimum signal strength and maximum system reliability.
+
+<p>SUUNTO Bearing Compass &amp; ClinometerThe Suunto Tandem is a
+ liquid-filled precision compass and clinometer in one compact
+ aluminum housing that is easy to use and rugged enough to protect
+ against impact, corrosion and water.
+
+<p>GARMIN&#8217;s eTrex Personal NavigatorThis compact, easy-to-operate
+ GPS is perfect for measuring and recording of location coordinates
+ with the accuracy required for VSAT network control systems.
+
+<p>Handheld ToolsThe perfect set of handheld tools to ensure that
+ you have the correct tool for every need while at the same time
+ being lightweight and convenient to carry under all circumstances.
+ All of which are supplied in an easy and convenient canvass
+ bag.
+
+<p> Bookings will only be confirmed after you have made payment.
+
+ The VSAT Training event is the ONLY event in West Africa that
+ brings VSAT value, learning, networking and opportunity together
+ in one place. Do you want to be part of the current and future
+ African Telecom boom? You MUST attend this event.
+
+
+

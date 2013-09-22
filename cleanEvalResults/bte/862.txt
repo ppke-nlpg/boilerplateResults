@@ -1,0 +1,59 @@
+
+URL: http://msmvps.com/vipul/archive/2005/05/27.aspx
+ 
+
+<p>Friday, May 27, 2005 - Posts 
+
+<p>  Friday, May 27, 2005 4:21 PM 
+
+<p>  Random function flaw leads to 'Patient zero'  
+
+<p> The computer used to kick-start a global worm outbreak in March 2004 has been traced using crucial kinks in its code. The worm code involved using a random function to generate the next set of targets. Since Randon function provided by operating systems  
+
+<p> Posted by   vipul   |   1 Comments 
+
+<p>  Filed under:   C#  ,   Developer  ,   Security 
+
+<p>  Friday, May 27, 2005 2:27 PM 
+
+<p>  Free Microsoft .NET Compact Framework Training 
+
+<p> Microsoft and HP have teamed up to bring you an intensive, 8-hour class focused on developing for Windows Mobile devices. Part of the HP Virtual Classroom Series, this session covers everything you need to know to take your code mobile. The training takes  
+
+<p> Posted by   vipul   |   2 Comments 
+
+<p>  Filed under:   Embedded 
+
+<p>  Friday, May 27, 2005 2:26 PM 
+
+<p>  Developer elearning for free 
+
+<p> Most of you must be aware, but here's a reminder from my side. Developer Elearning is a new elearning venture opened by Microsoft. It&#8217;s all about features and functions served up specifically for the developer audience. It&#8217;s free and accessible  
+
+<p> Posted by   vipul   |   1 Comments 
+
+<p>  Filed under:   Developer 
+
+<p>  Friday, May 27, 2005 1:49 PM 
+
+<p>  Compatibility Testing with ASP.NET 2.0 
+
+<p> Scott talks about the compatibity testing on this blog at http://weblogs.asp.net/scottgu/archive/2005/05/11/406515.aspx Wonder the stress these guys are in when they are about to reach ZBB . No wonder their efforts make out cool products for us developers.  
+
+<p> Posted by   vipul   |   2 Comments 
+
+<p>  Filed under:   VS2005  ,   ASP.NET 2.0 
+
+<p>  Friday, May 27, 2005 1:29 PM 
+
+<p>  RSS Feeds to Microsoft Knowledge Base 
+
+<p> Microsoft has opened up RSS feeds to hundreds of thousands of KB articles. Check it out at http://support.microsoft.com/selectindex/?target=rss Share this post: email it! | bookmark it! | digg it! | live it!  
+
+<p> Posted by   vipul   |   5 Comments 
+
+<p>  Filed under:   C#  ,   VS2005 
+
+<p>&nbsp; 
+
+<p>  

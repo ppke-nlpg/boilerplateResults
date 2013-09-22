@@ -1,0 +1,31 @@
+<h> Buttons in Green are not yet active.
+
+<p>   
+
+<p> 
+
+<p>Although this subject is more about the effects of energetic hadrons on terrestrial electronics than about ion beams, it is scientifically in a similar field (hadrons = protons, neutrons and pions, i.e. particles which respond to the nuclear force / strong interaction). The science and technology about cosmic ray induced soft fails was considered proprietary by IBM for more than 15 years. In 1996, a complete issue of the IBM Journal of Research and Development was devoted to reviewing this work. A summary of the issue, and the complete first article (the 15 year history of the development of the IBM scientific understanding of soft fails from radiation) is given at IBM J. R.& D.
+
+<p> 
+
+<p>The scientific history of  this field is reviewed in detail. The field is not static because the technology of integrated circuits is still rapidly changing and the effects of cosmic rays on integrated circuits (ICs) show trends which are not well understood. The trends in the sensitivity of ICs to cosmic rays are reviewed for SRAMs, DRAMs and logic over the last 15 years.
+
+<p> 
+
+<p>Fundamental to any estimates of the fail rate of ICs is an understanding of the ambient flux of cosmic rays in the environment. As this flux has been investigated over the last 15 years, it has become fuzzier rather than more precise. Previous measurements of the ambient flux which were considered reliable have been shown to be suspect. New measurements rarely agree with past measurements. Recent reports of the flux of sea level cosmic ray hadrons vary by more than 10x, even though they were performed by highly competent scientists. The problem will probably be resolved by understanding that the immediate materials nearby an experiment can have significant effect on the measured flux. The field of the terrestrial flux of cosmic rays will be reviewed.
+
+<p>Ion Beam Analysis (IBA)
+
+<p>This package contains programs for the analysis of data from ion scattering experiments (called Rutherford Backscattering Spectroscopy, RBS), and analysis of data from target sputtering experiments (called Elastic Recoil Detection, ERD). In general, the package is applicable to any ion, at any energy in any target material. It is written in a windows-based environment with a full graphics user interface (GUI) for analysis of complex spectra using mouse-based input. The software contains a full 32-bit instruction set to minimize computer delay in calculating simulations.
+
+<p>The software is written in a language called APL, which is a multi-window GUI application language particularly forgiving of mistakes. Since IBA analysis is so complex, and covers any ion at any energy for any target, it is particularly difficult to ma ke a program which will not get confused by user requests. APL allows the user to immediately recover with just two key strokes, without reloading any code or data, and continue executing the analysis from the point of error. The required APL compiler is available for both Win-95 and OS/2 systems (see the Installation Manual for details). For details on the APL environment for scientific programming, see the website: http://www.software.ibm.com/ad/apl/apl2.html . The APL compiler is normally very expensive (about $1500) but it is available with "educational discounts" from IBM sales. The software requires the full APL package and will not work with any of the stripped down versions of APL.
+
+<p> 
+
+<p>The package has been used by many groups and is relatively bug-free. However, this software is no longer supported by the author.
+
+<p> 
+
+<p>Below are links to (a) an Introduction to the IBA software, (b) Installation requirements for the software, and (c) Samples of IBA applications. The sample IBA figures show some of the capabilities of the IBA package. These figures come from the IBA Tutorial Manual.
+
+<p>

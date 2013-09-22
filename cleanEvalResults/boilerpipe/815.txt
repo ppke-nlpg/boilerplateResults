@@ -1,0 +1,51 @@
+<h>Also by this reporter
+
+<p>12:00 PM Feb, 11, 2004
+
+<p>Reader's advisory: Wired News has been unable to confirm some sources for a number of stories written by this author. If you have any information about sources cited in this article, please send an e-mail to sourceinfo[at]wired.com.
+
+<p>Unconfirmed sources in this article: Matty Janko and Kenny Brown.
+
+<p>A surreptitious program spreading Wednesday morning is turning AOL Instant Messenger users into advertising spammers.
+
+<p>The problem starts when users receive an instant message that appears to come from someone on their Buddy List (a list of friends and co-workers who also use the AOL Instant Messenger service). The message reads "check this out" and includes a link that contains a reference to "osama capture.php."
+
+<p>If users click on the link, a program that is supposedly a game asks permission to be downloaded and installed onto their computers. Installing the game gives the company that produces it -- purportedly, an outfit called PSD Tools -- permission to display ads on the users' computers. In addition, the software spreads the "fun links" to everyone on the users' Buddy Lists.
+
+<p>"While many who have installed it are describing the game as a virus, the truth is that by neglecting to read the terms of service included with the game, they have given the program's distributors permission to take over their computers," said Matty Janko, a systems administrator whose 23-computer network was invaded by the game Wednesday.
+
+<p>Before the game loads, users are presented with a terms-of-service document that, among other things, allows the PSD Tools Instant Messenger Client to "modify the instant messenger software, deliver additional content such as advertisements and promotional messages."
+
+<p>"In addition, the software will interoperate with your current instant messaging client so as to permit the automatic sending of advertising messages originating from your computer to your contact or 'buddy' list regarding content offered by PSD Tools or its suppliers."
+
+<p>The PSD software includes an automatic update feature. The terms of service give permission to PSD Tools or "third parties designated by PSD Tools" to periodically provide "automatic programming fixes, updates and upgrades to the software which may include installation of third party applications, through automatic electronic dissemination and other means."
+
+<p>According to information provided with the BuddyLinks program, it can be removed through the Windows Add or Remove Programs function:
+
+<p>• Click Start, Settings, Control Panel
+
+<p>• Click Add or Remove Programs
+
+<p>• Locate the "buddylinks.net Messaging Integration" option and click Remove
+
+<p>• Click Yes at the prompt.
+
+<p>Those whose computers harbor the program can also, according to PSD's documentation, disable its ability to reach out by going to Start, Programs, buddylinks.net; selecting "buddylinks.net Configuration"; and then unchecking the box that reads "Use buddylinks.net technology to send fun links to my friends!"
+
+<p>Since the program isn't a virus, antivirus software doesn't issue an alert when it's installed. Microsoft Windows does pop up a dialog box, asking whether the user really wants to install the program.
+
+<p>"I'm really careful with e-mail attachments, but I got caught by this one," said Shelly Carson, a Manhattan-based art director. "I had no idea that you could get what appears to have all the characteristics of a computer virus through Instant Messenger, or by just clicking on a Web page link."
+
+<p>These links appear to originate directly from someone that AIM users know, so some click on the link and install software, trusting that their Instant Messenger buddies aren't sending them malicious programs or spamware.
+
+<p>"This Osama spamware got onto at least a hundred machines within 20 or so minutes at one of my clients' offices today," said Kenny Brown, who runs his own Chicago-based tech support service. "It'll take me all day to clean this garbage out.
+
+<p>"I honestly don't know what it will take to get the message across to computer users that you just cannot assume all is well because an e-mail or an instant message appears to come from someone you know. It takes two seconds to check and see if the person really intended to send you something."
+
+<p>In same cases users are reporting that after installing the program, their AOL Instant Messenger profiles are erased. Others claim that even after uninstalling, the "game" continues to reinstall itself.
+
+<p>Both the BuddyLinks.net site and the psdtools.com site were unavailable Wednesday afternoon. An attempt to locate the sites' owners through domain registration records was unsuccessful.
+
+<p>Â 
+
+<p>

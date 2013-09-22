@@ -1,0 +1,945 @@
+
+URL: http://www.kuro5hin.org/story/2003/2/21/144256/437
+ "When I see equations, I see the letters in colours -- I don't know why. As I'm talking, I see vague pictures of Bessel functions from Jahnke and Emde's book, with light-tan j's, slightly violet-bluish n's, and dark brown x's flying around. And I wonder what the hell it must look like to the students."  
+
+<p> This account by Nobel Prize winner Richard Feynman would be thought of by most as nothing more than an interesting choice of metaphor [1]. To a few, however, it is an indication that Feynman may have possessed a rare trait called synaesthesia. Synaesthesia literally means `union of the senses' and is defined as the stimulation of one sensory modality by another (e.g., sound by vision). Feynman appears to have exhibited grapheme-colour association, the most common type of synaesthesia, in which synaesthetes see black and white letters or characters (graphemes) as coloured. Other more exotic types of synaesthesia exist where smells are associated with shapes [2], or tastes with colours [3].  
+
+<p>   Subjective reports and experimental evidence show that there is no imagination involved in the experiences of synaesthetes; they literally see letters or whole words as colours, or hear a symphony when someone familiar walks into the room. Moreover, the synaesthetic associations between the different sensory modalities involved are persistent, not random. As a result, any given stimulus will reliably induce the same effect in the `dependent' sense in an individual. This characteristic has formed the basis of a `gold standard' test for synaesthetes, discussed later. 
+
+<p> Synaesthesia is unique in that it is perhaps the only psychological trait that `routinely inspires envy in those who study it experimentally' [4]; the majority of synaesthetes interviewed have said that they would not want to lose their rare form of experience. Whether or not synaesthesia confers more traditional advantages over non-synaesthetes, such as memory or intelligence, has provoked much interest - for example, could synaesthesia have been responsible for some part of Feynman's flair with physics? Small studies have demonstrated that some grapheme-colour synaesthetes can recall a number array with significantly more accuracy than non-synaesthetes, but this performance advantage was not shown in all synaesthetes tested. While anecdotal reports of synaesthetes possessing exceptional memory in facts or dates abound [5], there have been no large scale trials comparing the memory or intelligence of synaesthetes to non-synaesthetes, so currently we have no answer to synaesthesia's possible cognitive benefits. 
+
+<p> Synaesthesia has been studied in one way or another since the nineteenth century, although only recently has it reappeared in the limelight following a number of pioneering experiments demonstrating that it was a genuine phenomenon. Currently there are many different aspects of synaesthesia being examined, from its possible genetic basis to how it develops in the brain. Synaesthesia is also proving to be a useful tool in investigating other psychological phenomena. This essay will first discuss the epidemiology of synaesthesia and then move onto a historical account of its study by science. Current theories on the developmental basis of synaesthesia in terms of neurology will be summarised, as well as more recent research. 
+
+<p>   Epidemiology 
+
+<p> Estimates vary for the prevalence of synaesthesia, partly due to a difference in opinion on what exactly constitutes synaesthesia, and partly due to different diagnostic methods. Figures ranging from 1 in 20,000 to 1 in 20 have been stated, while more recent studies suggest the prevalence is between 1 in 2000 to 1 in 200. Following a survey of synaesthetes conducted by placing advertisements in Cambridge Evening News and Varsity, a minimum prevalence of 1 in 2000 was estimated, over six times more females responded than males and a quarter of the respondents reported a first degree relative with synaesthesia [6]. Taken as a whole, this survey provided strong evidence for synaesthesia having a genetic basis. 
+
+<p> A leading hypothesis based on this survey suggests that a single dominant gene linked to the X chromosome could be responsible for synaesthesia [7]. This would explain the sex bias observed in synaesthetes towards females, but would only account for a 3:1 ratio, not the 6:1 shown in data. However, if the `synaesthesia gene' was lethal in males, killing half of all male foetuses, the discrepancy between theory and data is handily removed. This theory consequently predicts that female synaesthetes should encounter significantly higher miscarriage rates than non-synaesthetes; as yet, this prediction has not yet been tested. 
+
+<p> It was long believed that synaesthesia could not be due to a gene residing on the X-chromosome because Vladimir Nabokov, a noted synaesthete, had a son who was also synaesthetic. Hence, if Nabokov had managed to pass the trait to his son, it could not possibly reside on the X-chromosome as sons only inherit the Y-chromosome (of the sex chromosomes) from their fathers. It was later discovered that Nabokov's wife possessed coloured hearing and so was a synaesthete, solving the apparent mystery. 
+
+<p> A real problem in determining the prevalence of synaesthesia is that many people either do not realise that they are synaesthetes, thinking that everyone experiences the world in the same way that they do, or they do not report their experiences at all. It has been suggested that there are more female synaesthetes reported simply because they are more willing to respond to surveys; while this factor may have affected the survey described above, the sex bias for synaesthesia is so dramatic that it could not account for it completely. Even so, further epidemiological studies of synaesthesia would be of great use. 
+
+<p>   The history of synaesthesia 
+
+<p> Research into synaesthesia began in the 19th century with a classic report by Sir Francis Galton, in which he outlined the experiences of several synaesthetes he had studied with colour associations [8]. Galton remarked that while the colour associations of individual synaesthetes were very stable over time, they were not shared between individuals, leading to rather heated arguments when more than one synaesthete was in the same room. That synaesthetic associations are highly idiosyncratic was an important finding that has continued to this day, and other major findings of that age included that certain forms of synaesthesia are more common than others. Most research conducted in the late 19th and early 20th centuries was based on single case studies and often the subjects were also being seen by psychologists for other issues such as migraines. Combined with the fact that practically all research was based on simple subjective reports with no proper testing, only a few broad facts were discovered about synaesthesia.  
+
+<p> In the 1920s and 1930s, synaesthesia fell out of favour with psychologists as a consequence of the demise of cognitivism and rise of behaviourism. Behaviourism originated from a push by psychologists to establish the field as a rigorous, empirical science that could be studied by inferential statistics. To them, this dictated that only the observable, objective behaviour of a subject should be studied; subjective reports of conscious experiences were not to be trusted. The loss of interest in synaesthesia is readily made apparent by looking at the number of papers published on the subject; papers declined precipitously from the 1920s and only forty years ago did they begin to increase. 
+
+<p> After fifty years of relative obscurity, cognitivism re-emerged in the 1960s. Exactly when behaviour's influence began to diminish cannot be pinpointed, but a significant event was Noam Chomsky's critical review of leading behaviourist B. F. Skinner's book on language acquisition, in which he revealed major problems in the behaviourist approach. Following the rise of cognitivism, psychologists and neuroscientists were free to discuss the inner workings of the mind without fear. Even so, synaesthesia had been forgotten by many psychologists. 
+
+<p>   Tests for `genuineness' 
+
+<p> The turning point in the revival in synaesthesia research at the end of the 20th century can arguably be attributed to a number of experiments carried out by Prof. Simon Baron-Cohen, in which he determined that synaesthesia was a genuine phenomenon, primarily through a test for the persistency of synaesthetic grapheme-colour associations. 
+
+<p> Today, there are several tests used to detect synaesthesia in subjects. Since there are in theory as many different types of synaesthesia as there are combinations between the five senses, a battery of tests must be used to cover all possibilities. In practice, two forms of synaesthesia predominate over the others - grapheme-colour association, and hearing-colour association. The former has been the subject of the most attention due to the ease of devising and controlling experiments. 
+
+<p> For some time it was believed that synaesthesia was not a `real' psychological condition and that subjects were merely confabulating - making up - the entire experience, or that they were speaking metaphorically (e.g. 'She has a very sharp voice.'). Prof. Simon Baron-Cohen's `gold standard' test changed this markedly. Baron-Cohen's test was simple: he recorded subjects' grapheme-colour associations, and then tested them using the same lists several months or years later [9]. Synaesthetes performed significantly better than control subjects, showing that they could not be confabulating. 
+
+<p> A later test by Ramachandran further established the legitimacy of synaesthesia [10]. While Baron-Cohen's test illustrated the stability of grapheme-colour associations, it did not show that they were necessarily perceptual. In other words, Baron-Cohen's synaesthetes could have had a photographic memory and simply memorised the associations between the graphemes and colours without actually experiencing them perceptually. Ramachandran's test employed `pop out', a phenomenon well known to psychologists. This phenomenon can be easily demonstrated by looking at a field of identical characters and asking subjects to pick out the characters that are anomalous, for example, by dint of having a different colour or shape to the rest. The anomalous characters appear to `pop out' to the subject, allowing for near instantaneous identification. 
+
+<p>   Figure 1  : Displays used in Ramachandran's test. The box on the left shows a matrix of 5s and 2s. The similarity of the shapes of the numbers made it difficult for control subjects to find the embedded shape. The box on the right is a simulation of a synaesthete's experience, who will see the numbers as coloured. The embedded triangle, composed of 2s, pops out immediately. 
+
+<p> Subjects taking Ramachandran's test were asked to state which shape they saw in the box on the left in figure 1. Normal subjects failed to see any shape, which was reflected in the test results. Synaesthetes, whose grapheme-colour associations had already been recorded and used to tailor the test, immediately saw the shape formed by the coloured photisms of the characters and successfully reported it significantly faster than normal subjects. Thus, this experiment showed that synaesthesia was in fact a perceptual phenomenon and synaesthetes really did see letters as coloured. 
+
+<p>   Theories 
+
+<p> Such tests have vastly improved the ability of researchers to identify synaesthetes and characterise the trait. However, the causes and mechanisms of synaesthesia are far from understood. In the past twenty years, there have been several distinct theories advanced, the most significant of which are discussed below.  
+
+<p> The first theory states that synaesthesia is nothing more than a set of associations learned early in life. This would suggest that grapheme-colour synaesthesia is caused by the synaesthete having played with coloured alphabet blocks as an infant, or perhaps having read books with coloured letters or words. While this appears to make sense intuitively, learned association cannot reconcile a number of findings, most notably that most synaesthetes cannot recall having learned their associations from coloured objects as infants, and that even if they are mistaken, their synaesthetic associations are not the same as those in any books or toys they had as infants. Another problem for this theory is that books and toys for infants with coloured alphabets tend to make letters coloured significantly differently from adjacent letters to aid discrimination; however, nearly all grapheme-colour synaesthetes report that their letters are not coloured in such a way. Instead, they are closer together in hue and less bright. 
+
+<p> Furthermore, learned association cannot account for the sex bias observed in synaesthetes or the results of experiments conducted on its perceptual features. For these reasons, learned association is not seen as a useful explanation among synaesthesia researchers, although it may apply to the use of metaphor in language. 
+
+<p> Dr. Richard Cytowic, a researcher who was at the forefront of the revival of synaesthesia in the 1980s, has proposed that synaesthesia is caused by different parts of the brain becoming disconnected from each other, allowing the `normal processes of the limbic system [a set of networks in the brain involved in instinct and mood] to be released, bared to consciousness, and experienced as synaesthesia.' [11] Cytowic's theory is not particularly appealing because it is inconsistent with current models of brain cognition, and its evidence relies on a type of brain scan (SPECT xenon-133 measuring regional blood flow) that cannot probe deep enough into the brain to actually show limbic system activity; hence, this theory too has not been pursued by the majority of synaesthesia researchers. 
+
+<p> A more conventional theory recently put forward by Ramachandran and Hubbard states that anomalous cross-activation of different brain areas is responsible for synaesthesia, with the cross-activation being a product of a single gene mutation [12]. During the development of the brain, many connections between neurones are made initially, and then subsequently these connections are pruned so that only some remain. Ramachandran and Hubbard's mutation would act early in the development of the brain by creating an excess of cross-connections or insufficient pruning of connections between brain areas; indirect evidence for this theory comes from imaging studies of prenatal monkeys [13]. In the foetal macaque, there are significantly more connections between higher areas and visual areas than in adult macaques; thus, it is suggested, a mutation causing defective pruning could preserve those connections and cause synaesthesia. This fits in with the observation that children appear to experience synaesthesia at a higher prevalence than adults. 
+
+<p> This cross-activation theory is not based solely on physical cross-wiring of neurones between different areas; it is acknowledged that various forms of disinhibition of existing feedback connections could also cause the same effect. This would account for the existence of `acquired' synaesthesia [14], which is believed to operate in the same way as `phantom limbs', in that existing connections between areas that do not otherwise directly exchange information are disinhibited when their associated input areas are disrupted (e.g. visual deprivation causing tactile input to activate visual areas). 
+
+<p> Another somewhat related theory is based on the observation that there are vast numbers of reciprocal connections between neurones in different areas of the brain. Most neuroscience textbooks show a unidirectional flow of information from sensory processing areas (e.g. the visual cortex) to higher processing and multimodal areas (e.g. areas of sensory integration) without exploring the purpose of backward connections to sensory areas; this is unsurprising since they are almost always inhibited. Peter Grossenbacher has suggested that when the backward connections are disinhibited - when they convey information back to the sensory areas - synaesthesia will occur [15]. This is not as similar as it appears to Ramachandran's theory, as Grossenbacher requires feedback connections all the way from higher areas to sensory areas, while in Ramachandran's theory cross-activation is only required at a more local level. 
+
+<p> Grossenbacher believes that his theory can account for the observation that LSD elicits synaesthesia more satisfyingly than Ramachandran's theory (that presumes preserved neonatal pathways), claiming that on consumption of LSD, people `obviously aren't growing new connections in their brains. They're using connections we all have, but in a novel way.' This assumes that LSD induced synaesthesia is identical to traditional synaesthesia when in fact it is not; among the many differences, there are no persistent cross-modal associations and LSD users only experience hearing-colour synaesthesia. 
+
+<p>   Current research 
+
+<p> Unsurprisingly, there has been insufficient evidence for any single theory to persuade all neuroscience and psychology researchers, although most tend towards some variation of the latter two theories discussed. Current research into synaesthesia is continuing to seek a resolution to this uncertainty by way of further imaging studies and psychophysical experiments. However, a growing minority of researchers are beginning to use synaesthesia as a tool to better understand other psychological phenomena. This last section of the essay will discuss the techniques being used in synaesthesia research today in addition to selected research topics. 
+
+<p> Imaging studies using functional magnetic resonance imaging (fMRI) and positron emission tomography (PET) have already been used in synaesthesia studies, mainly to see which areas of the brain are activated during synaesthetic experiences. These techniques measure the regional blood flow within the brain, which is thought to indicate the activity of brain areas. As the spatial and temporal resolution of these techniques improves, particularly in fMRI, they will prove increasingly useful in refining theories of synaesthesia.  
+
+<p> In recent years, a new technique called transcranial magnetic stimulation (TMS) has allowed researchers to safely and non-invasively stimulate specific brain areas using what is essentially a sophisticated electromagnet. Previously, stimulation of the brain was only possible during brain surgery, which drastically limited its use. At least one group in the US is planning to use TMS to stimulate areas postulated to be responsible for synaesthesia to examine whether their synaesthesia is temporary altered or removed. 
+
+<p> Psychophysical experiments into synaesthesia track the differences in performance of synaesthetes in specific cognitive and perceptual tasks to non-synaesthetes; the perceptual pop-out test displayed earlier is a prime example. By using existing experiments on synaesthetes to examine perceptual phenomena that are already reasonably well documented, for example, the various forms of visual masking (when a `signal' object - perhaps a grapheme or colour - is masked by a `distracter' object and the subject asked to identify the signal), it is possible to pinpoint exactly where synaesthetes' perception diverges from normal perception. 
+
+<p> One study has shown that the colours experienced by grapheme-colour synaesthetes prevents a particular type of visual masking called object substitution, where a grapheme is displayed for a split-second and then replaced (`substituted') by another object in the same location [16]. Control subjects are not able to identify the grapheme, but synaesthetes are, because the grapheme elicits an associated colour that they can identify. This study provides a good example of how research in synaesthesia is shedding light on other psychological questions; the mechanism underlying why object substitution prevents normal subjects from identifying the masked object (in this case, the grapheme) is not yet known, but the discovery that synaesthetes do not respond in the same way raises several interesting possibilities. 
+
+<p> Despite the reports of Galton and numerous others stating that synaesthetes do not agree on their cross-modal associations, there have been a number of studies searching for trends among synaesthetes, particularly for word or grapheme-colour associations. Proof of even a weak trend has so far remained elusive, and some researchers believe that new theories of synaesthesia must be taken into account in order to properly look for trends. Once such theory suggests that there are higher and lower synaesthetes [12]. Lower synaesthetes would possess sensory associations with graphemes or discrete experiences, whereas higher synaesthetes would have associations with concepts. For example, while a higher synaesthete might associate the colour red with all instances of the number 1 (e.g. the Arabic numeral `1', the roman numeral `I', a single dot on a die, etc.), a lower synaesthete would only associate red with one instance of the number (e.g. the Arabic numeral only). Under this theory, a lower synaesthete might have cross-activation between colour and grapheme areas, while a higher synaesthete would have a hypothetical `sequence' or `cardinality' area (possibly the angular gyrus) cross-activated with the colour area. The existence of a cardinality region has yet to be proven, although research is ongoing. 
+
+<p> If there really are higher and lower synaesthetes, then attempts to find trends within a mixed group may be futile. Consequently, to produce valid results the groups must be examined separately. Other factors confound `trend studies' such as the fact that for some, word-colour associations are actually `first letter of the word'-colour associations. Some of the latest research in this area addresses whether there are any semantically related trends across synaesthetes [17]. 
+
+<p> An interesting psychological experiment carried out at the University of California, San Diego, used synaesthesia as a technique in itself to explore how we recognise graphemes. The idea for the experiment was inspired by a synaesthete who commented that the same grapheme would elicit different shades of the same colour when it was set in different typefaces. By displaying and iteratively modifying a number of typefaces, it was possible to find the typeface for which the synaesthete experienced the most vivid colour; this, it was thought, corresponded to the `prototypical' representation of the grapheme recognised by the synaesthete's brain. This simple experiment provided useful insight not only into how we recognise graphemes, but also objects and scenes.  
+
+<p> In general, the more bizarre manifestations of synaesthesia have not been explored by researchers, partly because they are more difficult to verify and draw conclusions from. However, for the purposes of this essay one intriguing example is provided by a synaesthete (`EP') at San Diego. EP reported seeing a visual calendar every time she thought about dates. The calendar took the form of a linear coiled coil, where one horizontal rotation of the coil represented a year, and one vertical rotation represented a week. EP appeared to have an exceptional memory for the day on which events occurred, but not for the exact year and month. As yet, no research has been conducted on EP although, needless to say, exactly how her synaesthesia operates is baffling.  
+
+<p>   Conclusion 
+
+<p> Synaesthesia somehow seems to short-circuit the normal perceptual and cognitive processes that occur in human brains to cause the strange experiences that have fascinated so many. In doing so, it gives us unprecedented access to the nature of those processes that underpin our thoughts and consciousness. As we increase our knowledge of the genetic, neural and cognitive aspects of synaesthesia, we will find that we are beginning to understand the brain more completely. Researchers may wish that they possessed synaesthesia, but being able to explore a new and strange trait that may hold the answers to many fundamental questions is reward enough. 
+
+<p>   References 
+
+<p>   1   Feynman, R. (1988), `What do you care what other people think?' pp. 59. New York, Norton. 
+
+<p>   2   Downey, J.E. (1911), `A case of colored gustation'. American Journal of Psychology, 22, pp. 528-539. 
+
+<p>   3   Harrison, J. (2001), `Synaesthesia: the strangest thing', pp. 169-74. New York, Oxford University Press. 
+
+<p>   4   Farber, I. (2001), `...but what does `blue' smell like?', Nature, 410, pp. 744-5. 
+
+<p>   5   Luria, A. (1968), `The mind of a mnemonist.' New York, Basic Books. 
+
+<p>   6   Baron-Cohen, S., Burt, L., Smith-Laittan, F., Harrison, J., Bolton, P. (1996), `Synaesthesia: Prevalence and familiarity', Perception, 25 (9), pp. 1073-80. 
+
+<p>   7   Bailey, M. E. S., Johnson, K. S. (1997), `Synaesthesia: is a genetic analysis feasible?', in Synaesthesia: classic and contemporary readings (ed. S. Baron-Cohen &amp; J. E. Harrison). Oxford, Blackwell Publishers, Inc. 
+
+<p>   8   Galton, F. (1883), `Inquiries into Human Faculty and its Development.' London, Dent. 
+
+<p>   9   Baron-Cohen, S., Wyke, M., Binnie, C. (1987), `Hearing words and seeing colours: an experimental investigation of synaesthesia', Perception, 16 (6), pp. 761-7. 
+
+<p>   10   Ramachandran, V. S., Hubbard, E. M. (2001), `Psychophysical investigations into the neural basis of synaesthesia', Proceedings of the Royal Society of London, B, 268, pp. 979-83. 
+
+<p>   11   Cytowic, R. E. (1993), `The man who tasted shapes', pp. 163. London, Abacus Books. 
+
+<p>   12   Ramachandran, V. S., Hubbard, E. M. (2001), `Synaesthesia: A window into perception, thought and language'. Journal of Consciousness Studies, 8 (12), pp. 3-34. 
+
+<p>   13   Kennedy, H., Batardiere, A., Dehay, C., Barone, P. (1997), `Synaesthesia: Implications for developmental neurobiology', in Synaesthesia: classic and contemporary readings (ed. S. Baron-Cohen &amp; J. E. Harrison). Oxford, UK: Blackwell Publishers, Inc. 
+
+<p>   14   Armel, K. C., Ramachandran, V. S. (1999), `Acquired synaesthesia in retinitis pigmentosa', Neurocase, 5 (4), pp. 293-6. 
+
+<p>   15   Grossenbacher, P. G. (1997), `Perception and sensory information in synaesthetic experience', in Synaesthesia: classic and contemporary readings (ed. S. Baron-Cohen &amp; J. E. Harrison). Oxford, Blackwell Publishers, Inc. 
+
+<p>   16   Wagar, B.M., Dixon, M.J., Smilek, D. &amp; Cudahy, C. (2002), `Coloured photisms prevent object-substitution masking in digit colour synaesthesia.' Proceedings of the 12th annual meeting of Theoretical and Experimental Neuropsychology (TENNET 12), Brain and Cognition, 48, 606-611. 
+
+<p>   17   Ward, J., Simner, J. (2002), `Phoneme-taste synaesthesia: Linguistic and Conceptual Factors', (submitted).  
+
+<p>This work is licensed under the   Creative Commons Attribution-NoDerivs-NonCommercial License  .  
+
+<p>   Sponsors 
+
+<p>   Managed Servers 
+   Managed Clusters 
+   Virtual Hosting 
+
+<p>   Login 
+
+<p>   Make a new account 
+
+<p>   Username: 
+
+<p>   Password: 
+
+<p> 
+
+<p>  Note:   You must accept a cookie to log in. 
+
+<p>   Related Links 
+
+<p>  Figure 1 
+   Creative Commons Attribution-NoDerivs-NonCommercial License 
+   Also by adrianhon 
+
+<p>  
+
+<p>    Display:  
+
+<p>Threaded  
+
+<p>Minimal  
+
+<p>Nested  
+
+<p>Flat  
+
+<p>Flat Unthreaded   Sort:  
+
+<p>Unrated, then Highest  
+
+<p>Highest Rated First  
+
+<p>Lowest Rated First  
+
+<p>Ignore Ratings  
+
+<p>Newest First  
+
+<p>Oldest First  
+
+<p>  Synaesthesia - union of the senses   |   160   comments (142 topical, 18 editorial, 0 hidden)  
+
+<p>  Synaesthestic   (  4.25 / 4  ) (  #5  )  
+   by   Merk00   on Fri Feb 21, 2003 at 03:29:06 PM EST 
+
+<p>  
+
+<p>   For a few years now I've been of the opinion that I was synaesthestic. Now, I've never been diagnosed by a doctor of any type so it's mostly a guess. In any case, it would be considered very mild.  
+
+<p> The main trait that I have is that I associate numbers with colors. It's not all numbers but certain numbers have distinct colors. I first found out about it when my mom, after hearing a report about it on NPR, asked if I associated numbers with colors. I said yes, assuming everyone else did too. There are also some words that have associations with colors.  
+
+<p> It's really had no other affect on me. Either by symptoms or negative consequences. 
+
+<p> ------  
+
+<p> "At FIRST we see a world where science and technology are celebrated, where kids think science is cool and dream of becoming science and technology heroes."  
+
+<p> -   FIRST   Mission  
+
+<p>  Not an association   by StephenThompson,   02/21/2003 04:54:10 PM EST (  none / 0  ) 
+
+<p>  Musicians   by miah,   02/21/2003 06:52:44 PM EST (  4.00 / 2  ) 
+
+<p>  Yep. We're freaky.   by Christopher,   02/21/2003 07:50:13 PM EST (  5.00 / 1  ) 
+
+<p>  Spinal Tap   by miah,   02/21/2003 08:02:17 PM EST (  none / 0  ) 
+
+<p>  Key `characters' were from temperaments   by gidds,   02/21/2003 09:10:54 PM EST (  4.83 / 6  ) 
+
+<p>  Keys do have specific sound   by talnkyo,   02/21/2003 11:39:04 PM EST (  4.00 / 1  ) 
+
+<p>  Diabolus in Musica   by jazzido,   02/22/2003 10:10:33 AM EST (  none / 0  ) 
+
+<p>  Perfect Pitch   by solstice,   02/21/2003 08:25:00 PM EST (  4.00 / 1  ) 
+
+<p>  Same here for Clarinet and Tenor Saxophone   by Chakotay,   02/24/2003 06:33:58 AM EST (  none / 0  ) 
+
+<p>  I have synaesthesia...   by merkri,   02/21/2003 08:16:08 PM EST (  5.00 / 4  ) 
+
+<p>  me too   by poltroon,   02/21/2003 09:02:41 PM EST (  none / 0  ) 
+
+<p>  Question.   by bjlhct,   02/22/2003 01:51:55 AM EST (  5.00 / 3  ) 
+
+<p>  Same here. Alphabet and hiragana.   by texchanchan,   02/22/2003 09:50:57 AM EST (  5.00 / 3  ) 
+
+<p>  Hiragana and kanji.   by Cerulean,   02/23/2003 04:57:42 PM EST (  5.00 / 1  ) 
+
+<p>  Alphabet and hiragana again   by texchanchan,   02/27/2003 08:46:24 PM EST (  none / 0  ) 
+
+<p>  The Twin   (  3.00 / 1  ) (  #9  )  
+   by   Random Number Generator Troll   on Fri Feb 21, 2003 at 04:13:57 PM EST 
+
+<p>  
+
+<p>   I read somewhere that the Aphex Twin was a synaesthete. That would explain the odd track names from Ambient Works II. Ive got that CD and none have titles anywhere on the sleeves or anything, but most discography listings have fairly consistent names for them, like 'stones out of focus' and stuff. The names sort of match the inner sleave photos but I think the link may be more synaethetic than aesthetic.  
+
+<p>  
+
+<p>  He's not a synaesthete   by Psycho Les,   02/21/2003 04:38:49 PM EST (  5.00 / 2  ) 
+
+<p>  Good point   by Random Number Generator Troll,   02/22/2003 03:12:51 PM EST (  none / 0  ) 
+
+<p>  The Stars, My Destination   (  4.33 / 3  ) (  #17  )  
+   by   mrnancy   on Fri Feb 21, 2003 at 05:33:48 PM EST 
+
+<p>  
+
+<p>   The first ever description I'd seen of this was towards the end of "The Stars, My Destination" by Alfred Bester. The main character temporarily develops synesthesia and everything is drawn out. Very interesting condition.  
+
+<p>  
+
+<p>  Moving Mars.   by I am Jack's username,   02/22/2003 03:07:06 PM EST (  none / 0  ) 
+
+<p>  +1 section   (  4.83 / 6  ) (  #19  )  
+   by   circletimessquare   on Fri Feb 21, 2003 at 05:53:07 PM EST 
+
+<p>  
+
+<p>   i was going to vote +1 fp, but that option smelled like old leaves and felt like dry soap 
+
+<p>   I'm making a Low Budget HDV Filipino Horror Movie in NYC 
+
+<p>  
+
+<p>  Note that   (  3.87 / 8  ) (  #24  )  
+   by   medham   on Fri Feb 21, 2003 at 06:47:12 PM EST 
+
+<p>  
+
+<p>Rimbaud's poem "Voyelles" is considered to be a locus classicus of this phenom. in literary expression. 
+
+<p>The real 'medham' has userid 6831. 
+
+<p>  And don't forget...   by cr8dle2grave,   02/21/2003 10:22:49 PM EST (  none / 0  ) 
+
+<p>  That's   by medham,   02/21/2003 11:21:56 PM EST (  3.33 / 3  ) 
+
+<p>  Mildly synaesthetic, and partially...   (  4.00 / 1  ) (  #26  )  
+   by   la princesa   on Fri Feb 21, 2003 at 06:53:37 PM EST 
+
+<p>  
+
+<p>   frustrated because of it. &nbsp;It's good to know others are better at describing it than I sometimes am. &nbsp;I've generally written a lot of the phenomena described in this article off as living life under a mild psychedelic haze, but my associations are more persistent than those brought about by hallucinants. &nbsp;I always thought my experiences were closer to those who used psychedelics, but it seems that I am closest in experience to synaesthetes. &nbsp;Sometimes one gets a little lost trying to describe the world in what appear to be lavishly metaphoric terms. &nbsp;If I can find that novel, I may give it a read. &nbsp; 
+
+<p>  
+ ___  
+
+<p> &lt;qpt&gt; Disprove people? &lt;qpt&gt; What happens when you disprove them? Do they disappear in a flash of logic? 
+
+<p>  It happens to everybody at some level   by jjayson,   02/21/2003 08:25:36 PM EST (  5.00 / 1  ) 
+
+<p>  Right on   by Greyjack,   02/21/2003 10:01:44 PM EST (  none / 0  ) 
+
+<p>  Emotional scarring and music   by phony,   02/22/2003 07:09:03 AM EST (  none / 0  ) 
+
+<p>  Synaesthesia IS NOT associations   by Viliam Bur,   02/24/2003 08:55:18 AM EST (  5.00 / 1  ) 
+
+<p>  Very Interesting   (  4.66 / 3  ) (  #27  )  
+   by   Juppon Gatana   on Fri Feb 21, 2003 at 07:20:03 PM EST 
+
+<p>  
+
+<p>   I remember reading about some study that showed that people find it easier to remember text when it is coherently colored (e.g. main topics in blue, sub topics in red, body text in black). It seems like grapheme-color synesthesia would make reading a very interesting experience. Perhaps that helps explain why Nabokov was able to craft such beautiful sentences; maybe he was able to construct not only a linguistic but also an aesthetic appeal to his work that we non-synesthetics can vicariously recognize and appreciate. That also might help explain his monstrous trilingual vocabulary (if he remembered words both aurally and visually). Makes me wish I had the condition. 
+
+<p>  
+ - Juppon Gatana  
+
+<p> &#33021;&#12354;&#12427;&#40441;&#12399;&#29226;&#12434;&#38560;&#12377;&#12290;  
+
+<p> (Nou aru taka wa tsume wo kakusu.) 
+
+<p>  [OT] Sig   by poyoyo,   02/26/2003 01:37:59 AM EST (  none / 0  ) 
+
+<p>  Artificial Synaesthesia?   (  4.40 / 5  ) (  #28  )  
+   by   hershmire   on Fri Feb 21, 2003 at 07:24:25 PM EST 
+
+<p>  
+
+<p>   According to my research, this same sort of thing seems to happen with hallucinogenic mushrooms. Perhaps this is some sort of "artificial Synaesthesia"? Perhaps all of us can see what those with this condition experience. Or, instead, we can outlaw this condition, and give these people lengthy jail time. 
+
+<p>FIXME: Insert quote about procrastination 
+
+<p>  proper punishment   by Rhodes,   02/25/2003 05:30:40 PM EST (  none / 0  ) 
+
+<p>  Funny you should say that   by hershmire,   02/26/2003 03:07:48 PM EST (  none / 0  ) 
+
+<p>  Common input to center of sentience   (  1.33 / 3  ) (  #29  )  
+   by   Fen   on Fri Feb 21, 2003 at 07:27:58 PM EST 
+
+<p>  
+
+<p>   Well this is because of the common input into the center of sentience. Everything gets filtered down into a quantized input that gets stored in the center of sentience in a nonquantized manner. But doesn't everyone know this? 
+  --Self. 
+
+<p>  Nah.   by bjlhct,   02/22/2003 12:19:10 AM EST (  none / 0  ) 
+
+<p>  Ah, and   by bjlhct,   02/22/2003 02:15:24 AM EST (  none / 0  ) 
+
+<p>  did I rephrase?   by Fen,   02/22/2003 02:24:23 PM EST (  none / 0  ) 
+
+<p>  no no   by Fen,   02/22/2003 04:35:27 PM EST (  none / 0  ) 
+
+<p>  Fluids vs Particles.   by bjlhct,   02/22/2003 05:14:39 PM EST (  none / 0  ) 
+
+<p>  but it remains quantized   by Fen,   02/22/2003 06:22:20 PM EST (  none / 0  ) 
+
+<p>  That   by bjlhct,   02/22/2003 06:42:39 PM EST (  none / 0  ) 
+
+<p>  perhaps   by sinexoverx,   02/22/2003 09:08:43 PM EST (  none / 0  ) 
+
+<p>  invented phrase?   by Fen,   02/23/2003 01:02:49 AM EST (  none / 0  ) 
+
+<p>  Well, yes, actually.   by bjlhct,   02/23/2003 01:53:36 AM EST (  none / 0  ) 
+
+<p>  A good question   (  5.00 / 3  ) (  #30  )  
+   by   John Milton   on Fri Feb 21, 2003 at 07:32:54 PM EST 
+
+<p>  
+
+<p>Has anyone ever checked the ratio of poets to non-poets who have this syndrome. 
+
+<p> 
+
+<p>"When we consider that woman are treated as property, it is degrading to women that we should Treat our children as property to be disposed of as we see fit." -Elizabeth Cady Stanton 
+
+<p>  
+
+<p>  7 to 1   by primaryuser,   02/22/2003 11:34:26 PM EST (  none / 0  ) 
+
+<p>  Not to post a me-too comment, but   (  4.00 / 2  ) (  #32  )  
+   by   lucius   on Fri Feb 21, 2003 at 07:59:41 PM EST 
+
+<p>  
+
+<p>   I see the 3 basis vectors of   R  3  ,   i  ,   j   and   k   as being red green and blue. But if they're expressed as   e  1  ,   e  2   and   e  3   they're all the same orange-brown colour. 
+
+<p> Also, quantum mechanical operators, to me, have a "yet to be used" feeling about them, like they don't really fully exist until they act on something. It's not an intellectual thing, it's more of a gut feeling, and I suspect that it's the only way I can understand maths. 
+
+<p>  
+
+<p>  wrong   by martingale,   02/22/2003 04:46:22 AM EST (  4.00 / 1  ) 
+
+<p>  Hmm..   by lucius,   02/22/2003 10:33:18 AM EST (  4.00 / 1  ) 
+
+<p>  right   by martingale,   02/22/2003 07:13:34 PM EST (  none / 0  ) 
+
+<p>  Triangle test   by cep,   02/23/2003 07:20:08 PM EST (  none / 0  ) 
+
+<p>  true   by martingale,   02/24/2003 04:06:50 AM EST (  none / 0  ) 
+
+<p>  Does anyone else taste words?   (  5.00 / 4  ) (  #34  )  
+   by   joegee   on Fri Feb 21, 2003 at 08:09:51 PM EST 
+
+<p>  
+
+<p>   I've always had very strong flavor associations with words ...  
+
+<p>  
+ Go figure.  
+
+<p>  
+ -Joe G. 
+
+<p>   &lt;sig&gt;I always learn something on K5, sometimes in spite of myself.&lt;/sig&gt; 
+
+<p>  word flavors   by kalculy,   02/24/2003 08:50:50 AM EST (  none / 0  ) 
+
+<p>  Oh yes, some words taste delicious ...   by joegee,   02/24/2003 01:29:43 PM EST (  none / 0  ) 
+
+<p>  &quot;Feeling&quot; sound   by bluefusion,   03/13/2003 09:28:52 AM EST (  none / 0  ) 
+
+<p>  LSD reference   (  4.50 / 4  ) (  #38  )  
+   by   YelM3   on Fri Feb 21, 2003 at 08:35:24 PM EST 
+
+<p>  
+
+<p>   ...among the many differences, there are no persistent cross-modal associations and LSD users only experience hearing-colour synaesthesia. 
+
+<p> I'd like to see a reference for this statement. I believe I have read several accounts of different forms of Synaesthesia while on LSD, and I am pretty sure I've experienced some as well. For several months after taking LSD I could "feel" low bass notes in music at any volume as if it were coming from a subwoofer at my feet. 
+
+<p>  
+
+<p>  Any1 can feel low bass notes   by auraslip,   02/21/2003 09:33:12 PM EST (  none / 0  ) 
+
+<p>  he said:   by drgonzo,   02/22/2003 11:07:53 AM EST (  4.00 / 1  ) 
+
+<p>  ecstacy   by the77x42,   02/22/2003 05:29:04 AM EST (  none / 0  ) 
+
+<p>  keep working   by majik,   02/23/2003 04:41:18 PM EST (  none / 0  ) 
+
+<p>  kindling   by jjayson,   02/23/2003 07:23:27 PM EST (  none / 0  ) 
+
+<p>  same   by YelM3,   03/05/2003 09:54:21 PM EST (  none / 0  ) 
+
+<p>  Instant Synaestesia   (  3.33 / 3  ) (  #44  )  
+   by   jjayson   on Fri Feb 21, 2003 at 10:42:56 PM EST 
+
+<p>  
+
+<p>   Yeah, certain songs pull if out of me more and in certain ways. For example, [this   http://w1.736.telia.com/~u73602493/flashback.html   (Flash with music)] gets me smelling oranges for some reason when the voice sample comes it. It might be conditioned from a previous event, but I don't remember any reason I would smell oranges from it. There is a high refrain that keeps coming into this track and when it does I get a ligh-headed feeling, like as if I am floating and 50 feet above everything. It is a more or less consistent feeling, not a random occurence. 
+
+<p> The track is called DMT (quite appropraite, I guess) from Shpongle and the whole album really have a very peculiar effect on me. One time with a friend, we both had very strong flashbacks from just listening to it with the lights turned down very low. 
+
+<p> The mind is a very peculariar thing. I really wish I understood it more. 
+
+<p>_______ 
+  Smile =) 
+   * bt   krav magas kitten THE FUCK UP 
+   &lt;bt&gt;   Eat Kung Jew, bitch. 
+
+<p>  
+
+<p>  oops. parent post was to be reply   by jjayson,   02/21/2003 10:43:59 PM EST (  none / 0  ) 
+
+<p>  Wow, I really enjoyed that!   by Klondike,   02/24/2003 04:27:12 PM EST (  none / 0  ) 
+
+<p>  I wrote a poem about Synaesthesia awhile back...   (  5.00 / 2  ) (  #46  )  
+   by   skermit   on Fri Feb 21, 2003 at 10:54:47 PM EST 
+
+<p>  
+
+<p>   My poem about synaesthesia 
+
+<p>  
+ It's interesting to note that after asking a couple friends, most picked similar shades if not the exact same colors for the same numbers. It's just something which I've experienced since I can remember...  
+
+<p> 
+------------------- 
+
+<p> -Super Kermit 
+
+<p>   http://www.christopherwu.net/ 
+
+<p>  
+
+<p>  Been there, done that.   (  4.50 / 2  ) (  #53  )  
+   by   fict   on Sat Feb 22, 2003 at 02:19:05 AM EST 
+
+<p>  
+
+<p>   While I'm don't experience synesthasia on a day-to-day basis, I have experienced it temporarily through the use of psychedelic drugs. I find, strangely, that tryptamines tend to relate more towards visualizing music as shapes, whereas phenethylamines are more color-oriented. Among the more interesting experiences was one in which certain words were colored consistently throughout several pages of text, revealing elaborate patterns of writing that are otherwise hidden to the naked eye. Individual letters can take on specific colors as well, which is equally fascinating when looking at text... This was experienced on a rather exotic psychedelic phenethylamine. Neat article. 
+
+<p>  
+
+<p>  Has there been any research?   by FuriousXGeorge,   02/22/2003 06:58:36 AM EST (  none / 0  ) 
+
+<p>  mmm...yummy...   by dtothek,   02/22/2003 03:07:21 PM EST (  none / 0  ) 
+
+<p>  Oh yes. =)   by fict,   02/23/2003 10:12:16 PM EST (  none / 0  ) 
+
+<p>  Been there, done that.   by charterflyer,   03/04/2003 06:54:57 PM EST (  none / 0  ) 
+
+<p>  Relevant further reading:   (  5.00 / 1  ) (  #54  )  
+   by   BlueOregon   on Sat Feb 22, 2003 at 02:48:38 AM EST 
+
+<p>  
+
+<p>Those interested in synaesthesia from another perspective might appreciate the following.  
+
+<p>  Hinderk Emrich   (Hannover, Germany) has conducted extensive research into the topic. His results about synaesthesia are connected to other research into the nature of   aisthesis   (by which we mean 1) sense perception, but more specifically 2) 'sensate cognition'). In short, two standard models of aisthesis persist: a) there is an object, our senses act as a 'camera' (sense input), and our brain processes this 'data' -- the "bottom-up" model [essentually Locke's tabula rasa]; and b) we have an internal conceptual model which constructs our interpretation of whatever sense-input we have -- the "top-down" model [essentially Kant's categories]. A modification to these two is a 3-part model:  
+
+<p>Sensuality (bottom-up)  
+
+<p>Constructivity (top-down)  
+
+<p>Censorship ("ratiomorphous apparatus")  
+
+<p>The existence of the 3rd component has already been accepted elsewhere -- the brain ignores much, if not *most* of the possible sense-input we have; were it not to do so, we would be bombarded with all sorts of visual, auditory, olfactory, and haptic stimuli.  
+
+<p>In some people (cause not isolated, though the genetic markers mentioned in the story are possible if not likely triggers) this censorship component is weakened. It is weakened in different ways in different pathologies, one of which is schizophrenia. Another seems to be, as indicated by research, forms of synaesthesia. The censorship function not only helps to block certain inputs, but also acts as a filter ... that is, ensuring that visual stimuli are experienced in a visual manner, etc. When this component is weakened in synaesthetics, stimuli can be perceived as 1) a sense different than the stimuli and/or 2) by multiple senses. The neurobiological nature of this censorship function also makes it something that can be altered by drugs, etc.  
+
+<p>Emrich's research has hinted that this censorship function/component of the sense-perception apparatus of the nervous system is tied to aspects of creativity (particularly the ability to make so-called intuitive and/or creative 'leaps'), tying into the Feynman anecdote above, though it is too early to draw conclusive results from the research of Emrich et. al. At the other extreme, where the censorship function is not merely loosened, but nearly absent, the subject can be unable to adapt to and function in "everyday" life.  
+
+<p>For more information, I would recommend the recent volume: 
+   Aesthetics and Aisthesis: New Perspectives and (Re)Discoveries   Edited by Hans Adler. New York: Peter Lang, 2002. 
+
+<p>  
+
+<p>  What?   (  5.00 / 1  ) (  #55  )  
+   by   Talez   on Sat Feb 22, 2003 at 02:53:09 AM EST 
+
+<p>  
+
+<p>   No talk of   Rez  . 
+
+<p> My god, if there was any modern form of synaesthesia this game would be it. 
+
+<p>    Si in Googlis non est, ergo non est 
+
+<p>  My fault   by adrianhon,   02/22/2003 06:31:34 AM EST (  none / 0  ) 
+
+<p>  Hehehe   by Talez,   02/22/2003 07:51:46 PM EST (  none / 0  ) 
+
+<p>  Grapheme-color really synaesthesia?   (  4.00 / 1  ) (  #56  )  
+   by   nardo   on Sat Feb 22, 2003 at 04:35:19 AM EST 
+
+<p>  
+
+<p>   If synaesthesia is the stimulation of one sense by another, why is grapheme-color classified as synaesthesia? Isn't there only one sense involved in grapheme-color association? 
+
+<p>  
+
+<p>  Kind of ...   by Simon Kinahan,   02/22/2003 05:13:02 AM EST (  4.00 / 1  ) 
+
+<p>  Exactly   by adrianhon,   02/22/2003 07:19:56 AM EST (  4.00 / 1  ) 
+
+<p>  my question on this topic   (  5.00 / 3  ) (  #68  )  
+   by   drgonzo   on Sat Feb 22, 2003 at 11:18:01 AM EST 
+
+<p>  
+
+<p>   i would like to know if such a person percepts a word/letter/whatever in a certain color and view it on a background of the same color: on what level do they prozess the input? 
+
+<p> maby someone can use this for a study on cognetive functions; whatever ... 
+
+<p>  
+
+<p>  Interesting question   by adrianhon,   02/22/2003 11:53:53 AM EST (  none / 0  ) 
+
+<p>  Radio show on the subject   (  4.00 / 1  ) (  #69  )  
+   by   dmt   on Sat Feb 22, 2003 at 11:27:52 AM EST 
+
+<p>  
+
+<p>   A pretty good run-down: 
+
+<p>   http://www.bbc.co.uk/radio4/science/hearingcolours.shtml 
+
+<p>  
+
+<p>  Synthesia is old hat   (  3.00 / 3  ) (  #71  )  
+   by   X3nocide   on Sat Feb 22, 2003 at 01:14:12 PM EST 
+
+<p>  
+
+<p>   Just use a decent version of emacs maybe vim if you want to see your equations in colour. Syntax highlighting is so early 1990's! 
+  dugger.notsoevil.net 
+
+<p>  Rez and Kandinsky   (  4.75 / 4  ) (  #72  )  
+   by   Klondike   on Sat Feb 22, 2003 at 01:20:31 PM EST 
+
+<p>  
+
+<p>   Kandinsky was an artist in the late 1800's and early 1900's who had synaesthesia, and he tried to channel this into his art, which is very abstract and very colorful. 
+
+<p>  
+ When the game Rez for the Dreamcast and PS2 was made, it was called K-Project, K for Kandinsky, its slogan is "go to synaesthesia", and it tries to unify sound and visuals in the most amazing ways. 
+
+<p>  
+ The review which I read, originally at the GIA, which caused me to buy the game without ever seeing it or playing it is   here  , I archived the GIA before it went down and put it on my webspace. 
+
+<p>  
+ Rez has received several awards for its concept and will be receiving a special arts award at the Tokyo Metropolitan Museum of Art sometime soon. I can't recommend this game enough, it is an experience to be had. 
+
+<p>  
+
+<p>  An interesting subject   (  5.00 / 1  ) (  #73  )  
+   by   jd   on Sat Feb 22, 2003 at 01:41:01 PM EST 
+
+<p>  
+
+<p>   I remember first hearing about Synaesthesia on a QED (or was it Horizon?) documentary "Sherbert Kisses". The title was taken from a description one interviewee gave of the flavour she perceived from her boyfriend's kisses.  
+
+<p> It described numerous models of the brain, and how synaesthesia could work. The intriguing thing is that the studies often contradicted each other, even as far as the raw data was concerned.  
+
+<p> This makes me think two things:  
+
+<p>First, that there are actually multiple phenomina going on, here, each with synaesthesia as a byproduct. This is not that unusual - there are something like 32 different classes of bipolar disorder, for example. Each has the central symptom in common, but not a whole lot else.  
+
+<p>Second, psychologists who produce models first and gather selective evidence to back it up are being stupid. (If the evidence wasn't selective, it wouldn't be conflicting so much.) Statistical studies, as opposed to neuro-mechanical studies, only work if the data is random, there's a good control group, and both data sets are LARGE. The larger the better. Statistical studies on a "few dozen" people don't make the grade. You need thousands, and your uncertainty should be below the 1% level.  
+
+<p> 
+
+<p>  Agree, but   by Viliam Bur,   02/24/2003 08:11:02 AM EST (  none / 0  ) 
+
+<p>  Slightly off-topic   (  4.00 / 1  ) (  #74  )  
+   by   jd   on Sat Feb 22, 2003 at 01:47:35 PM EST 
+
+<p>  
+
+<p>   Ok, massively off-topic. This reminded me of another interesting phenomina - tetrachromatic vision. (A phenomina where certain women will see in four primary colours, not three, due to extra colour receptors in the eye. This is not a brain-related thing, it's a mechanical phenomina.)  
+
+<p> To bring this slightly back on-topic, I'm curious how someone with a combination of synaesthesia and tetrachomatic vision would perceive things.  
+
+<p> The brain handles the extra input just fine, nornally, but we're not talking about a normal situation here. When someone has "bonus" sensory input, is it just the same, but with the extra input, or is there a further collapse between the sensory boundaries, from the overload?  
+
+<p>  
+
+<p>  excellent!   by dtothek,   02/22/2003 02:56:06 PM EST (  none / 0  ) 
+
+<p>  Female?   by A Trickster Imp,   02/23/2003 07:15:14 AM EST (  none / 0  ) 
+
+<p>  a fourth cone means...   by Sleepy In Seattle,   02/23/2003 05:58:18 PM EST (  4.00 / 1  ) 
+
+<p>  For example   by Viliam Bur,   02/24/2003 08:46:36 AM EST (  5.00 / 1  ) 
+
+<p>  This requires far more care.   (  4.75 / 4  ) (  #76  )  
+   by   Estanislao Martínez   on Sat Feb 22, 2003 at 02:43:33 PM EST 
+
+<p>  
+
+<p>   There is a kind of loose talk applied to this whole business of syneasthesia that worries me. Especially things like what I highlight below:  
+
+<p>  Subjective reports and experimental evidence show that there is no imagination involved in the experiences of synaesthetes; they   literally see   letters or whole words as colours 
+
+<p>These statements about "literally seeing" have to be treated much more carefully. This for two reasons: (a) colors are   phenomenal   properties, (b) colors are part of a   structural system   where the value of each unit lies in its relation to other ones.  
+
+<p>The first point, though impossible to illustrate, is easy to evoke. The experience of seeing something as blue has a "private" aspect to it. You simply cannot see like other people. Imagine a person who sees everyithing just like the rest of us, except that blue and green are "switched": he sees the grass as a hue that we call "blue" if we were to see as he does, and the sky as a hue we call "green". (I do not guarantee this thought experiment as I've set it up is completely coherent, but I do think some such thought experiment can be devised that is, and this will suffice.)  
+
+<p>This person, however, has since childhood been trained to call the color that he sees in the sky "blue", and that which he sees in leaves "green"; all other colors he sees just like we do. That is, his color system is   structurally identical   to ours when it comes to naming the colors of objects in interpersonal space, but experientially (or phenomenally) different.  
+
+<p>We could never discover that a person is like this, because all of their outward behavior would be just like anybody else's; in fact, we can't know that our color systems are phenomenally identical to anybody else's, and the best we can do is structural identity.  
+
+<p>Now as for the second thing, color as a   structural system  . This I already introduced implicitly above. The point is that while   hue   is a sort of universally shared and continuous perceptual quality space,   color   is not; it is rather a discrete system of distinctions in this space. The value of a term in such a system, say of "blue", is not intrinsic to itself, but rather to its relation to the rest of the system. This is best evidenced by the work of Paul Kay and Brent Berlin (e.g.   here  ). The short story: color systems, while biologically constrained, are culturally variable, e.g. there are cultures which have smaller color vocabularies than us, and thus may have e.g. a basic color word that encompasses both blue, green and purple; let us call this category "macro-blue". The point now is that people from such societies can't really be said to see e.g. the sky as blue. They have a different color system whose categories are not straightfowardly comparable to ours. They see the same   hues   as us, and color systems across the world share the same focal colors and other constraints, so they are comparable; but the comparison is not straightforward.  
+
+<p>So what's the lesson of all this for the case of people who e.g. claim to see colors in print? That we should be suspicious of straightforward attempts at comparison between their experience and ours. If color is phenomenal, we can only expect to compare their color experiences with ours as a system, and not as phenomenal qualities (since they could have the same system but with different phenomenal qualities). But if color is a structural system, then we should be wary of equating our own perceptual categories with those of synaesthetes. Not that it must be impossible to do so, but it may not be straightforward; since synaethesia can be seen as involving some sort of cross-sensory system which jointly structures two modalities. If this is the case, then their categories are just not the same as ours, and we may not be able to say that they "literally see" e.g. red when reading some word, because we may well be using "red" in different senses when applied to the synaesthete and the normal person. 
+
+<p>  --em 
+
+<p>  Cold vs Warm   by sludge,   02/22/2003 03:04:07 PM EST (  none / 0  ) 
+
+<p>  I don't think you get my point.   by Estanislao Martínez,   02/22/2003 07:19:05 PM EST (  none / 0  ) 
+
+<p>  Yes, but...   by adrianhon,   02/22/2003 03:15:16 PM EST (  5.00 / 1  ) 
+
+<p>  No perceptual test could do that.   by Estanislao Martínez,   02/22/2003 07:34:41 PM EST (  none / 0  ) 
+
+<p>  Different things   by adrianhon,   02/22/2003 08:05:26 PM EST (  5.00 / 1  ) 
+
+<p>  Do you believe in quales?   by thedward,   02/22/2003 06:36:20 PM EST (  none / 0  ) 
+
+<p>  You're dismissing cultural variation.   by Estanislao Martínez,   02/22/2003 06:53:29 PM EST (  none / 0  ) 
+
+<p>  Cultural variability of color space   by nusuth,   02/23/2003 06:42:51 PM EST (  5.00 / 1  ) 
+
+<p>  I know that.   by Estanislao Martínez,   02/24/2003 01:43:18 AM EST (  none / 0  ) 
+
+<p>  You still don't understand nusuth's point   by synaesthesia,   02/24/2003 05:28:52 AM EST (  5.00 / 1  ) 
+
+<p>  Actually my point was simply low variability   by nusuth,   02/24/2003 02:24:10 PM EST (  5.00 / 1  ) 
+
+<p>  Cultures vary, but not that much.   by Viliam Bur,   02/24/2003 08:32:03 AM EST (  5.00 / 1  ) 
+
+<p>  &quot;feels like blue&quot;   by fluffy grue,   02/22/2003 07:03:32 PM EST (  5.00 / 1  ) 
+
+<p>  True   by sjbrown,   02/23/2003 01:59:46 PM EST (  5.00 / 2  ) 
+
+<p>  The color of your imagination   by cep,   02/23/2003 07:03:29 PM EST (  none / 0  ) 
+
+<p>  Feynman   (  4.00 / 1  ) (  #83  )  
+   by   ajdecon   on Sat Feb 22, 2003 at 04:34:35 PM EST 
+
+<p>  
+
+<p> I seriously doubt that Feynman exhibited synaesthesia: he was simply speaking of how he remembered the equations. If I remember correctly, the textbook he refers to did indeed have the light-tan j's and dark-brown x's. If Feynman originally learned from that textbook, and used it extensively, his visualizations of those equations easily could have been in those colors. But he's talking about visualizations--  not   his mind coloring words on a page in a way that didn't exist.  
+
+<p> The same might be noticed with those who often program using syntax-highlighting interfaces that, for example, color reserved words or different levels of nesting as red, blue, yellow, etc. Such a programmer might, when thinking of a particular problem, "see" the code in his head in those colors... but that's simply habit and memory.  
+
+<p> (This is not to say I don't believe in synaesthesia, or any such notion; but you have to distinguish that experience, literally superimposing colors onto their sight, from memory and visualization.)  
+
+<p> 
+-- 
+
+<p> "Science is a way of trying not to fool yourself." 
+
+<p> -Richard Feynman 
+
+<p>  True   by adrianhon,   02/22/2003 07:30:15 PM EST (  5.00 / 1  ) 
+
+<p>  Stigma   (  3.50 / 2  ) (  #88  )  
+   by   sinexoverx   on Sat Feb 22, 2003 at 06:37:51 PM EST 
+
+<p>  
+
+<p>   It is interesting to me that this synaesthesia disorder seems to carry with it a coolness factor, while other disorders can be just too strange for normal people to understand or deal with. And so people with perceptual disorders can be looked at as being insane rather than just different. Even disorders that don't really affect the person's personality or abilities can be sources of ridicule if revealed. I would guess there are many more people out there with such oddities than most would think and they just have learned to never talk about them. But I wonder why this particular disorder is so appealing and facinating to some. 
+
+<p>  
+
+<p>  Re: Stigma   by truchisoft,   02/22/2003 07:38:48 PM EST (  none / 0  ) 
+
+<p>  It's not as cool as it seems.   by Viliam Bur,   02/24/2003 08:58:54 AM EST (  none / 0  ) 
+
+<p>  it's very unobtrusive   by kd,   02/24/2003 11:52:13 AM EST (  4.00 / 1  ) 
+
+<p>  Like seeing colors in addition to b/w vision? [nt]   by paranoid,   04/26/2003 01:35:08 PM EST (  none / 0  ) 
+
+<p>  Because it's &quot;extra&quot;   by sjbrown,   02/23/2003 02:18:10 PM EST (  none / 0  ) 
+
+<p>  Baron-Cohen, S - would that be Ali G ?   (  3.00 / 1  ) (  #104  )  
+   by   Phillip Asheo   on Sun Feb 23, 2003 at 12:11:31 PM EST 
+
+<p>  
+
+<p>   I heard that the guy who plays Ali G (Sascha Baron-Cohen) is a psychologist of some kind. 
+
+<p> -- 
+
+<p> "Never say what you can grunt. Never grunt what you can wink. Never wink what you can nod, never nod what you can shrug, and don't shrug when it ain't necessary"  
+
+<p>-Earl Long 
+
+<p>  No, it's his brother   by c4miles,   02/24/2003 07:26:27 AM EST (  5.00 / 1  ) 
+
+<p>  Nethack - learned associations = synaesthia   (  4.66 / 3  ) (  #105  )  
+   by   SimonTzu   on Sun Feb 23, 2003 at 01:30:22 PM EST 
+
+<p>  
+
+<p>   The description you five about Feynman sounds simlar to an experience I had some years ago after a week long Nethack session. 
+
+<p> Nethack is a computer roleplaying game where creatures are represented by letters. &nbsp;a D= a Dragon, a V= a Vampire, etc. &nbsp; 
+
+<p> For about three days afterward I saw letters as monsters. &nbsp;This is pretty common. &nbsp;Search rec.games.rougelike.nethack for YKYBPTMNW (You Know You've Been Playing Too Much Nethack When) 
+
+<p>--  
+
+<p> Simon Tzu 
+
+<p> Storyteller 
+
+<p> www.deeptalent.com 
+
+<p>  i have this.   (  5.00 / 2  ) (  #108  )  
+   by   evilpckls   on Sun Feb 23, 2003 at 04:16:48 PM EST 
+
+<p>  
+
+<p>   ive known for awhile...my numbers are colored. my alphabet is colored. people are also colored, and textured as well. i mean i dont SEE people in weird colors, but when i think of them, talk to them, see them, that color is present in the back of my mind.  
+
+<p>------- 
+
+<p>"...Defeat Superman and call yourself and idiot, and you'd be the Krypton Neon Xeon Neon Xenon Moron." --DesiredUsername  
+
+<p>  Simple answer.   (  5.00 / 2  ) (  #112  )  
+   by   Raindrop   on Sun Feb 23, 2003 at 06:11:15 PM EST 
+
+<p>  
+
+<p>   The simple answer as to why women have it more than men can be summed up in the word "lateralization". Male brains tend to localize functions in the left hemisphere, whereas female brains do not do so under normal circumstances (intersex conditions, etc.). This is also why females tend to respond more strongly to sensory stimuli - which in turn provokes a stronger emotional response. Dendrite density is also significantly higher in women - which would tend to support the idea that signals in one area of the brain are more likely to traverse to other areas by mere virtue of having more pathways for the signal... It is, perhaps, the single largest neurological difference between men and women.  
+
+<p>To prove this theory, cross-reference the number of left-handed males with right-handed females in your sample size, as left-handed males tend to have larger corpus callosums (that thick chunk of tissue linking the two hemispheres of the brain), which suggests less lateralization. Left-handed males also have behavioral patterns more typical of those of the opposite sex -- although this claim has not been rigorously tested. Disclaimer: I am not a neuropsychologist.  
+
+<p>~ Raindrop  
+
+<p>-- 
+
+<p> Many questions are unanswerable. 
+
+<p> Many answers are questionable. 
+
+<p>  
+
+<p>  Writing as tasting   (  4.40 / 5  ) (  #113  )  
+   by   kalculy   on Sun Feb 23, 2003 at 06:41:11 PM EST 
+
+<p>  
+
+<p>   I experience the thinking and writing of words as if I were tasting them. I can't tell you what they taste like; I only know that I experience tasting when I am looking for a word or when I am writing them. However, I do not experience reading as tasting. I find this last fact somewhat puzzling and am not sure if I am experiencing synaesthesia or not. 
+
+<p>cogito, ergo sum 
+
+<p>  Yes, you are   by Viliam Bur,   02/24/2003 08:19:12 AM EST (  4.00 / 1  ) 
+
+<p>  As a synaesthete...   (  3.00 / 2  ) (  #134  )  
+   by   artsygeek   on Mon Feb 24, 2003 at 02:43:08 PM EST 
+
+<p>  
+
+<p>   I can attest that certain odors will trigger certain sensations in my mouth....like the odor of some soaps, in particular. I also can "talk to myself" and hear my own voice without speaking.....And certain tones of speech can result in me "seeing" the words...it's like the speech part of my brain is jumpered to my auditory and visual parts. Like when I was a kid, I aced in spelling bees because I could SEE the words, and thus could spell them quite easily. 
+
+<p>  
+
+<p>  That is all normal   by jjayson,   02/24/2003 03:17:41 PM EST (  5.00 / 1  ) 
+
+<p>  Not exactly...   by artsygeek,   02/24/2003 04:47:03 PM EST (  5.00 / 2  ) 
+
+<p>  Some numbers have colours.   (  3.00 / 2  ) (  #135  )  
+   by   Phillip Asheo   on Mon Feb 24, 2003 at 02:59:01 PM EST 
+
+<p>  
+
+<p>   Like, two is white, three is yellow, four is pinkish red, nine is dark green. 
+
+<p> And smells have tastes, especially cheese which tastes(smells) of vomit. 
+
+<p> -- 
+
+<p> "Never say what you can grunt. Never grunt what you can wink. Never wink what you can nod, never nod what you can shrug, and don't shrug when it ain't necessary"  
+
+<p>-Earl Long 
+
+<p>  Taste of sweet peppers   (  4.50 / 2  ) (  #137  )  
+   by   Gallowglass   on Mon Feb 24, 2003 at 04:08:54 PM EST 
+
+<p>  
+
+<p>   I'm curious. I have always associated the taste of sweet peppers - which taste coppery to me - with the taste of pain. (Specifically the taste that occurs with a sharp blow to the back of the skull on the occipital bone.)  
+
+<p>When I tell people this, I am usually met with a blank stare. Does this fall under the heading of synaesthesia? A merger of taste with the feeling of pain? I'm not sure that those are different senses. Maybe they are? Taste vs feeling?  
+
+<p>What does the community think? 
+
+<p>  
+
+<p>  Copper is fear   by epepke,   02/27/2003 07:16:57 AM EST (  none / 0  ) 
+
+<p>  closed-eye sober visuals   (  3.50 / 2  ) (  #140  )  
+   by   treat   on Mon Feb 24, 2003 at 09:11:05 PM EST 
+
+<p>  
+
+<p>   Not under the influence of psychedelics, close your eyes. Put things on this blank canvas - numbers, words, images, shapes. Can you SEE it, (anywhere near) as good as you can see in real life? 
+
+<p> Pople have told me they can do this. I can understand what is being described but beyond that it makes no sense to me. I see only black. 
+
+<p>  
+
+<p>  Strange   (  4.00 / 2  ) (  #143  )  
+   by   epepke   on Wed Feb 26, 2003 at 06:08:37 AM EST 
+
+<p>  
+
+<p>I've always seen letters and numbers in color. I just assumed it was an artifact of educational aids, like those little kiddie xylophones/parent torture devices which list a letter, a number, and a color with each note. 
+
+<p> 
+
+<p>  The truth may be out there, but lies are inside your head.--Terry Pratchett 
+
+<p>  
+
+<p>  Doesn't everybody?   (  4.00 / 2  ) (  #144  )  
+   by   Lynoure   on Wed Feb 26, 2003 at 08:32:49 AM EST 
+
+<p>  
+
+<p>   Certainly almost everybody 'sees' colours when experiencing pain, pleasure or emotions.  
+
+<p>  
+
+<p>  When I think of my childhood...   (  3.00 / 1  ) (  #151  )  
+   by   the77x42   on Wed Mar 19, 2003 at 03:47:47 AM EST 
+
+<p>  
+
+<p>   ... the smell of sauted mushrooms comes into my head. And this only happens when I'm thinking of my childhood prior to moving when I was 9. I have found this sensation only occurs on sunny days when I am outside though. No joke. 
+
+<p> 
+   "We're not here to educate. We're here to point and laugh."   - creature  
+   "You have some pretty stupid ideas."   - indubitable &#1470;&#8238;&#1470;  
+
+<p>  
+
+<p>  This Article is Wrong   (  1.50 / 2  ) (  #152  )  
+   by   losang   on Fri Mar 21, 2003 at 09:55:38 AM EST 
+
+<p>  
+
+<p>   There are five sense organs and to each one is exclusively associated an object which appears to that organ. 'Exclusive' meaning the particuar sense object can only appear to that particular sense organ. Colors can only be perceived by the eye. Sound can only be perceive by the ear. So on and so on.  
+
+<p> Anything suggesting otherwise is a result of not drawing a clear picture of perception. 
+
+<p>  
+
+<p>  just not a clear picture of your perception   by partykidd,   04/06/2003 08:36:22 PM EST (  1.00 / 1  ) 
+
+<p>  This is not closed minded   by losang,   04/12/2003 09:09:14 PM EST (  4.00 / 1  ) 
+
+<p>  And I would respond   by partykidd,   04/27/2003 02:00:39 AM EST (  none / 0  ) 
+
+<p>  Evidence?   by losang,   07/26/2003 06:03:55 AM EST (  none / 1  ) 
+
+<p>  Evidence of other realities?   by partykidd,   07/27/2003 08:12:39 PM EST (  1.00 / 2  ) 
+
+<p>  rmg and RobotSlave   by partykidd,   08/25/2003 02:33:31 PM EST (  none / 0  ) 
+
+<p>  Explanation   by losang,   07/26/2003 06:05:23 AM EST (  2.00 / 1  ) 
+
+<p>  Synaesthesia - union of the senses   |   160   comments (142 topical, 18 editorial, 0 hidden)  
+
+<p>    Display:  
+
+<p>Threaded  
+
+<p>Minimal  
+
+<p>Nested  
+
+<p>Flat  
+
+<p>Flat Unthreaded   Sort:  
+
+<p>Unrated, then Highest  
+
+<p>Highest Rated First  
+
+<p>Lowest Rated First  
+
+<p>Ignore Ratings  
+
+<p>Newest First  
+
+<p>Oldest First  
+
+<p>    All trademarks and copyrights on this page are owned by their respective companies. The Rest © 2000 - 2006 Kuro5hin.org Inc. 
+
+<p>See our   legalese page   for copyright policies. Please also read our   Privacy Policy  . 
+
+<p>Kuro5hin.org is powered by   Free Software  , including   Apache  ,   Perl  , and   Linux  , The   Scoop Engine   that runs this site is freely available, under the terms of the GPL. 
+
+<p>Need some help? Email   help@kuro5hin.org  . 
+ 

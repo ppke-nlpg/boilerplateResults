@@ -1,0 +1,11 @@
+<h>Simon Willison’s Weblog
+
+<p>Flash: Leave my text alone!
+
+<p>Moment of realisation: I just figured out what it is about Flash that bugs me so much. Flash is rubbish at text. Sure it can render text in pretty ways, but it never feels like real words. Flash takes good old fashioned text and locks it away in a pretty but shallow world, one that is out of reach of search engines, screen readers and my all important right mouse button. What good is text is text if I can’t search it, select it, copy it, paste it and generally processs it in whatever way I see fit? Flash is fine for graphics, animation and even some user interfaces (provided they don’t involve too much text) but please, please keep it away from anything I want to read.
+
+<p>Posted 17th July 2002 at 7:51 pm
+
+<p>This is Flash: Leave my text alone! by Simon Willison, posted on 17th July 2002 .
+
+<p>

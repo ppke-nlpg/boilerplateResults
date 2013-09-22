@@ -1,0 +1,101 @@
+<h>System provides automated solutions for outpatient charge collection.
+
+<p>Chart Tracking
+
+<p>Provides access to the Electronic Patient Record based on the user‚Äôs clinical status.
+
+<p>Content Management System†(CMS)
+
+<p>Enables multiple content creators within the organization to post their information quickly and directly to the Web, while maintaining consistent branding through customizable page templates.
+
+<p>Cost Allocation System†Cost
+
+<p>Allocates cost where it is incurred.
+
+<p>†Data Warehouse
+
+<p>Depository of patient data from EMTEK bedside units, used for research by the SICU staff.
+
+<p>Document Management System
+
+<p>Capture paper and/or electronic documents that need to be accessed by the front-end and the back-end.
+
+<p>†Electronic Bed Board
+
+<p>Information management system at the patient bed-side
+
+<p>Electronic Patient Record†(EPR)
+
+<p>JHH†Allows clinicians to access documents describing a patient‚Äôs stay in the Hospital (i.e. Discharge Summaries, Operative Notes, Clinic Documents).† It allows the physician to finalize (i.e. ‚Äúsign‚Äù) a document.† It allows for a clinician to navigate through the various result reporting (Lab and Rad) systems and to get a listing of patients, either through a floor census or through a list associates with the physician.† This system is available to both JHH and to JH-Bayview, with specific coding for each institution. EPR Web allows access to EPR via the Web.
+
+<p>Executive Information System†(TSI)
+
+<p>Cost accounting and decision support system that provides flexible budgeting, departmental performance, outcome management and contract analysis.† Currently used by JHH and BMC.
+
+<p>HDM ‚Äì HIS
+
+<p>System provides ability to add procedure and diagnosis codes to patient records, transfers records to billing system.
+
+<p>Hopkins One/Enterprise Resource Planning†(Hopkins1)
+
+<p>Integrates all departments and functions across JHU and JHHS into a single computer system that can serve all those different departments‚Äô particular needs.
+
+<p>Hospital Accounts Payable†(AP)
+
+<p>Centralized system for all payments for JHH and† JHHS
+
+<p>Hospital General Ledger†(GL)
+
+<p>Provides central financial information control throughout JHH and JHHS
+
+<p>Horizon†Homecare.
+
+<p>A quick GUI interface connection to enterprise wide applications and host systems. Supports Unix and 3270 connections to 19 hosts and 52 applications.
+
+<p>Human Resources Management System†(ISI)
+
+<p>Integrated Payroll and Human Resources system.
+
+<p>Interface Engine
+
+<p>A complex messaging standard, HL7, for the exchange of information between systems (patient admitted, lab result, radiology result, diet order ...).† An interface engine is a sort of router - applications which have something to say send messages to the interface engine, it checks to see which other systems have "subscribed" to that specific content type of the message, and forwards a copy of the message to them.† In the real world, different vendor's systems rarely agree on all aspects of the message formatting, so another major function of the interface engine is to reformat messages as needed for each recipient.† Our HL7 interface engine environment spans JHH and JHBMC, includes at least 60 clinical and administrative systems, and delivers about 3,000,000 messages a week.
+
+<p>JHSecure (VPN)
+
+<p>JHSecure is a flexible IPSec based remote access Virtual Private Network (VPN) solution, which allows members of the Hopkins communities to access computer resources located at Hopkins from remote locations.
+
+<p>JHUniverse†
+
+<p>Since its founding in February 1994, JHUniverse has served Johns Hopkins as the World Wide Web access point for information for prospective students, current students, faculty, staff, alumni, and the local, national and international communities.
+
+<p>LAB Web
+
+<p>Lab results via Pathology system.
+
+<p>Laboratory Test Results†Labs
+
+<p>Provides laboratory test results to the EPR.
+
+<p>Materials Management†(ESI)
+
+<p>Stores information about items ordered by JH affiliates and inventories of stock items.
+
+<p>Medical Records Discharge Tracking System†(MRDT)
+
+<p>An on-line, menu-driven system that provides information on daily patient discharges.
+
+<p>Medical Staff Registrar†(MSR)
+
+<p>Physician credential tracking system.
+
+<p>Meditech
+
+<p>Meditech†Bayview†Integrated hospital information system to support operations and improve medical care. Integrates billing, administration, registration, pharmacy, laboratory, radiology, etc.
+
+<p>MSA Budget System†Budget
+
+<p>Provides orderly zero based method of planning for each fiscal year.
+
+<p>Nutrinet
+
+<p>

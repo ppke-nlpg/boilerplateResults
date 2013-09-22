@@ -1,0 +1,59 @@
+<h>.  What follows on this page is an explanation of this Excel file.
+
+<p>  Cells A1:A3 contain the three changeable parameters of this simulation.  These parameters are:
+
+<p>Cell
+
+<p>Parameter
+
+<p>A1:
+
+<p>The number of new participants that each participant is to recruit.  In real life, this number would vary greatly from one participant to another, but that would be very difficult to simulate, so this simulation will assume that every participant recruits the same number of new participants, as defined in this cell.  The version of this chain letter which I saw most recently contained examples based on the assumption that each participant would recruit five new participants, so that is the number I have used here by default.
+
+<p>A2:
+
+<p>The amount of money that each new participant is to pay to each participant above him in the list.  The chain letter I'm basing this on uses the amount of one dollar.
+
+<p>A3:
+
+<p>The approximate human population of the world.  Where any number appears in this spreadsheet which represents a number of people, if the number exceeds this parameter, it will be displayed in red.
+
+<p>  The rest of this spreadsheet is organized so that each column, beginning with B, represents a cycle in this pyramid scheme.  Column B represents the beginning of this scheme, with only one participant, who has not made any payments to anyone (as there is nobody above him to receive these payments) nor collected any payments (as he has not yet recruited any new participants).  Column C represents the next cycle, where the originator has recruited the number of new participants defined in A1, and has collected the payment defined in A2 from each of them.  Column D represents the cycle after than, when all the people who the originator recruited have now each recruited their quota of new participants, and these newest participants have each made the payment to the person that recruited them, in the amount defined in A2, and also made a similar payment to the originator.  Each successive column represents yet another cycle, with each person who was recruited in the previous cycle recruiting his quota of new participants, and each of these newest participants making the payment to each of up to six people above him.
+
+<p>  Now I understand that in real life, this scheme would not progress in perfectly-synchronized cycles, with each participant recruiting the same number of new participants; however, the variability and non-synchronization that would occur in real-life would be extremely difficult to model in this format, and would not be likely to have any significant effect on the results.
+
+<p>  Column A contains headers to identify the meaning of each row, which I will now explain.
+
+<p>   I have organized the participants into eight phases, depending on their position within the scheme.  Phase 1 are the people who have just joined the scheme, have made their payments to those above them, and have not yet received any payments.  Phase 7 are the people who are at the end of the scheme, who, in this cycle, are collecting a payment from each of the phase 1 through phase 6 people below them.  Phase 8+ are the people who have moved through the entire scheme, and are no longer collecting any payments.  Rows 4 through 11 show the number of people in each phase, and row 13 shows the total number of all participants in all phases.  Note that in each cycle (column), the number of people in a given phase is the same as the number of people who were in the previous phase in the previous cycle, except for phases 1 and 8+.  (Phase 1 is all the people recruited by the people who were phase 1 last time, and phase 8+ is the sum of all the people that were in phase 8+ last time, along with all the people who were in phase 7 last time.)
+
+<p>I have just noticed something that may be confusing.  When I refer to people who are ?Above? others in the pyramid, I mean people who joined before, and who are in a higher ?Phase? number.  However, my spreadsheet shows Phases increasing in number as you move downward on the sheet.  So a person who is ?above? another in the pyramid will appear in a phase that is listed below the other on the sheet.  I hope this explanation will suffice to prevent you, the reader, from becoming confused or mislead by this ambiguity.
+
+<p>  For purposes of this simulation, I am assuming that the originator sent out his copies of the original letter with only his name in the last position, and empty spaces in the first five positions.  I am assuming, further, that the originator did not make any payment to anyone, that those he recruited made payments only to him, that those recruited in the next level made payments only to two people, and so on, until the list was filled.  Thus, the cost to join the scheme was lower for those who got in in the first six cycles, increasing by one payment each cycle until the maximum of six payments is reached.  Rows 15 through 21, therefore, show what the people in each phase had to pay to join the scheme.
+
+<p>  Rows 23 through 30 are the total gains/losses by phase.  The phase 1 figure in this column is a negative gain (or a loss) in the amount of the cost that each phase 1 person paid to join, multiplied by the number of phase 1 people in that cycle.  This is because the phase 1 people have paid to join the scheme, and have not yet received any return.  In phases 2 through 7, this figure is the value that the previous phase had the previous cycle, plus the amount of the payment multiplied by the amount of new phase 1 participants.  This reflects the payments that the people in phases 2-7 are collecting from the people in phase 1.  As with the numbers of people in phase 8+ (row 11), the total gain in phase 8+ (row 30) is the cumulative total of the gains made by those who've passed through phase 7 in previous cycles.
+
+<p>  Row 32 is the total of all gains/losses for the cycle.  This value will always be zero, because all of the gains are exactly balanced by all of the losses.  Every dollar that someone gains is a dollar that someone else has lost.  For example, using the default parameters, in the third cycle, we have one person in phase 3 who has gained $30, five people in phase two who have each gained $4 (for a total gain of $20) and 25 people in phase 1 who have each lost $2 (For a total loss of $50).  The total of the $30 gained by the one person in phase 3 and the $20 gained by the people in phase 2 exactly balances the loss of $50 by the people in phase 1.  No matter how many cycles you run this simulation for, or what values you put in the parameters, this will hold true, that all the gains in any cycle will exactly balance all the losses in that cycle.  This is because this scheme neither creates nor expends any wealth, it merely alters the distribution of it.
+
+<p>  Rows 35 through 42 are the mean, or average gains/losses per person in each phase.  These are calculated by merely dividing the total gains/losses in rows 23 through 30 by the numbers of people in the corresponding cells in rows 4 through 11.  These are the numbers which reflect what you could expect to gain if you reached these phases.  These are, of course, the numbers that someone promoting this chain letter would like you to see, as they reflect the potential gain, but fail to reflect the likelihood of achieving them.
+
+<p>  Rows 44 through 60 are used to calculate the numbers of Winners and Losers. For each phase, in each cycle, if that phase gained, then the number of people in that phase are counted as Winners, and if that phase lost, the number of people in that phase are counted as Losers.  Other than pointing out the obvious, viz., that those in the lower phases are more likely to be Losers, and those in the higher phases are likely to be Winners, the only real purpose served by these rows is to allow me to easily sum up the total numbers of Winners and Losers for each cycle.
+
+<p>  Rows 62 through 65 are the total numbers of people in each of four statistical categories.  Row 62 is the total number of people who have participated as of each cycle, and is merely a link back to row 13.  The Winners and Losers in rows 63 and 65 are the sums of the groups of rows mentioned in the previous paragraph, and represent the number of people who have gained and the number of people who have lost.  The Breakevens are simply those people who have received returns which exactly equal their payments, and have thus, at this point, neither won nor lost.
+
+<p>  Finally, we get to rows 67 through 69, which show the point I've been trying to make.  These show the percentage of all those participating in the scheme, who have won, who have lost, and who have broken even.  Using the default parameters, theres an interesting little quirk that occurs in the seventh cycle (column H).  Because the default assumption is that each participant recruits five new participants, collecting a dollar from each of them at that point, each person gets a return of $5 when he reaches phase 2.  After the list has filled up, and each new participant has to pay $6 to join, this means his net gain at phase 2 is a loss of $1.  But those who join before the list fills up pay less to join.  The person who joined in the sixth cycle (column G) had to pay $5 to join, so when he collects his $1 form each of the five people he recruits, he will have broken even.  Those who joined earlier actually have a gain at phase 2.  This transition makes for a sharp break in the proportion of Winners to Losers at this point.  In the first six cycles, the distribution is approximately 20% Winners and 80% Losers, give or take a few percentage points.  In the seventh cycle, the people who had to pay $5 to join are now in phase 2, so phase 2, which contains about 16% of the participants, goes from being Winners to being Breakevens.  So now the distribution is about 4% Winners, 16% Breakevens, and 80% Losers.  In the eight cycle (column I), the first people who had to pay $6 to join are now in phase 2, and so phase 2 contains Losers, making the distribution 4% Winners, and 96% Losers.  From this point onward, now matter how many cycles you run it, this distribution will hold true; you will have 4% Winners and 96% Losers.  This will continue until the scheme collapses for lack of new people to be recruited.  Please note that at the 15th cycle, the number of new people needed in phase 1 is greater than the population of the world.
+
+<p>  These results will vary, of course, depending on the parameters you use in this simulation.  These things, however, will remain true:
+
+<p>The grand total of all money lost by those who have lost will exactly equal the total of all the money gained by those who have gained.
+
+<p>There will always be more Losers than Winners.
+
+<p>Sooner or later, there will not be enough new people to keep the scheme going; at that point, it will collapse.
+
+<p>When this collapsing point is reached, as at every other point leading up to it, more people will have lost money in this scheme than will have gained.
+
+<p>  This page has been visited
+
+<p>times.
+
+<p>

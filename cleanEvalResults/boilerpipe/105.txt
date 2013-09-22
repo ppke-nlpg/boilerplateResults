@@ -1,0 +1,237 @@
+<h>·       Conjugated estrogen 0.6 mg/kg IV QD x 5 days
+
+<p>·       DDAVP 0.3 mcg/kg IV q12 hours x 2
+
+<p> 
+
+<p>BLOOD PRODUCTS – COMPONENTS
+
+<p> 
+
+<p>1.     Premeds: consider pre-medicating with Benadryl 25 mg PO/IV and Tylenol 650 mg PO/PR before each unit.
+
+<p> 
+
+<p>2.     Packed red blood cells (PRBC):
+
+<p>·       Most plasma removed. One unit should raise the hematocrit by 3 points or hemoglobin by 1 g/dL.
+
+<p>·       Leuko-poor/leuko-filtered red blood cells have most WBCs removed to make it less antigenic. Use in patients prone to transfusion reactions and in patients requiring multiple transfusions (bone marrow transplant, leukemia, chemotherapy).
+
+<p>·       Washed red blood cells have WBC almost all removed. Use as for leuko-poor RBC; note that they are more expensive.  Used for patients with allergic reaction to transfusions.
+
+<p>·       Irradiated blood cells have lymphocytes killed, decreasing likelihood of graft-versus host disease (GVHD) in bone marrow transplant patients.
+
+<p>·       CMV negative blood used for patients who are CMV negative and are pre-transplant or post-transplant.
+
+<p> 
+
+<p>3.     Platelets:
+
+<p>·       A 6-pack should  ideally raise platelet count by 50-60K; For dysfunctional platelets (e.g. in uremia), DDAVP is usually given at 0.3 mcg/kg IV q12-24 hours x 2. Do not correct platelets for paracentesis.
+
+<p>·       Indications:
+
+<p>-        Platelets < 10-20K for non-bleeding patient.
+
+<p>-        Platelets < 50K for bleeding, pre-op, or pre-procedure.
+
+<p>-        Platelets < 75K for uremic bleeding patients.
+
+<p>-        Platelets < 100K for CNS or intraocular bleed.
+
+<p>·       Cross-matched platelets may be used when patient has been sensitized to random-donor platelets and no longer bumps their platelet counts after transfusion; cross-matching typically takes at least 1-2 days as well as lab medicine approval at most institutions.
+
+<p>·       Always check a 1 hour post-transfusion platelet count to ensure a response and to monitor for alloimmunization.
+
+<p> 
+
+<p>4.     Fresh frozen plasma (FFP):
+
+<p>·       A high PT is frequently encountered in end-stage liver disease. It is generally okay to leave a high PT alone when a patient is not bleeding. For those with refractory bleeding, use an FFP drip—the half-life of FFP is about 4-6 hours.
+
+<p>·       FFP is indicated if the PT > 18 seconds and is associated with bleeding or planned procedures.
+
+<p> 
+
+<p>5.     Cryoprecipitate:
+
+<p>·       Contains factor VIII, von Willebrand factor, and fibrinogen.
+
+<p>·       Use is generally reserved for patients with quantitative fibrinogen deficiency (e.g. DIC) and qualitative fibrinogen deficits (e.g. acquired dysfibrinogenemia associated with liver disease). Its use in patients with hemophilia A (factor VIII deficiency) and von Willebrand disease has been supplanted by the use of specific factor products that are safer and more efficacious.
+
+<p>·       Advantage: you can replete with less volume than FFP.
+
+<p> 
+
+<p>Churchill WH.  Transfusion therapy. In: Scientific American Medicine.  Edited by Federman D.  New York: Scientific American, 1999.
+
+<p> 
+
+<p>BLOOD PRODUCTS – COMPLICATIONS
+
+<p> 
+
+<p>1.     Work-up: for all transfusion reactions consider a workup for a hemolytic reaction: blood cultures and hemolysis labs, including purple top for Coombs and red top for repeat type and cross.  The blood bank is required to investigate and will help. The different types of reactions are listed below.
+
+<p> 
+
+<p>2.     Acute hemolytic transfusion reaction:
+
+<p>·       Preexisting anti-RBC antibodies in the recipient hemolyze donated blood. Usually caused by ABO incompatibility due to a clerical error. Fever and hypotension occur early in the transfusion; chills, flank pain, and dyspnea may occur.
+
+<p>-        Stop blood product immediately, as little as 30 cc can be fatal.
+
+<p>-        Provide hemodynamic and renal support.
+
+<p>-        Maintain diuresis with IV fluids and furosemide; consider alkalinization of urine with bicarbonate to prevent renal failure. Watch K+, CK.
+
+<p> 
+
+<p>3.     Delayed hemolytic transfusion reaction:
+
+<p>·       An extravascular immune-mediated process mediated by noncomplement-binding IgG. Ideally, the “screen” portion of the type and screen will identified patients susceptible to this complication.  Fever, jaundice, and anemia occur 2 days to 2 weeks after transfusion.
+
+<p> 
+
+<p>4.     Anaphylaxis:
+
+<p>·       This is different from an acute hemolytic reaction.  Interestingly, the reaction is not IgE mediated, but caused by immune-complex activation of complement – by “anaphylatoxins.”  Symptoms are anaphylactoid, occur early in transfusion, and include laryngeal edema.
+
+<p>-        Stop the transfusion
+
+<p>-        Wash subsequent blood products, and avoid FFP
+
+<p> 
+
+<p>5.     Bacterial contamination:
+
+<p>·       Look for endotoxemia—the onset of high fever/shock within 4 hours of transfusion. Platelets are far more likely to be contaminated with bacteria than blood, because they are stored are room temperature.
+
+<p> 
+
+<p>6.     Acute lung injury:
+
+<p>·       i.e. “noncardiogenic pulmonary edema”. Also termed “TRALI”—transfusion-related acute lung injury.  This is caused by donor antibodies against recipient WBCs. Respiratory failure occurs within 6 hours of transfusion and treatment is supportive.
+
+<p> 
+
+<p>7.     Febrile nonhemolytic transfusion reaction:
+
+<p>·       This is characterized by fever > 1° C during or within 2 hours of completing transfusion. It occurs with 1 in 5 platelet transfusion reactions and is of limited clinical significance. It is questionable whether it is necessary to discontinue the transfusion. Caused by antibodies against foreign donor leukocyte antigens.
+
+<p> 
+
+<p>8.     Urticarial reaction:
+
+<p>·       Some say it is okay to continue transfusion if the patient responds to antihistamines. Again, this is different from—and does not progress to—an anaphylactiod reaction.
+
+<p>·       For nonhemolytic reactions:
+
+<p>-        Benadryl 25-50 mg and Tylenol 650 mg for mild transfusion reactions.
+
+<p>-        Hydrocortisone 50-100 mg IV for moderate and severe reactions.
+
+<p> 
+
+<p>NEUTROPENIC FEVER: ABSOLUTE NEUTROPHIL COUNT < 500
+
+<p> 
+
+<p>1.     If patient has HIV, see Infectious Diseases: HIV and fever .
+
+<p> 
+
+<p>2.     Non-bone marrow transplant patients:
+
+<p>·       Obtain blood culture x 2, urine culture, sputum Gram stain and culture, C. difficile toxin if patient has been on antibiotics, and CXR.
+
+<p>·       Order neutropenic precautions (no rectals, no flowers, no fruit), neutropenic diet, mouth care with Peridex 10 cc sw/sp bid, Nystatin 10 cc sw/sw qid or Mycelex troche 1 qid, and Tylenol 650 mg q 4-6 hour prn.
+
+<p>·       Consider monotherapy with broad-spectrum antibiotics such as ceftazidime, cefipime or anti-pseudomonal beta-lactam. Cover for Gram negative bacteria including Pseudomonas.  Also cover Gram positives such as Staph aureus and Strep viridans.
+
+<p>-        If prolonged neutropenia, consider fungal infection and adding amphotericin B (typically 1 mg/kg IV qd).
+
+<p>-        For nosocomial acquisition, suspected IV catheter infection, known colonization with MRSA/PRSP, (+) blood culture for Gram positive cocci, or a hypotensive patient, consider covering MRSA by adding vancomycin.
+
+<p>-        Double-cover documented Pseudomonas by adding an aminoglycoside or a fluoroquinolone, such as ciprofloxacin. The fluoroquinolone is preferable given the renal toxicity of aminoglycosides.
+
+<p> 
+
+<p>3.     Bone marrow transplant patients: the guidelines above still apply, except for the following:
+
+<p>·       Most hospitals that have a bone marrow transplant unit have an antibiotic algorithm that you should follow when treating bone marrow transplant patients with neutropenic fever.
+
+<p>·       The patients most likely to suffer from full blown sepsis syndrome are those who are penicillin-allergic.
+
+<p> 
+
+<p>SICKLE CELL PAIN CRISIS
+
+<p> 
+
+<p>Your hospital staff typically know these patients well.  Often, the patient’s primary physician has contracted with the patient for an individualized pain protocol.  Consider consultation with the hematologist or pain service to get the exact details (if they exist).  Don’t be surprised by massive opiate tolerance and the need to rapidly escalate the analgesia dose required for relief: remember, physicians typically under-treat pain.  Unlike most opioids, such as morphine and oxycodone, codeine and hydrocodone have ceilings beyond which increasing doses will not result in increasing analgesia.
+
+<p> 
+
+<p>1.     Tips:
+
+<p>·       Stroke, MI, persistent priapism, or intractable pain characterize acute vaso-occlusive crises. Exchange transfusion is indicated in these cases. Also, multi-organ failure requires urgent exchange transfusion.
+
+<p>·       If patient with frequent episodes of pain crisis, consider hydroxyurea as prophylaxis.
+
+<p>In the past, the dogma for treating sickle cell      crises called for aggressive fluids, oxygen, and even bicarbonate      infusions as methods to reverse the “sickling” process in the red blood      cells.  However, we have since learned that the event that led to the      sickle crisis (and thus the “sickling”) has already occurred by the time      the patient comes into the ER.  Therefore, these measures are      unlikely to be helpful and may be harmful (see below).
+
+<p> 
+
+<p>2.     Orders:
+
+<p>·       IV: moderate hypotonic (e.g. D5½NS) hydration.  Aggressive hydration can lead to or exacerbate acute chest syndrome.
+
+<p>·       DIET: NPO; advance diet as tolerated.
+
+<p>·       NURSING: O2 0-4 L/min by NC. (If respiratory status is compromised, remember acute chest syndrome. A new pulmonary infiltrate, fever, chest pain, cough, tachypnea and cough are characteristic).
+
+<p>·       LAB: CBC, reticulocyte count, cultures, electrolytes, BUN, creatinine, bilirubin, U/A, CXR.  Draw red-top tube for type and hold. (If patient is to be transfused, alert the blood bank that the patient has sickle cell disease; these patients will be screened more thoroughly to avoid alloimmunization associated with frequent transfusions).
+
+<p>·       MEDS:Folic acid 1 mg PO QD and analgesic du jour.  Avoid Demerol: these patients will inevitably require huge doses, and are at greatly increased risk of seizures.
+
+<p> 
+
+<p>3.     Try to determine precipitating factor(s): stress, dehydration, drug use, infection, hypoxia, MI, etc. Although, remember that many of these patients come in and out of the hospital for "routine" pain crises without specific precipitants. While pain crises often present with non-specific elevations in WBC and low-grade fevers, there always is the potential for something bad to be going on. Therefore complete work up of concomitant infection is important.
+
+<p> 
+
+<p>4.     Acute chest syndrome: This is one of the dreaded complications of sickle cell disease and a leading cause of death in adults with this disease.  You should think of this diagnosis in any patient with cough, chest pain, wheezing, shortness of breath, fever, and/or new infiltrate on CXR who has a history of sickle cell disease.  Etiology is not fully known, but thought to involve micro/macro vascular infarction, pulmonary fat emboli, and concurrent viral/bacterial infection.  Management primarily consists of supportive care, bronchodilators, treatment of coexisting infection, and transfusions if needed.  In addition, a simple transfusion may be adequate, but if the patient’s clinical situation worsens an exchange transfusion may be needed.
+
+<p> 
+
+<p>Vichinsky EP, Neumayr LD, et al.   Causes and outcomes of the acute chest syndrome in sickle cell disease. National Acute Chest Syndrome Study Group.  N Engl J Med. 2000 Jun 22;342(25):1855-65.
+
+<p> 
+
+<p>THROMBOCYTOPENIA
+
+<p> 
+
+<p>1.     Defined as platelet count < 150K. Generally, platelets > 50K are not associated with significant bleeding, and spontaneous bleeding rarely happens with platelets >10-20K in the absence of coagulopathy or qualitative platelet defect.
+
+<p>·       Avoid intramuscular injections, rectal exams, suppositories, and enemas.
+
+<p>·       Avoid drugs that interfere with platelet function (e.g. NSAIDs/ASA, certain beta-lactam antibiotics).
+
+<p> 
+
+<p>2.     History: “B”-symptoms (such as fevers, night sweats, weight loss), GI bleed, epistaxis.
+
+<p> 
+
+<p>3.     Physical examination: look for lymphadenopathy, splenomegaly, ecchymoses, petechiae, purpura. Petechiae indicate a significant risk for intracerebral hemorrhage.
+
+<p> 
+
+<p>4.     Labs: peripheral smear, PT/PTT, LDH (MAHA), BUN/Cr (HUS/TTP). Get HIV, ANA when indicated, and consider toxoplasmosis, EBV, and CMV serology if lymphadenopathy, splenomegaly, or “B”-symptoms are detected.
+
+<p> 
+
+<p>

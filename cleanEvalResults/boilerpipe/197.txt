@@ -1,0 +1,103 @@
+<h>Chapter 22
+
+<p>Complex Numbers - Basic Ideas
+
+<p>Here is a geometric story which describes the complex numbers, or what   mathematicians since Gauss in the 1840's have regarded as the complex numbers.   This geometric story provides a confirmation of the law of signs for real   numbers. This first part of the story could be explain to someone familiar   with arithmetic and the measurement of coordinates, rectangular and polar in   the plane. The second part of this story is an exercise in trig. The second   part appears in the next chapter.
+
+<p>This applet (online only)   illustrates the ideas in this chapter.
+
+<p>This first half assumes you have some familiarity with the measurement of distances and angles, with the addition of real numbers and points in the plane, and finally with multiplication of nonnegative (that is zero and positive) real numbers.
+
+<p>1. The immediate motivation for this approach (in this chapter) stems   from three successive 1976 McGill University public lectures of the late   Richard Feynman. He simply described physics as the addition and   multiplication of arrows in the plane. He defined their multiplication as   follows: add their angles and multiply their lengths. In terms of the   polar coordinate [r1,q1]   and [r2,q2] for the   factors, the polar coordinates of the product is [r,q]   = [r1r2,q1+q2]   .)
+
+<p>All this was effectively presented to a general audience with no mention of   vectors nor the Gauss-Argand representation of complex numbers. See the   foreword.
+
+<p>2. In Morris Kline's three-volume work Mathematical Thought from   Ancient to Modern Times, see in volume 2, Chapter 27, the third   section called The Geometrical Representation of Complex Numbers. This   section briefly describes the approach of Caspar Wessel (1745-1818). Part of   Wessel's work (translated into English) is reproduced in David Eugene Smith's   1929 work A Source Book in Mathematics, Dover 1959 Reprint.
+
+<p> 
+
+<p>Points in the Plane
+
+<p>Addition
+
+<p>The sum of two points with the rectangular coordinates (a,b) and (c,d) is given by (a+c,b+d). We therefore write
+
+<p>(a,b)+(b,d)             = (a+c,c+d)
+
+<p>For example (2,5)+(6,2) = (8,7).
+
+<p>In words, the addition rule is simple add the rectangular coordinates of the summands to get the rectangular coordinates of the sum. With this in mind, the following question is easy: What are the rectangular coordinates of the sum of (1,14) and (2,8)? Answer: (1,14)+(2,8) = (1+2,14+8) = (3,22). The chapter Arrow Addition discusses the addition of points or arrows in the plane further.
+
+<p>Multiplication
+
+<p>Next we define using polar coordinates the product of two points in the plane. Each point or factor is located by means of angular displacement or rotation from the positive real axis, and also a nonnegative distance from the origin. The product of two points is given by a third point. Its angular displacement is the sum of the angular displacement of the factors. Its distance to the origin is the product of the distances of the factors. This is the add the angles and multiply the lengths rule. In polar coordinate notation, the multiplication rule and definition is indicated by
+
+<p>[r1,q1]·[r2,q2]             = [r1r2,q1+q2]
+
+<p>(As in the previous chapter, square brackets are used to indicate polar coordinates while round brackets indicate rectangular coordinates.)
+
+<p>Example. Two arrows are to be multiplied. One has length 1.3 and angle 22.62°; the other factor has length 1.026 and angle 46.97°; and so their product has length 1.3338 = 1.3·1.026 and angle 69.69° = 22.62°+46.97°; and that is it. See the following diagram.
+
+<p>Another Example. The product of the two points [3,80°] and [4, 60°] is [(3)(4), 80°+ 60°] = [12,140°]
+
+<p>Stop For a Summary
+
+<p>The addition of points in the plane is given by means of their rectangular coordinates while multiplication is given in terms of polar coordinates. It is an exercise in trig to obtain expressions for the rectangular coordinates of a product in terms of the rectangular coordinates of the factors. See the next chapter. (Note that while your reading of this chapter requires a mastery of the algebraic way of writing and thinking, you could explain with diagrams and examples only, the ideas in this chapter to someone without this mastery. It is the on-paper communication which requires the mastery.)
+
+<p>Introducing the Complex Numbers
+
+<p>Points in the plane with the operations of addition and multiplication just given are called the complex numbers. The plane with these two operations on its points is called the complex numbers plane, or more briefly the complex numbers.
+
+<p>We will now change to a more standard notation for them. We may and often will write the rectangular coordinates z = (a,b) as z = a+ib, We will further call the abscissa a, the real part of the complex number z = a+ib. We will also call the ordinate b, the imaginary part of the complex number z = a+ib.
+
+<p>We will say that the complex number z = a+ib is purely imaginary when its real part a = 0. The angle of a purely imaginary complex number z = a+ib = 0+ib = (0,b) is 90 degrees or 270 degrees (modulo
+
+<p>FOOTNOTE: Two quantities x and y are equal modulo a third   quantity c, if and only if their difference x-y = kc for some whole number or integer k.
+
+<p>360 degrees), depending on the sign of the imaginary part b. When b > 0, the angle is 90 degrees (modulo 360 degrees). When b < 0, the angle is 270 degrees (modulo 360 degrees).
+
+<p>We will also say that z = a+ib is (purely) real when its imaginary part b is zero. The angle of a (purely) real complex number z = a+ib = a+i0 = (a,0) is 0 degrees or 180 degrees (modulo 360 degrees), depending on the sign of the real part a. If a > 0, this angle is 0 degrees (modulo 360 degrees) while if a > 0, this angle is 180 degrees (modulo 360 degrees).
+
+<p>Real Numbers as Complex Numbers
+
+<p>Each complex number z = a+i0 with imaginary part zero gives and is given by a real number a. We will write z = a in this situation, and say that the complex number z is also a real number.
+
+<p>With this practice, the real numbers can be regarded as a subset of the complex numbers; and the real number line can be identified with the horizontal axis of the plane.
+
+<p>Confirmation of The Law of Signs
+
+<p>We identify the real number line with the horizontal axis of the plane. With this identification, observe that positive numbers have angular displacement zero, modulo 360 degrees. Also observe that negative numbers have angular displacement 180 degrees, modulo 360 degrees. The magnitude of a real number is its distance to the origin.
+
+<p>Suppose z = a+i0 and w = c+i0. We want to compute the product zw with the multiply the lengths, add the angles rule. Each factor has length |a| or |c|. Each factor has angle 0 or 180 degrees (modulo 360 degrees). The relationships
+
+<p>0° = 0°+0°
+
+<p>180° = 0°+180° = 180°+0°
+
+<p>360° = 180°+180° = 0° (modulo 360°)
+
+<p>imply the add the angles, multiply the lengths rule for the multiplication of complex numbers agrees with the ordinary method for multiplying real numbers and the law of signs. The relationship in particular imply
+
+<p>(+1) = (+1)(+1) as 0° = 0°+0° 
+
+<p>(-1) = (+1)(-1) = (-1)(+1)     as 180° = 0°+180° = 180°+0°
+
+<p>(-1)(-1) = (+1) as     360° = 180°+180°
+
+<p>Examples and then some further comments may reinforce these ideas. For the first example, the number 4 is now identified with the point (4,0) = [4,0°] = [4,360°]. This number or point has distance 4 to the origin and angle of 0°, modulo 360 degrees, with the horizontal axis:
+
+<p>For the second example, the number -2 is identified with the point (-2,0) = [2,180°]. See the figure below.
+
+<p>Now multiplying the point [2,180°] by itself leads to the product [2,180°]2 = [22,180°+180°] = [4,360°] = [4,0°]. Thus the point on the horizontal axis identified with -2 when squared gives the point identified with +4 indicated above. The 360 degrees in the diagram for the number or point 4 = (4,0) represents the doubling of the angle 180 degrees.
+
+<p>For an example or exercise, compute the pairwise products of 3=3+0i, 4=4+0i, -3=-3+i0 and -4=-4+0i using the add the angles, multiply the lengths rule.
+
+<p>Remark. The add the angles, multiply the length rule could be used to define the product of real numbers to people/students who know (a) about the addition of real numbers or coordinates and (b) about the multiplication of non-negative numbers. They would not need to have any previous knowledge of the law of signs.
+
+<p>FOOTNOTE: The add the angles, multiple the lengths rule for the   multiplication of complex numbers thus yields a rule for the multiplication of   real numbers once the multiplication of positive numbers with themselves or   zero is understood/defined.
+
+<p>More Exercises. Compute the following using the multiply the lengths, add the angles rule:
+
+<p> 
+
+<p>

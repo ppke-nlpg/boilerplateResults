@@ -1,0 +1,34 @@
+
+URL: http://msmvps.com/vipul/archive/2005/05/27.aspx
+<h>C# blogs
+
+<h>Friday, May 27, 2005 - Posts
+
+<h> The computer used to kick-start a global worm outbreak in March
+ 2004 has been traced using crucial kinks in its code. The worm
+ code involved using a random function to generate the next set
+ of targets. Since Randon function provided by operating systems
+ 
+
+<h> Microsoft and HP have teamed up to bring you an intensive, 8-hour
+ class focused on developing for Windows Mobile devices. Part
+ of the HP Virtual Classroom Series, this session covers everything
+ you need to know to take your code mobile. The training takes
+ 
+
+<h> Most of you must be aware, but here's a reminder from my side.
+ Developer Elearning is a new elearning venture opened by Microsoft.
+ It&#8217;s all about features and functions served up specifically
+ for the developer audience. It&#8217;s free and accessible 
+
+<h> Scott talks about the compatibity testing on this blog at http://weblogs.asp.net/scottgu/archive/2005/05/11/406515.aspx
+ Wonder the stress these guys are in when they are about to reach
+ ZBB . No wonder their efforts make out cool products for us
+ developers. 
+
+<h> Microsoft has opened up RSS feeds to hundreds of thousands of
+ KB articles. Check it out at http://support.microsoft.com/selectindex/?target=rss
+ Share this post: email it! | bookmark it! | digg it! | live
+ it! 
+
+

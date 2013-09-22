@@ -1,0 +1,731 @@
+
+URL: http://www.nanowrimo.org/modules/newbb/viewtopic.php?viewmode=flat&order=DESC&topic_id=25191&forum=160
+ 0 ){ document.forms.forum_jumpbox.submit();}"> 
+
+<p>-- Select a Forum -- 
+
+<p>&nbsp; 
+
+<p>NaNo Tips & Strategies 
+
+<p>-- Character and Plot Realism Q&A 
+
+<p>-- Plot Doctoring 
+
+<p>-- Reaching 50,000! 
+
+<p>-- Life After NaNoWriMo 
+
+<p>&nbsp; 
+
+<p>NaNoWriMo, Etc. 
+
+<p>-- Rules, Regulations, and Other Minutiae 
+
+<p>-- Site and Message Board Feedback and Suggestions 
+
+<p>-- Tech Help 
+
+<p>&nbsp; 
+
+<p>Genre Lounges 
+
+<p>-- Chick Lit 
+
+<p>-- Erotic Fiction 
+
+<p>-- Fantasy 
+
+<p>-- Historical Fiction 
+
+<p>-- Horror & Thriller 
+
+<p>-- Humor & Satire 
+
+<p>-- Literary Fiction 
+
+<p>-- Mystery & Suspense 
+
+<p>-- Religious, Spiritual & New Age 
+
+<p>-- Romance 
+
+<p>-- Science Fiction 
+
+<p>-- Young Adult & Youth 
+
+<p>-- Other Genres 
+
+<p>&nbsp; 
+
+<p>NaNo Groups 
+
+<p>-- NaNoWriMo Alumni Lounge 
+
+<p>-- Newbies! 
+
+<p>-- Writing Groups and Clubs 
+
+<p>-- Young Novelists 
+
+<p>&nbsp; 
+
+<p>Life During NaNo 
+
+<p>-- Games, Diversions, and Other Exciting Forms of Novel Procrastination 
+
+<p>-- NaNoWriMo Ate My Soul 
+
+<p>-- This is Going Better Than I&#039;d Hoped 
+
+<p>-- Word Wars, Prompts & Sprints 
+
+<p>&nbsp; 
+
+<p>Resources & Support 
+
+<p>-- All-Ages Coffee House 
+
+<p>-- Helpful Orgs and Sites 
+
+<p>-- Marketing, self-promotion and stuff for sale 
+
+<p>-- NaNo Soundtracks 
+
+<p>-- NaNo Technology 
+
+<p>-- The Polling Booth 
+
+<p>-- Writing 101 
+
+<p>&nbsp; 
+
+<p>Off Topic 
+
+<p>-- Off Topic 
+
+<p>&nbsp; 
+
+<p>Regional Lounges - USA 
+
+<p>-- Alabama :: Birmingham 
+
+<p>-- Alabama :: Elsewhere 
+
+<p>-- Alabama :: Mobile/Baldwin 
+
+<p>-- Alabama :: North 
+
+<p>-- Alaska 
+
+<p>-- Arizona :: Elsewhere 
+
+<p>-- Arizona :: Flagstaff 
+
+<p>-- Arizona :: Phoenix 
+
+<p>-- Arizona :: Tucson 
+
+<p>-- Arkansas 
+
+<p>-- California :: Antelope Valley 
+
+<p>-- California :: Central Valley 
+
+<p>-- California :: East Bay 
+
+<p>-- California :: Elsewhere 
+
+<p>-- California :: Inland Empire 
+
+<p>-- California :: Lompoc 
+
+<p>-- California :: Los Angeles 
+
+<p>-- California :: Marin-Sonoma 
+
+<p>-- California :: Monterey 
+
+<p>-- California :: North San Diego County 
+
+<p>-- California :: Orange County 
+
+<p>-- California :: Sacramento 
+
+<p>-- California :: San Diego 
+
+<p>-- California :: San Francisco 
+
+<p>-- California :: Santa Barbara 
+
+<p>-- California :: Santa Clarita 
+
+<p>-- California :: Santa Cruz 
+
+<p>-- California :: SF Peninsula 
+
+<p>-- California :: South Bay 
+
+<p>-- California :: Stockton 
+
+<p>-- Colorado :: Boulder 
+
+<p>-- Colorado :: Colorado Springs 
+
+<p>-- Colorado :: Denver 
+
+<p>-- Colorado :: Elsewhere 
+
+<p>-- Colorado :: Fort Collins 
+
+<p>-- Colorado :: Greeley 
+
+<p>-- Connecticut :: East 
+
+<p>-- Connecticut :: North 
+
+<p>-- Connecticut :: Shoreline 
+
+<p>-- Delaware 
+
+<p>-- District of Columbia 
+
+<p>-- Florida :: Daytona Beach 
+
+<p>-- Florida :: Elsewhere 
+
+<p>-- Florida :: Ft. Lauderdale 
+
+<p>-- Florida :: Gainesville 
+
+<p>-- Florida :: Jacksonville 
+
+<p>-- Florida :: Miami 
+
+<p>-- Florida :: Northwest 
+
+<p>-- Florida :: Orlando 
+
+<p>-- Florida :: Palm Beaches 
+
+<p>-- Florida :: Southwest 
+
+<p>-- Florida :: St. Augustine 
+
+<p>-- Florida :: Tallahassee 
+
+<p>-- Florida :: Tampa 
+
+<p>-- Florida :: Vero Beach 
+
+<p>-- Georgia :: Athens 
+
+<p>-- Georgia :: Atlanta 
+
+<p>-- Georgia :: Elsewhere 
+
+<p>-- Georgia :: Macon 
+
+<p>-- Hawaii 
+
+<p>-- Idaho :: Boise 
+
+<p>-- Idaho :: Elsewhere 
+
+<p>-- Illinois :: Champaign-Urbana 
+
+<p>-- Illinois :: Chicago 
+
+<p>-- Illinois :: Elsewhere 
+
+<p>-- Illinois :: Naperville 
+
+<p>-- Illinois :: Peoria 
+
+<p>-- Illinois :: Southern 
+
+<p>-- Indiana :: Bloomington 
+
+<p>-- Indiana :: Elsewhere 
+
+<p>-- Indiana :: Evansville 
+
+<p>-- Indiana :: Indianapolis 
+
+<p>-- Indiana :: North 
+
+<p>-- Indiana :: Notre Dame 
+
+<p>-- Indiana :: Richmond 
+
+<p>-- Indiana :: Terre Haute 
+
+<p>-- Iowa :: Des Moines 
+
+<p>-- Iowa :: Elsewhere 
+
+<p>-- Iowa :: Iowa City 
+
+<p>-- Iowa :: Sioux City 
+
+<p>-- Kansas 
+
+<p>-- Kentucky :: Bowling Green 
+
+<p>-- Kentucky :: Elsewhere 
+
+<p>-- Kentucky :: Lexington 
+
+<p>-- Kentucky :: Louisville 
+
+<p>-- Louisiana :: Baton Rouge 
+
+<p>-- Louisiana :: Elsewhere 
+
+<p>-- Louisiana :: Lafayette 
+
+<p>-- Louisiana :: New Orleans 
+
+<p>-- Maine 
+
+<p>-- Maryland 
+
+<p>-- Massachusetts :: Berkshires 
+
+<p>-- Massachusetts :: Boston 
+
+<p>-- Massachusetts :: Elsewhere 
+
+<p>-- Massachusetts :: Western Mass 
+
+<p>-- Massachusetts :: Worcester 
+
+<p>-- Michigan :: Ann Arbor 
+
+<p>-- Michigan :: Detroit 
+
+<p>-- Michigan :: Elsewhere 
+
+<p>-- Michigan :: Flint 
+
+<p>-- Michigan :: Grand Rapids 
+
+<p>-- Michigan :: Lansing 
+
+<p>-- Michigan :: Marquette and the UP 
+
+<p>-- Minnesota :: Duluth 
+
+<p>-- Minnesota :: Elsewhere 
+
+<p>-- Minnesota :: Goodhue County 
+
+<p>-- Minnesota :: Rochester 
+
+<p>-- Minnesota :: Saint Cloud 
+
+<p>-- Minnesota :: Twin Cities 
+
+<p>-- Mississippi 
+
+<p>-- Missouri :: Columbia 
+
+<p>-- Missouri :: Elsewhere 
+
+<p>-- Missouri :: Fulton 
+
+<p>-- Missouri :: Kansas City 
+
+<p>-- Missouri :: Springfield 
+
+<p>-- Missouri :: St. Louis 
+
+<p>-- Montana 
+
+<p>-- Nebraska 
+
+<p>-- Nevada :: Elsewhere 
+
+<p>-- Nevada :: Las Vegas 
+
+<p>-- New Hampshire 
+
+<p>-- New Jersey :: Central 
+
+<p>-- New Jersey :: Elsewhere 
+
+<p>-- New Jersey :: Northeast 
+
+<p>-- New Jersey :: Northwest 
+
+<p>-- New Jersey :: South 
+
+<p>-- New Mexico 
+
+<p>-- New York :: Albany 
+
+<p>-- New York :: Brooklyn and Queens 
+
+<p>-- New York :: Buffalo 
+
+<p>-- New York :: Dunkirk 
+
+<p>-- New York :: Elsewhere 
+
+<p>-- New York :: Ithaca 
+
+<p>-- New York :: Long Island 
+
+<p>-- New York :: Mohawk Valley 
+
+<p>-- New York :: New York City 
+
+<p>-- New York :: Plattsburgh 
+
+<p>-- New York :: Rochester 
+
+<p>-- North Carolina :: Asheville 
+
+<p>-- North Carolina :: Chapel Hill 
+
+<p>-- North Carolina :: Charlotte 
+
+<p>-- North Carolina :: Elsewhere 
+
+<p>-- North Carolina :: Fayetteville 
+
+<p>-- North Carolina :: Raleigh-Durham 
+
+<p>-- North Dakota 
+
+<p>-- Ohio :: Ada 
+
+<p>-- Ohio :: Canton/Akron 
+
+<p>-- Ohio :: Cincinnati 
+
+<p>-- Ohio :: Cleveland 
+
+<p>-- Ohio :: Columbus 
+
+<p>-- Ohio :: Dayton 
+
+<p>-- Ohio :: Elsewhere 
+
+<p>-- Ohio :: North Central 
+
+<p>-- Ohio :: Toledo 
+
+<p>-- Oklahoma 
+
+<p>-- Oregon :: Albany 
+
+<p>-- Oregon :: Elsewhere 
+
+<p>-- Oregon :: Eugene 
+
+<p>-- Oregon :: Newport 
+
+<p>-- Oregon :: Portland 
+
+<p>-- Oregon :: Salem 
+
+<p>-- Pennsylvania :: Elsewhere 
+
+<p>-- Pennsylvania :: Lehigh Valley 
+
+<p>-- Pennsylvania :: Norristown 
+
+<p>-- Pennsylvania :: Philadelphia 
+
+<p>-- Pennsylvania :: Pittsburgh 
+
+<p>-- Pennsylvania :: Williamsport 
+
+<p>-- Puerto Rico 
+
+<p>-- Rhode Island 
+
+<p>-- South Carolina :: Charleston 
+
+<p>-- South Carolina :: Columbia 
+
+<p>-- South Carolina :: Elsewhere 
+
+<p>-- South Carolina :: Greenville 
+
+<p>-- South Dakota 
+
+<p>-- Tennessee :: Elsewhere 
+
+<p>-- Tennessee :: Knoxville 
+
+<p>-- Tennessee :: Memphis 
+
+<p>-- Tennessee :: Nashville 
+
+<p>-- Texas :: Amarillo 
+
+<p>-- Texas :: Austin 
+
+<p>-- Texas :: Bell County 
+
+<p>-- Texas :: Bryan-College Station 
+
+<p>-- Texas :: Corpus Christi 
+
+<p>-- Texas :: Dallas/Ft. Worth 
+
+<p>-- Texas :: El Paso 
+
+<p>-- Texas :: Elsewhere 
+
+<p>-- Texas :: Galveston 
+
+<p>-- Texas :: Houston 
+
+<p>-- Texas :: Lubbock 
+
+<p>-- Texas :: Odessa 
+
+<p>-- Texas :: San Antonio 
+
+<p>-- Texas :: Waco 
+
+<p>-- Utah :: Elsewhere 
+
+<p>-- Utah :: Ogden 
+
+<p>-- Utah :: Salt Lake City 
+
+<p>-- Vermont 
+
+<p>-- Virginia :: Elsewhere 
+
+<p>-- Virginia :: Northern 
+
+<p>-- Virginia :: Richmond 
+
+<p>-- Washington :: Bellingham 
+
+<p>-- Washington :: Elsewhere 
+
+<p>-- Washington :: Olympia 
+
+<p>-- Washington :: Pullman 
+
+<p>-- Washington :: Seattle 
+
+<p>-- Washington :: Spokane 
+
+<p>-- Washington :: Tacoma 
+
+<p>-- Washington :: Tri-Cities 
+
+<p>-- Washington :: Vancouver 
+
+<p>-- West Virginia :: Elsewhere 
+
+<p>-- West Virginia :: Huntington 
+
+<p>-- Wisconsin :: Elsewhere 
+
+<p>-- Wisconsin :: Madison 
+
+<p>-- Wisconsin :: Milwaukee & Waukesha 
+
+<p>-- Wyoming 
+
+<p>&nbsp; 
+
+<p>Regional Lounges - Canada 
+
+<p>-- Alberta :: Calgary 
+
+<p>-- Alberta :: Edmonton 
+
+<p>-- Alberta :: Elsewhere 
+
+<p>-- British Columbia :: Elsewhere 
+
+<p>-- British Columbia :: Vancouver 
+
+<p>-- British Columbia :: Victoria 
+
+<p>-- Elsewhere 
+
+<p>-- Manitoba 
+
+<p>-- New Brunswick and Prince Edward Island 
+
+<p>-- Newfoundland 
+
+<p>-- Nova Scotia 
+
+<p>-- Ontario :: Elsewhere 
+
+<p>-- Ontario :: Hamilton 
+
+<p>-- Ontario :: Kingston 
+
+<p>-- Ontario :: London 
+
+<p>-- Ontario :: Muskoka 
+
+<p>-- Ontario :: Niagara 
+
+<p>-- Ontario :: North Bay 
+
+<p>-- Ontario :: Ottawa 
+
+<p>-- Ontario :: Sudbury 
+
+<p>-- Ontario :: Toronto 
+
+<p>-- Ontario :: Windsor 
+
+<p>-- Quebec :: Elsewhere 
+
+<p>-- Quebec :: Montreal 
+
+<p>-- Quebec :: Quebec 
+
+<p>-- Saskatchewan 
+
+<p>&nbsp; 
+
+<p>Regional Lounges - UK, Ireland & Europe 
+
+<p>-- Czech Republic 
+
+<p>-- Denmark 
+
+<p>-- Deutschland und Österreich 
+
+<p>-- Elsewhere 
+
+<p>-- England :: Birmingham 
+
+<p>-- England :: Brighton 
+
+<p>-- England :: Cambridge 
+
+<p>-- England :: Derbyshire 
+
+<p>-- England :: Elsewhere 
+
+<p>-- England :: Gloucester & Cheltenham 
+
+<p>-- England :: London 
+
+<p>-- England :: Manchester 
+
+<p>-- England :: Newcastle 
+
+<p>-- England :: Nottingham 
+
+<p>-- England :: Oxfordshire 
+
+<p>-- England :: York & Leeds 
+
+<p>-- Estonia 
+
+<p>-- Finland 
+
+<p>-- France 
+
+<p>-- Holland & Belgium 
+
+<p>-- Iceland 
+
+<p>-- Ireland :: Dublin 
+
+<p>-- Ireland :: Elsewhere 
+
+<p>-- Luxembourg 
+
+<p>-- Norway 
+
+<p>-- Scandinavia 
+
+<p>-- Scotland 
+
+<p>-- Sweden 
+
+<p>-- Switzerland 
+
+<p>-- Wales 
+
+<p>&nbsp; 
+
+<p>Regional Lounges - Australia and New Zealand 
+
+<p>-- Adelaide 
+
+<p>-- Brisbane 
+
+<p>-- Canberra and the ACT 
+
+<p>-- Darwin 
+
+<p>-- Elsewhere 
+
+<p>-- Margaret River 
+
+<p>-- Melbourne 
+
+<p>-- New Zealand 
+
+<p>-- Perth 
+
+<p>-- Sydney 
+
+<p>&nbsp; 
+
+<p>Regional Lounges - Asia 
+
+<p>-- China 
+
+<p>-- Elsewhere 
+
+<p>-- Japan 
+
+<p>-- Korea 
+
+<p>-- Malaysia 
+
+<p>-- Philippines 
+
+<p>-- Singapore 
+
+<p>-- Sri Lanka 
+
+<p>-- Taiwan 
+
+<p>&nbsp; 
+
+<p>Regional Lounges - Elsewhere 
+
+<p>-- Africa and Elsewhere 
+
+<p>-- Bahamas 
+
+<p>-- Brazil 
+
+<p>-- Caribbean 
+
+<p>-- Egypt 
+
+<p>-- Israel 
+
+<p>-- Mexico, Central and South America 
+
+<p>-- South Africa 
+
+<p>-- Tunisia 
+
+<p>-- Turkey 
+
+<p>   76   user(s) are online (  48   user(s) are browsing   Forums  )   Members: 23   Guests: 53  View online users 
+
+<p>   Home   ::   About   ::   Authors   ::   My NaNoWriMo   ::   FAQs   ::   Fun Stuff   ::   Donation/Store   ::   Forums   ::   Our Programs  Privacy Policy   ::   Terms and Conditions   ::   Returns Policy   Copyright &copy; 2006 The Office of Letters and Light :: All posted novel excerpts remain copyright their authors.   Powered by XOOPS 2.0.13 &copy; 2001-2006  

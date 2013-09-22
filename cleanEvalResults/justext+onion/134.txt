@@ -1,0 +1,15 @@
+
+URL: http://oval.mitre.org/community/board/minutes/2004-09-21.html
+<p>OVAL is sponsored by the US-CERT at the U.S. Department of Homeland
+ Security. See our sponsor page.
+
+<p>This Web site is hosted by The MITRE Corporation. Copyright 2006,
+ The MITRE Corporation. OVAL and the OVAL logo are trademarks
+ of The MITRE Corporation.
+
+<p>NOTICE: This software (or technical data) was produced for the
+ U. S. Government under contract 0706H300-OV, and is subject
+ to the Rights in Data-General Clause 52.227-14 (JUNE 1987)
+
+
+

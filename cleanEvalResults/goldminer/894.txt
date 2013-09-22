@@ -1,0 +1,685 @@
+
+URL: http://aviation-safety.net/investigation/cvr/transcripts/cvr_dl191.php
+<p>Cockpit voice recorder transcription of the August 2, 1985 crash
+ of a Delta Air Lines Lockheed TriStar (Flight 191) Dallas.
+
+ Source: NTSB/AAR-86/05 
+
+<p>The reader of these transcripts is cautioned that the transcription
+ of a CVR tape is not a precise science but is the best possible
+ product from a group investigative effort. The transcript, or
+ parts thereof, if taken out of context can be misleading. Therefore,
+ the CVR transcripts should only be viewed as an investigative
+ tool to be used in conjunction with other evidence. Conclusions
+ or interpretations should not be made using the transcript as
+ the sole source of information.
+ Furthermore, this transcript
+ is made available for educational purposes, so the reader is
+ encouraged to read the accident description associated with
+ the transcripts for better understanding of the circumstances.
+
+<p>Legenda:
+ CAM - Cockpit area microphone
+ RDO - Radio transmission
+ from accident aircraft
+ -1 - Voice (or position) identified
+ as Captain
+ -2 - Voice (or position) identified as First Officer
+
+ -3 - Voice identified as Second officer
+ -? - Unidentifiable
+ voice
+ APP = Dallas Approach
+ TWR = Dallas Tower
+ * - Unintelligible
+ word
+ # - Expletive deleted
+ () - Questionable text
+
+<p>
+time
+
+<p>source
+
+<p>content
+
+<p>18.02:10
+
+<p>AA539
+
+<p>Three thousand American five thirty nine
+
+<p>18.02:14
+
+<p>CAM-?
+
+<p>* * *
+
+<p>18.02:15
+
+<p>APP
+
+<p>Delta one ninety one heavy, traffic ten o'clock a mile northbound
+ twenty hundred unverified
+
+<p>18.02:18
+
+<p>RDO-1
+
+<p>Thank you
+
+<p>18.02:23
+
+<p>APP
+
+<p>American five thirty nine reduce speed one seven zero, caution
+ wake turbulence you'll be following heavy TriStar
+
+<p>18.02:27
+
+<p>AA539
+
+<p>One seventy on the speed American five thirty nine
+
+<p>18.02:35
+
+<p>APP
+
+<p>Delta one ninety one heavy is six miles from the marker, turn
+ left heading one eight zero join the localizer at or above two
+ thousand three hundred cleared for ILS one seven left approach
+
+<p>18.02:43
+
+<p>RDO-1
+
+<p>Deta one niner one roger, all that appreciate it
+
+<p>18.02:46
+
+<p>DL557
+
+<p>Regional approach Delta five fifty seven with you
+
+<p>18.02:48
+
+<p>CAM
+
+<p>[Sound of gear warning horn begins five times due to airspeed
+ oscillation about one hundred and eighty knots]
+
+<p>18.02:49
+
+<p>APP
+
+<p>Delta five fifty seven approach fly heading two seven zero, expect
+ ILS approach one seven left
+
+<p>18.02:53
+
+<p>CAM
+
+<p>[Sound of gear warning horn]
+
+<p>18.02:55
+
+<p>DL557
+
+<p>One seven zero for the left side Delta five fifty six
+
+<p>18.03:03
+
+<p>APP
+
+<p>Delta one ninety one heavy, reduce your speed to one six zero
+ please
+
+<p>18.03:06
+
+<p>RDO-1
+
+<p>Be glad to
+
+<p>18.03:08
+
+<p>CAM
+
+<p>[Sound of gear warning horn]
+
+<p>18.03:09
+
+<p>CAM-1
+
+<p>One six zero
+
+<p>18.03:10
+
+<p>CAM-2
+
+<p>All right
+
+<p>18.03:11
+
+<p>CAM-1
+
+<p>Localizer and glideslope captured
+
+<p>18.03:12
+
+<p>CAM
+
+<p>[Sound of gear warning horn]
+
+<p>18.03:14
+
+<p>APP
+
+<p>American five thirty nine turn left two three zero
+
+<p>18.03:16
+
+<p>AA539
+
+<p>Two three zero American five thirty nine
+
+<p>18.03:16
+
+<p>CAM-1
+
+<p>One six zero is your speed
+
+<p>18.03:19
+
+<p>APP
+
+<p>Delta five fifty seven reduce speed to one seven zero
+
+<p>18.03:22
+
+<p>DL557
+
+<p>One seventy Delta five fifty seven
+
+<p>18.03:31
+
+<p>APP
+
+<p>And we're getting some variable winds out there due to a sh-
+ shower on short out there north end of DFW
+
+<p>18.03:31
+
+<p>APP
+
+<p>American five thirty nine turn left to two two zero
+
+<p>18.03:34
+
+<p>CAM-?
+
+<p>Stuff is moving in * * *
+
+<p>18.03:35
+
+<p>CAM-?
+
+<p>* *
+
+<p>18.03:36
+
+<p>CAM-?
+
+<p>* *
+
+<p>18.03:40
+
+<p>CAM
+
+<p>[Sound of gear warning and altitude chord]
+
+<p>18.03:43
+
+<p>CAM-1
+
+<p>One six zero's the speed
+
+<p>18.03:45
+
+<p>AA539
+
+<p>Two two zero American five thirty nine
+
+<p>18.03:46
+
+<p>APP
+
+<p>Delta one ninety one heavy, reduce speed to one five zero, contact
+ tower one two six five five
+
+<p>18.03:49
+
+<p>RDO-1
+
+<p>One two six five five, you have a nice day, we appreciate your
+ help
+
+<p>18.03:52
+
+<p>APP
+
+<p>(Bye)
+
+<p>18.03:53
+
+<p>RDO-?
+
+<p>Five eighy six
+
+<p>18.03:58
+
+<p>RDO-1
+
+<p>Tower Delta one ninety one heavy, out here in the rain, feels
+ good
+
+<p>18.04:01
+
+<p>TWR
+
+<p>Delta one ninety one heay regiona tower one seven left cleared
+ to land, wind zero nine zero at five gusts to one five
+
+<p>18.04:05
+
+<p>RDO-1
+
+<p>Thank you, sir
+
+<p>18.04:07
+
+<p>CAM-2
+
+<p>Before landing check
+
+<p>18.04:08
+
+<p>CAM-3
+
+<p>Landing gear
+
+<p>18.04:10
+
+<p>CAM-1
+
+<p>Down, three green
+
+<p>18.04:10
+
+<p>TWR
+
+<p>American three fifty one, if you can make that next high speed
+ there, pull up behind Delta and hold short of one seven right
+ this frequency
+
+<p>18.04:11
+
+<p>CAM-3
+
+<p>Fourteen green
+
+<p>18.04:12
+
+<p>CAM-1
+
+<p>Thirty three, thirty three, green light
+
+<p>18.04:15
+
+<p>CAM-3
+
+<p>Fourteen green
+
+<p>18.04:15
+
+<p>AA351
+
+<p>Three fifty one
+
+<p>18.04:18
+
+<p>CAM-2
+
+<p>Lightning coming out of that one
+
+<p>18.04:19
+
+<p>CAM-1
+
+<p>What?
+
+<p>18.04:21
+
+<p>CAM-2
+
+<p>Lightning coming out of that one
+
+<p>18.04:22
+
+<p>CAM-1
+
+<p>Where?
+
+<p>18.04:23
+
+<p>CAM-2
+
+<p>Right ahead of us
+
+<p>18.04:29
+
+<p>RDO
+
+<p>[Sound of open microphone]
+
+<p>18.04:30
+
+<p>CAM-3
+
+<p>You get good legs don't ya
+
+<p>18.04:30
+
+<p>TWR
+
+<p>Delta ten sixty one cross one seven right without delay ground
+ point six five after you cross
+
+<p>18.04:36
+
+<p>DL1061
+
+<p>Crossing seventeen right Delta ten sixty one
+
+<p>18.04:38
+
+<p>TWR
+
+<p>Three fifty one cross one seven right ground point six five after
+ you cross
+
+<p>18.04:39
+
+<p>CAM-2
+
+<p>[Garbled comment override by radio]
+
+<p>18.04:41
+
+<p>CAM-1
+
+<p>I don't have a DME on mine
+
+<p>18.04:43
+
+<p>CAM-2
+
+<p>I don't know, you haven't had it for the last five minutes
+
+<p>18.04:45
+
+<p>TWR
+
+<p>Delta nine sixty three and American six nineteen cross one seen
+ right ground point six five after you cross
+
+<p>18.04:51
+
+<p>AA619
+
+<p>American six nineteen
+
+<p>18.04:52
+
+<p>DL963
+
+<p>Nine six three roger
+
+<p>18.04:54
+
+<p>TWR
+
+<p>Three fifty one did you copy to cross
+
+<p>18.04:55
+
+<p>AA351
+
+<p>Yes sir we're on the way American three fifty one
+
+<p>18.04:57
+
+<p>TWR
+
+<p>Thank you
+
+<p>18.05:04
+
+<p>CAM-?
+
+<p>Wash that off a little bit
+
+<p>18.05:05
+
+<p>CAM-1
+
+<p>A thousand feet
+
+<p>18.05:08
+
+<p>CAM-1
+
+<p>Seven sixty two in the baro
+
+<p>18.05:12
+
+<p>CAM-1
+
+<p>I'll call 'em for you
+
+<p>18.05:13
+
+<p>CAM-2
+
+<p>Aw right
+
+<p>18.05:14
+
+<p>AA178
+
+<p>You want American one seventy eight to turn the corner?
+
+<p>18.05:16
+
+<p>TWR
+
+<p>Yes sir, everybody around the corner when you're number one
+
+<p>18.05:19
+
+<p>CAM-1
+
+<p>Watch your speed
+
+<p>18.05:20
+
+<p>CAM
+
+<p>[Sound similar to rain begins and continues to impact]
+
+<p>18.05:20
+
+<p>TWR
+
+<p>American one fifty six contact departure, good day
+
+<p>18.05:21
+
+<p>CAM-1
+
+<p>You're gonna lose it all of a sudden, there it is
+
+<p>18.05:22
+
+<p>AA156
+
+<p>American one fifty six, so long
+
+<p>18.05:26
+
+<p>CAM-1
+
+<p>Push it up, push it way up
+
+<p>18.05:27
+
+<p>CAM-1
+
+<p>Way up
+
+<p>18.05:28
+
+<p>CAM-3
+
+<p>Way up
+
+<p>18.05:29
+
+<p>CAM-1
+
+<p>Way up
+
+<p>18.05:29
+
+<p>CAM
+
+<p>[Sound of engines high RPM]
+
+<p>18.05:30
+
+<p>CAM-1
+
+<p>That's it
+
+<p>18.05:35
+
+<p>RDO
+
+<p>[Sound of microphone keying]
+
+<p>18.05:36
+
+<p>TWR
+
+<p>American six twenty two cleared for takeoff
+
+<p>18.05:36
+
+<p>CAM-1
+
+<p>Hang on the # # 
+
+<p>18.05:38
+
+<p>AA622
+
+<p>Cleared for takeoff American six twenty two
+
+<p>18.05:39
+
+<p>CAM-2
+
+<p>(What's vee ref?)
+
+<p>18.05:40
+
+<p>TWR
+
+<p>Five eight six into position one seven right
+
+<p>18.05:44
+
+<p>GPWS
+
+<p>Whoop whoop pull up
+
+<p>18.05:44
+
+<p>AA586
+
+<p>Into position and hold five eighty six
+
+<p>18.05:44
+
+<p>CAM
+
+<p>[Garbled sound]
+
+<p>18.05:45
+
+<p>CAM-1
+
+<p>Toga
+
+<p>18.05:46
+
+<p>CAM-?
+
+<p>* * 
+
+<p>18.05:46
+
+<p>TWR
+
+<p>November one five juliot fox can you make the ah we'll expedite
+ down to the ah taxi thirty one and a right turn off the traffics
+ a mile final
+
+<p>18.05:46
+
+<p>CAM
+
+<p>[Sound of radio altimeters]
+
+<p>18.05:46
+
+<p>GPWS
+
+<p>Whoop whoop pull up (sound of GPWS is distributed evenly and
+ continously)
+
+<p>18.05:47
+
+<p>CAM-?
+
+<p>Push it way up
+
+<p>18.05:48
+
+<p>GPWS
+
+<p>Whoop whoop pull up
+
+<p>18.05:49
+
+<p>GPWS
+
+<p>Whoop whoop pull up
+
+<p>18.05:52
+
+<p>CAM
+
+<p>[Sound of noise similar to landing; sound of takeoff warning
+ horn. The sound continues for 1.6 seconds]
+
+

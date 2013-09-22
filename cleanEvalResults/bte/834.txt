@@ -1,0 +1,365 @@
+
+URL: http://www2.slac.stanford.edu/computing/helpdesk/visitor/confchecklist.asp
+ Simply notify SLAC SCCS computing support by sending e-mail to   conference-comp@slac.stanford.edu   if you have an upcoming conference which may have computing needs, and we will contact you to discuss what is needed.  
+
+<p>  It is important that conference-comp gets time to plan your needs with you and mobilize any resources necessary, so please do not hold off contacting us if you do not yet know the details. The checklist below is just a reference. If you have doubts as to whether your conference needs any computing resources, please just notify conference-comp anyways. 
+
+<p>  
+
+<p>&nbsp;  
+
+<p>Computing at conferences and meetings can be complex, e.g., 
+
+<p> projector set up with a computer (some need network access) 
+
+<p> network access for laptops 
+
+<p> printing for producing committee reports and papers 
+
+<p> visitors not able to log onto SLAC computers to write reports (if conference is on site)  
+
+<p> workstations needed for different purposes and different types of software 
+
+<p> database access (databases residing on a server and accessed from web interface) 
+
+<p> etc.  
+
+<p>In order for you to plan and implement this properly at conferences, we need the sponsors of the conference to work with SCCS and other computing staff at SLAC. We need to plan and work with you on a sensible setup, so that for a temporary and mobile conference setup, you can obtain the desired functionality without having to replicate the complex SLAC infrastructure that you have come to expect at your SLAC office. 
+
+<p>  Please go over this checklist and send e-mail to   conference-comp   list so that someone can contact you to discuss this. A secondary purpose of the checklist is to alert you of the complexities and guide you to think through the implementation in a timely manner. 
+
+<p> SCCS and computing staff from other SLAC departments can provide consulting to plan the resources needed to meet your needs. To make your conference computing as easy as possible, you are urged to involve the computing staff in the planning from the beginning. The sponsors are responsible to find and fund the resources needed. 
+
+<p>We would appreciate if past and future conference organizers will contribute to this web page to concentrate our experiences. Please send e-mail to   conference-comp  . 
+
+<p> 
+
+<p>  
+
+<p>Checklist 
+
+<p>  
+
+<p> Do you need?  
+
+<p> Description  
+
+<p> SLAC Person to Contact  
+
+<p> Cost  
+
+<p> When to do this  
+
+<p>Initial planning between the SCCS contact and the conference computing contact 
+
+<p>  Do this first.  &nbsp; This will allow you and the computing staff to:  
+
+<p>identify the computing people responsible and the resources needed 
+
+<p>understand what you expect for computing at the&nbsp; conference 
+
+<p>what infrastructure to set up at the conference in coordination with other computing staff at SLAC 
+
+<p>Contact   conference-comp  first, in order to involve SCCS and other computing staff. 
+
+<p>N/A 
+
+<p>As soon as you know of the conference, months in advance 
+
+<p> Conference Room  
+
+<p>Have you arranged with the conference room contact:  
+
+<p>whether computing equipment brought in creates any conflicts 
+
+<p>dates and times for moving computing equipment in and out 
+
+<p>  Contacts for SLAC rooms 
+
+<p>&nbsp;&nbsp; 
+
+<p>As soon as you know of the conference, months in advance 
+
+<p> Media Projector  
+
+<p>Do you need talks projected from laptops or files on a floppy disk?  
+
+<p>Have you checked the cabling hookups for the projector?  
+
+<p>Have you reserved the projector?&nbsp; For important conferences, you may need a backup projector.  
+
+<p>SLAC Library has loaner&nbsp; projectors. 
+
+<p>&nbsp; 
+
+<p>Reserve or check the projector as soon as you know of the conference 
+
+<p> Conference Phone  
+
+<p>Do you need a conference phone?  
+
+<p>  SCCS Help Desk   has one loaner&nbsp; conference phone. 
+
+<p>&nbsp; 
+
+<p>Reserve the phone as soon as you know of the conference 
+
+<p> Networking  
+
+<p>  On-site: 
+
+<p> How many people will be bringing laptops? 
+
+<p> How many laptop users will need internet access? 
+
+<p> For those not bringing laptops, is e-mail, telnet and web browsing needed? 
+
+<p> Is the ability to write files to the local C drive or to the floppy drive needed to produce reports? 
+
+<p> Is printing needed? 
+
+<p> Is access to SLAC Windows file servers needed? 
+
+<p> Is access to 'slaconly' web pages needed?  
+
+<p>Info on SLAC   Conference Rooms setup  , other needs&nbsp; 
+
+<p> contact   conference-comp 
+
+<p>&nbsp; 
+
+<p>A month before the conference 
+
+<p>  Off-site: 
+
+<p> Which is the vendor that the conference site uses? 
+
+<p> Recommended is DHCP for workstations, fixed IP addresses for printers supplied by vendor.&nbsp; 
+
+<p>  
+ How many people need access? 
+
+<p> Is e-mail, telnet and web browsing needed? 
+
+<p> Is writing files to the local C drive needed? 
+
+<p> Is access to SLAC Windows file servers needed? 
+
+<p> Is access to 'slaconly' web pages needed? 
+
+<p>Contact   conference-comp 
+
+<p>Ask&nbsp; the&nbsp; vendor 
+
+<p>Few months before the conference 
+
+<p>Large number of PC hardware  
+
+<p>How many workstations do you need? 
+
+<p> Will the operating system and software need installing, and by whom? 
+
+<p> Do you need to know the local workstation accounts (for NT/Linux)? 
+
+<p>Info on SLAC   Conference Rooms setup  , other needs&nbsp; 
+
+<p> contact   conference-comp 
+
+<p>&nbsp; 
+
+<p>Few months before the conference 
+
+<p> Re-use existing PC hardware  
+
+<p>How many workstations do you need? 
+
+<p>  
+
+<p> Will the operating system and software need re-installing, and by whom? 
+
+<p> Do you need to know the local workstation accounts (for NT/Linux)? 
+
+<p>? 
+
+<p>&nbsp; 
+
+<p>&nbsp; 
+
+<p> Types of functions PC's will be used for (different software, etc.)  
+
+<p>What is the software you expect (here is the   SLAC standard suite   for conference NT's)? 
+
+<p> Will some PC's have different software? 
+
+<p> Are there any version incompatibilities (e.g., Microsoft Access 97 vs Access 2000)? 
+
+<p>contact   conference-comp 
+
+<p>&nbsp;&nbsp; 
+
+<p>&nbsp;&nbsp; 
+
+<p> Number of operating systems (OS)  
+
+<p>Optimal answer is one.&nbsp; Each additional operating system increases complexities substantially. 
+
+<p>contact   conference-comp 
+
+<p>&nbsp; 
+
+<p>&nbsp; 
+
+<p> File interchange  
+
+<p>For computers networked to the internet, files can be exchanged as e-mail attachments. Or FTP can be used on a&nbsp; common server.  
+
+<p>For non-networked computers, make sure there is either floppy drive or other removable media. 
+
+<p>PC's and Macs can exchange files via PC-formatted Zip cartridges (both will need Zip drives) or PC-formatted floppy disks. 
+
+<p>Are there any dependencies for files within the SLAC network? 
+
+<p>contact   conference-comp 
+
+<p>&nbsp; 
+
+<p>&nbsp; 
+
+<p> Printing  
+
+<p>What models of printers?&nbsp;&nbsp; 
+
+<p> Are printer drivers loaded onto each workstation? 
+
+<p> Do you need parallel port printer cables? 
+
+<p> Are printers on fixed IP addresses, and do these printer addresses need to be loaded onto each workstations? 
+
+<p>contact   conference-comp 
+
+<p>&nbsp; 
+
+<p>&nbsp; 
+
+<p> Laptops  
+
+<p>Do they expect to be networked? 
+
+<p> Do they expect to print (recommended to use parallel port printer cable)?&nbsp; If expected to print, do you have printer drivers for all operating systems expected? 
+
+<p>Info on SLAC   Conference Rooms setup  , other needs&nbsp; 
+
+<p> contact   conference-comp 
+
+<p>&nbsp; 
+
+<p>&nbsp; 
+
+<p> Accessing SLAC resources  
+
+<p>At the conference do you need to access SLAC resources behind the SLAC firewall (such as SLAC Windows files to modify papers and talks)? 
+
+<p> Recommended is   Citrix Windows Terminal Server client  . 
+
+<p>? 
+
+<p>&nbsp;&nbsp; 
+
+<p>&nbsp;&nbsp; 
+
+<p> Moving PC equipment  
+
+<p>Who will be responsible for moving, setup and cleanup? 
+
+<p>? 
+
+<p>&nbsp;&nbsp; 
+
+<p>&nbsp;&nbsp; 
+
+<p> Computer support at the conference  
+
+<p>Who will be there full time at the conference as computer support to troubleshoot network, installs, file formats, printing, projector, etc. 
+
+<p>Has this person been given the local administrator or local root accounts for the workstations to have full privilege to configure? 
+
+<p> Has this person been given CD's of all operating systems, service packs, software and printer drivers, printer and network cables to troubleshoot at conference site? 
+
+<p>? 
+
+<p>&nbsp;&nbsp; 
+
+<p>This person should be identified early and involved in from the planning stage. 
+
+<p> Database  
+
+<p>Who is the owner or programmer for the database? 
+
+<p>Is database on the server? 
+
+<p>Does database have web interfaces? 
+
+<p>Does database have any passwords? 
+
+<p>Does database file have permissions based on SLAC accounts (not valid outside SLAC network)?&nbsp; 
+
+<p>  McDunn   (TechPubs) and   conference-comp 
+
+<p>&nbsp; 
+
+<p>&nbsp;&nbsp; 
+
+<p>&nbsp;&nbsp; 
+
+<p> Electronic payment  
+
+<p>What are the servers needed? 
+
+<p>What version of web browser and secure connection are needed? 
+
+<p>contact   conference-comp 
+
+<p>&nbsp;&nbsp; 
+
+<p>&nbsp;&nbsp; 
+
+<p> Publications  
+
+<p>What format (MS Word, TeX)?&nbsp; Will the software be provided on the computers? 
+
+<p>  TechPubs 
+
+<p>&nbsp;&nbsp; 
+
+<p>&nbsp;&nbsp; 
+
+<p> MediaStream  
+
+<p>Is mediastream needed? 
+
+<p> Is live streaming needed? 
+
+<p>contact   conference-comp 
+
+<p>&nbsp;&nbsp; 
+
+<p>&nbsp;&nbsp; 
+
+<p>Outsource to professional vendors 
+
+<p>Professional vendors who provide conference registration, conference networking, conference computer setup   may be the most efficient way  . Few people realize the amount of complex work involved in setting up computing services for a big conference, and SLAC internal resources are limited and not optimized for this.  
+
+<p>&nbsp;&nbsp; 
+
+<p>&nbsp;&nbsp; 
+
+<p>&nbsp;&nbsp; 
+
+<p> Testing the conference setup  
+
+<p>What tests will be done?&nbsp;&nbsp; 
+
+<p> Will the tests be done in time to make changes? 
+
+<p> Will tests&nbsp; involve verifying that network taps are active, projector, workstations, accounts to be used, software, printing, file transfer, file sharing, database (do tests need to include SLAC network, and disconnected from SLAC network)? 
+ 

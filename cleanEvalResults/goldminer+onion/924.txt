@@ -1,0 +1,57 @@
+
+URL: http://simon.incutio.com/archive/2002/07/17/leaveMyTextAlone
+<h>Flash: Leave my text alone!
+
+<p>Moment of realisation: I just figured out what it is about Flash
+ that bugs me so much. Flash is rubbish at text. Sure it can
+ render text in pretty ways, but it never feels like real words.
+ Flash takes good old fashioned text and locks it away in a pretty
+ but shallow world, one that is out of reach of search engines,
+ screen readers and my all important right mouse button. What
+ good is text is text if I can’t search it, select it, copy
+ it, paste it and generally processs it in whatever way I see
+ fit? Flash is fine for graphics, animation and even some user
+ interfaces (provided they don’t involve too much text) but
+ please, please keep it away from anything I want to read.
+
+<l> Aha! The first even partially unresearched comment I have seen
+ on here Mr. Skunkeh! (Not that my blog would be anywhere as
+ near as good if i had one, but still, couldn't resist :P) Flash
+ MX supports full text highlighting and copying :) Try it! Not
+ sure about search engines tho. And to be fair, as Flash is a
+ binary file its still not spidered by search engines (but who
+ knows, with Google caching a large variety of files nowadays,
+ maybe its just a matter of time). I say bring on SVG. 
+
+<l> I still can't search it though, and more importantly I can't
+ right click it to bring up my friendly context menu with "Search
+ the web for X" or whatever. If I'm going to read text on the
+ web I want it in nice, accessible HTML and there's not much
+ that's likely to change my mind. I'm not anti flash, but I /am/
+ anti text-in-flash - at least for anything longer than a sentence
+ or two. Good to know you've been reading at any rate ;) 
+
+<l> yeah, flash works differetly - i think that's the underlying
+ grudge i've got with it - it's a different world html might
+ be good or bad but it's what people are used to because that's
+ what the www is - they get to know it's idiosyncrasies - they
+ know if they do this, this happens - and if you don't spend
+ your entire life on a computer that's plenty to be getting on
+ with for people 
+
+<l> SVG is a good call. Having looked at the VML stuff in IE, I
+ imagine that SVG will be nearly as powerful (no, I haven't installed
+ the Adobe plugin, I hate plugins, why do you ask? ;-)) and I
+ can't see a lot that you can do in Flash that you can't do with
+ SVG and Javascript. Maybe Flash will just go away. Or, better
+ still, someone will write a Flash to HTML/JS/SVG converter.
+ 
+
+<l> Maybe the only correct observation that I have seen in this
+ blog. Most probably because it doesn't involve Microsoft. This
+ is an observation I made long time ago. Flash sucks on text
+ and that's why it is going to fail as a application platform.
+ 
+
+
+

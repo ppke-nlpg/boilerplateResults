@@ -1,0 +1,203 @@
+
+URL: http://www.wsanchez.net/papers/FREENIX_1999
+<h>FREENIX 1999
+
+<h>1999 FREENIX Track Presentation
+
+<h>Open Software in a Commercial Operating System
+
+<h>History and Topical Focus
+
+<p>Apple Computer has been working for the past couple of years
+ to build a new and modern operating system to advance the Macintosh
+ platform. The Macintosh platform, developed at Apple, while
+ strong in many areas (in particular human interface), lacks
+ the solid and modern foundation best exemplified in current
+ variants of the Unix operating system. Apple acquired NeXT Software,
+ Inc. in early 1997 largely in order to gain NeXT's experience
+ in making an operating system based on a modern foundation which
+ also had made advances in user interfaces, programming models,
+ enterprise software, and other areas in which Apple was not
+ traditionally strong. Thus began the development of Mac OS X
+ Server, Apple's server operating system offering, which is also
+ the basis for parts of Mac OS X, which we will be rolling out
+ later in 1999.
+
+<p>This session will discuss this new foundation: the "Core Operating
+ System", which is largely based on software which was developed
+ at the University of California at Berkeley and Carnegie-Mellon
+ University, and was made freely available with open licensing
+ terms. In addition much of the Core OS utilizes software available
+ from the present-day BSD efforts, the Free Software Foundation,
+ M.I.T., the Apache Group, and countless other groups and individuals
+ who create and publish software under open licenses.
+
+<h>The Value of Open Software
+
+<p>Creating an operating system is an enormous task. The quantity
+ of code required to create a functional and useful system is
+ quite large, and the nature of operating systems is that the
+ quality of that code must be significantly higher than that
+ of most software. Everything depends on the OS: Too little functionality
+ makes life difficult for the developers who wish to support
+ your system. The smallest of bugs can disable most or all of
+ the software than runs on the system--or worse, can cause crashes
+ or data loss. It is therefore quite difficult indeed to create
+ a whole operating system from scratch, and is a task not often
+ undertaken.
+
+<p>It is fortunate, then, that there is a large body of software
+ freely available which we have been able to use as a starting
+ point. Even better, much open software is good stuff; there
+ have been many years of development behind many of the efforts
+ from which we have been able to draw our code.
+
+<p>The Mac OS X Server Core OS is a 4.4 BSD system, based on the
+ 4.4 Lite2 release from Berkeley and updates with code from FreeBSD,
+ NetBSD, and OpenBSD. BSD has seen many years of active development;
+ it is well designed and has provided the basis for many established
+ standards. It has proven to be a tried-and-true system and remains
+ in the forefront as a platform in which to test and integrate
+ emerging technology and ideas. It has become well accepted that
+ free operating systems are not only leading-edge experimental
+ systems, but highly robust and scalable as well.
+
+<p>A non-trivial advantage of open software is the excellent developer
+ support behind many open software projects. Apple has considerable
+ experience with operating systems (we've shipped Mac OS, A/UX,
+ AIX, and Linux systems, and worked on several others), but the
+ engineering effort required to simply maintain and update in-house
+ software is considerable and expensive.
+
+<p>At Apple, I write and maintain software, manage the source code
+ control for all of Core OS (using open software-CVS), go to
+ lots of meetings, and oversee internal releases. In addition,
+ I personally maintain over 60 open software projects in the
+ Core OS build cycle, several of which are quite large. While
+ these 60 projects do take some effort to manage (porting, updating,
+ sending diffs upstream), were they not also worked on by many
+ other developers (many of who I'll never meet), it would not
+ be possible for me to provide nearly so much functionality to
+ the system myself.
+
+<p>Clearly, then, open software offers a great value to businesses
+ that have a use for it in their products.
+
+<h>Where Apple Adds Value
+
+<p>Perhaps Apple could take NetBSD, clean up the Power Macintosh
+ support, stick an Apple logo somewhere, and call this great
+ thing "Mac OS X Server". But then, if you are looking for a
+ good Unix server, you don't need Apple. You can instead quite
+ readily install a NetBSD system on your Macintosh, or (gasp!)
+ a PC, and carry on. We know, in fact, that this is satisfactory
+ for many users. On the other hand, we also know that many of
+ our users would not consider such a thing.
+
+<p>Apple's interest in BSD, therefore, cannot be as a replacement
+ for Mac OS, but as a foundation for the rest of the system we
+ provide: a polished, well-designed user experience. Apple can
+ provide to its end-users a great deal more than current Unix
+ systems offer. Our users expect a system that is easy to understand
+ and use; one that is friendly; one with some style.
+
+<p>This goes well beyond user interfaces; it includes simple to
+ set up hardware which "just works" with the included software,
+ application tool kits for developers which allows them to provide
+ a consistent user experience and give them the ability to leverage
+ all of the services of the underlying system. It also includes
+ five yummy colors.
+
+<p>Macintosh is about personality; it's about the people who use
+ it, and the experience of using it. Combined with the advanced
+ power and robustness of a new underlying foundation, that experience
+ can be... uninterrupted, and all the more pleasant.
+
+<h>The Impact of Various Licenses
+
+<p>There are many sources of open software and therefore many different
+ licenses attached to open software. One of the compelling reasons
+ behind using BSD as the Core OS is the simple BSD license. While
+ an attached credit requirement takes a bit of work to honor,
+ the license allows for any use of the software so long as the
+ copyright is preserved. Companies looking for source with (almost)
+ no strings attached would do well to use code under a BSD-style
+ license.
+
+<p>A lot of companies would not bother to send their changes upstream,
+ for fear of giving up some valuable information or technology,
+ to send any useful code changes up to the upstream maintainers.
+ Occasionally, these concerns have merit. More often, companies
+ simply want a competitive edge, and aren't willing to share
+ the wealth. One has to wonder whether this is good logic. The
+ fact is that more diffs translates to more work. Eventually,
+ the upstream provider will release a new version, perhaps with
+ some important bug fixes and useful new features. If you have
+ put significant work into improving the software, and kept it
+ to yourself, you will have to merge these changes into the upstream
+ source each time you want to update your code. This will cost
+ you some developer time, perhaps enough that updating is not
+ worthwhile, and your competitive edge can erode rather quickly.
+ On the other hand, if you hadn't put much work in at all, there
+ likely isn't much of an edge to lose.
+
+<p>I have made this argument successfully at Apple, and the result
+ is that Apple started a very beneficial technology relationship
+ with NetBSD, in which we can easily update our code periodically,
+ and NetBSD gets an occasional update from Apple as well. Mac
+ OS X Server shipped with a developer CD including a fair amount
+ of source code from NetBSD, (as well as the required source
+ code for GNU software) so that our developers could help out
+ as well with any problems they experience related to that code.
+
+<p>Another popular open software license is the GNU General Public
+ License, which allows mostly unrestricted use of software so
+ long as source code is available under the terms of the GPL
+ for any changes made to the software. This requires a greater
+ leap of faith for companies, and is often enough to discourage
+ companies from using such software in commercial products. However,
+ once having experienced the benefits of open software, the GPL
+ is, in principle, an acceptable license. Unfortunately, the
+ GPL's potential tendency to "infect" additional code keeps many
+ companies (including Apple) wary of using GPL'ed software.
+
+<h>Being a Contributor to the Community
+
+<p>As explained above, there is little reason for Apple to take
+ open source software from BSD and treat it as proprietary software.
+ Since the BSD subsystem is not the primary selling point of
+ our complete system, nor a particularly unique subsystem given
+ its free availability, Apple can only benefit by keeping our
+ code in sync with the upstream source and thereby helping to
+ improve the technology on which we depend. By contributing bug
+ fixes and incremental improvements back to the open source community,
+ we all win.
+
+<p>Apple's positive experience with open software in the recent
+ past, and a belief on the part of Apple's executive team that
+ the benefits of open software are indeed substantial, we have
+ recently taken steps to contribute more substantial technology
+ to the community by forming the Darwin project. It is our hope
+ that by allowing our users and developers to work with us in
+ improving our software, that Apple and its customers will see
+ a great deal of benefit, and build a better relationship with
+ each other. In addition, we hope that our efforts put us on
+ the right track toward a healthy relationship with the greater
+ open source community.
+
+<h>About the Presenter
+
+<p>Wilfredo S&aacute;nchez is a 1995 graduate of the Massachusetts
+ Institute of Technology, after which he co-founded an Internet
+ publishing company, Agora Technology Group, in Cambridge, Massachusetts;
+ he then worked on enabling electronic commerce and dynamic applications
+ via the world wide web at Disney Online in North Hollywood,
+ California. Fred is presently a Senior Software Engineer at
+ Apple Computer in Cupertino, California. He works primarily
+ on the BSD subsystem in Mac OS X Server as a member of the Core
+ Operating Systems group, and as technical lead for the Darwin
+ project. Fred is also a member of the NetBSD Project, and a
+ contributor to the Apache HTTP Server Project.
+
+
+

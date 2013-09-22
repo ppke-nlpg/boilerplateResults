@@ -1,0 +1,133 @@
+
+URL: http://www.movinghands.net/nac/nov04index.asp
+<p>Moving Hands Music Magazine - ELECTRO ALTERNATIVE INDIE EBM INDUSTRIAL
+ ETC <!-- function MM_reloadPage(init) { //reloads the window
+ if Nav4 resized if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4))
+ { document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage;
+ }} else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH)
+ location.reload(); } MM_reloadPage(true); function loadBack()
+ { if(document.all) { var height = document.all.cntRight.clientHeight;
+ if(document.all.cntCenter) { if(document.all.cntCenter.clientHeight>height)
+ height = document.all.cntCenter.clientHeight; } if(document.all.cntLeft.clientHeight>height)
+ height = document.all.cntLeft.clientHeight; document.all.back.style.pixelHeight
+ = height; } } //--> 
+
+<p> 
+
+<p>  
+  
+
+<p>NOVEMBER 2004
+
+<p>
+  
+
+<p> P = Position (this month). L1 = Previous months position. L2
+ = Two months ago. BP = Best Position. MC= Months on chart. B
+ = Bullet - Keep your eyes open.
+
+<p>The Hacker - Rêves Mécaniques (Good Life)
+ Laibach - Anthems
+ (Mute)
+ Icon of Coil - Uploaded and Remixed (Out of Line)
+
+<p> 
+
+<p> 
+
+<p> 
+
+<p> 
+
+<p>P
+
+<p> 
+
+<p> 
+
+<p> 
+
+<p>Top 5 Singles according to Ida Sofia Vaa, Oslo Synthfestival,
+ Norway
+
+<p> 
+
+<p>1
+
+<p> 
+
+<p> 
+
+<p> 
+
+<p>Annie - Chewing Gum (679 Recordings)
+
+<p> 
+
+<p>2
+
+<p> 
+
+<p> 
+
+<p> 
+
+<p>Gwen Stefani - What You Waiting For? (Universal)
+
+<p> 
+
+<p>3
+
+<p> 
+
+<p> 
+
+<p> 
+
+<p>Bertine Zetlitz - Fake Your Beauty (EMI)
+
+<p> 
+
+<p>4
+
+<p> 
+
+<p> 
+
+<p> 
+
+<p> Marilyn Manson - Personal Jesus (Interscope/Universal)
+
+<p> 
+
+<p>5
+
+<p> 
+
+<p> 
+
+<p> 
+
+<p> Morrissey - First of the Gang To Die (Attack/Sanctuary)
+
+<p> 
+
+<p>
+ NAC is a completely label independent monthly chart being published
+ on the 1st of every month. The NAC is compiled by Moving Hands.
+ The responsible publisher is Mattias Andersson, Moving Hands.
+ The NAC is based on votes made by DJs in all nordic countries
+ (Denmark, Finland, Norway and Sweden).
+
+<p>
+ For more info about NAC, please contact Moving Hands Music
+ Magazine. If you are a DJ from any of the nordic countries,
+ register here!
+
+<p>
+ The DJs are members of the Memento Materia DJ POOL; the DJ
+ POOL is open for all label and independent official releases.
+ Please contact Memento Materia for more information about the
+ DJ POOL.
+
+

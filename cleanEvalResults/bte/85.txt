@@ -1,0 +1,115 @@
+
+URL: http://it.jhu.edu/applications/clinical
+ The following applications are supported by the various divisions of Information Technology @ Johns Hopkins.&nbsp; Please note that access to some of these applications is restricted to computers on the Johns Hopkins network and are not accessible off site. 
+
+<p>  Allscripts  &nbsp;  Allscripts is a medication   management solution enabling physicians to create electronic   prescriptions.&nbsp; The system provides physicians with important   information at the point of prescribing, including formulary   management, drug utilization reviews and other key indicators.&nbsp;   Allscripts provides an automated physician charge entry tool   which is used to capture charges at the point of care. 
+
+<p>  &nbsp;  Applicant Tracking System  Tracks   demographics and status of job applicants BDM Pharmacy&nbsp;&nbsp;JHH&nbsp;The RxTFC system support the&nbsp;   Inpatient and Outpatient Clinic areas supported by the five JHH   Pharmacy satellites. The Investigational Drug Department uses   the system to track certain studies. The software manages 10,000   daily doses and billing between $100-200,000/day. The Pharmacy   staff of 180 has been trained in the application according to   usage needs. 
+
+<p>  Big Brother  Big Brother is a Web-based   Systems and Network monitor. It consists of simple shell scripts   which periodically monitor system conditions and network   connectivity, Disk space, CPU, servers, and important processes&nbsp;  can be tracked.&nbsp; 
+
+<p>  &nbsp;  Central Physician Directory&nbsp;(CPD  )  &nbsp;  Central   physician directory. 
+
+<p>  &nbsp;  Charge Capture  System provides automated   solutions for outpatient charge collection. 
+
+<p>  Chart Tracking 
+
+<p>  Clinical Systems Security  Provides access   to the Electronic Patient Record based on the user’s clinical   status. 
+
+<p>  Content Management System&nbsp;(CMS)  Enables multiple   content creators within the organization to post their   information quickly and directly to the Web, while maintaining   consistent branding through customizable page templates.  
+
+<p>  Cost Allocation System&nbsp;Cost  Allocates cost   where it is incurred. 
+
+<p>  &nbsp;  Data Warehouse 
+
+<p>  Decision Support System&nbsp;(DSS)  Depository of patient   data from EMTEK bedside units, used for research by the SICU   staff. 
+
+<p>  Document Management System  Capture paper   and/or electronic documents that need to be accessed by the   front-end and the back-end. 
+
+<p>  &nbsp;  Electronic Bed Board  Information management   system at the patient bed-side 
+
+<p>  Electronic Patient Record&nbsp;  (  EPR)  JHH&nbsp;Allows   clinicians to access documents describing a patient’s stay in   the Hospital (i.e. Discharge Summaries, Operative Notes, Clinic   Documents).&nbsp; It allows the physician to finalize (i.e. “sign”) a   document.&nbsp; It allows for a clinician to navigate through the   various result reporting (Lab and Rad) systems and to get a   listing of patients, either through a floor census or through a   list associates with the physician.&nbsp; This system is available to   both JHH and to JH-Bayview, with specific coding for each   institution. EPR Web allows access to EPR via the Web. 
+
+<p>  Executive Information System&nbsp;(TSI  )  Cost   accounting and decision support system that provides flexible   budgeting, departmental performance, outcome management and   contract analysis.&nbsp; Currently used by JHH and BMC. 
+
+<p>  HDM – HIS  System provides ability to add   procedure and diagnosis codes to patient records, transfers   records to billing system. 
+
+<p>  Hopkins One/Enterprise Resource Planning&nbsp;(Hopkins1  )  Integrates all departments and functions across JHU and   JHHS into a single computer system that can serve all those   different departments’ particular needs. 
+
+<p>  Hospital Accounts Payable&nbsp;(AP  )  Centralized   system for all payments for JHH and&nbsp; JHHS  
+
+<p>  Hospital General Ledger&nbsp;(GL  )  Provides central   financial information control throughout JHH and JHHS  Horizon&nbsp;Homecare. 
+
+<p>  Host Interface Portal&nbsp;(HIP)  A quick GUI interface   connection to enterprise wide applications and host systems.   Supports Unix and 3270 connections to 19 hosts and 52 ap  plications.  
+
+<p>  Human Resources Management System&nbsp;(ISI  )  Integrated Payroll and Human Resources system. 
+
+<p>  Interface Engine  A complex messaging   standard, HL7, for the exchange of information between systems   (patient admitted, lab result, radiology result, diet order   ...).&nbsp; An interface engine is a sort of router - applications   which have something to say send messages to the interface   engine, it checks to see which other systems have "subscribed"   to that specific content type of the message, and forwards a   copy of the message to them.&nbsp; In the real world, different   vendor's systems rarely agree on all aspects of the message   formatting, so another major function of the interface engine is   to reformat messages as needed for each recipient.&nbsp;   Our HL7 interface engine environment spans JHH and JHBMC,   includes at least 60 clinical and administrative systems, and   delivers about 3,000,000 messages a week. 
+
+<p>  JHSecure (VPN)  JHSecure is a flexible IPSec   based remote access Virtual Private Network (VPN) solution,   which allows members of the Hopkins communities to access   computer resources located at Hopkins from remote locations.  
+
+<p>  JHUniverse  &nbsp;  Since its founding in February   1994, JHUniverse has served Johns Hopkins as the World Wide Web   access point for information for prospective students, current   students, faculty, staff, alumni, and the local, national and   international communities. 
+
+<p>  LAB Web  Lab results via Pathology system.  
+
+<p>  Laboratory Test Results&nbsp;Labs  Provides laboratory test   results to the EPR.  
+
+<p>  Materials Management&nbsp;(ESI)  Stores information about i  tems ordered by JH affiliates and inventories of stock items. 
+
+<p>  Medical Records Discharge Tracking System&nbsp;(MRDT  )  An on-line, menu-driven system that provides information on   daily patient discharges.  
+
+<p>  Medical Staff Registrar&nbsp;(MSR  )  Physician credential   tracking system.  
+
+<p>  Meditech  Meditech&nbsp;Bayview&nbsp;Integrated hospital   information system to support operations and improve medical   care. Integrates billing, administration, registration,   pharmacy, laboratory, radiology, etc.  
+
+<p>  MSA Budget System&nbsp;Budget  Provides orderly zero   based method of planning for each fiscal year.  
+
+<p>  Nutrinet  Diet Order Entry system. 
+
+<p>  Nutrition System&nbsp;Vision  Bayview&nbsp;used to enter the diet   ordered for inpatients during stay.  
+
+<p>  Oncology Information System&nbsp;(OCIS  )  Oncology IS   systems.  
+
+<p>  Operating Room Management System&nbsp;(ORMS  )  System   that is to be implemented in the 87 operating rooms that   comprise the General Operating Room area, Weinberg, Wilmer,   Johns Hopkins Outpatient Center, Cardiovascular Diagnostic Lab,   Obstetrics, Greenspring, Remote Anesthesia, and GI/Endoscopy. In   addition, the application will be accessible to authorized users   from remote and central scheduling offices both on and off   campus, preoperative and postoperative areas, physician offices,   nursing units, central supply departments, and family waiting   areas  
+
+<p>  Outpatient Billing&nbsp;(ZORS  )  Collects and processes   all data for JH Outpatient clients. 
+
+<p>  Outpatient Scheduling / Registration  &nbsp;(  EPIC  )  Scheduling and registration of patients for JHH Outpatient   Clinics and Medical Services Corporation. 
+
+<p>  &nbsp;  PAR Excellence&nbsp;(PAR  )  Tracking of supply inventory on   the Inpatient units for automated replenishment of supplies and   for more accurate patient. 
+
+<p>  Patient Analysis and Tracking System&nbsp;(PATS  ) 
+
+<p>  Patient Identification / Medical Records&nbsp;(PID/MRA  )  Medical Records system for Patient Identification and Medical   Record Number assignment.  
+
+<p>  Pharmacy On-line Order Entry System&nbsp;  (  BDM)  Provides   pharmacy order entry and pharmacy cart-fill reporting for the   user, a medication administration report and quality assurance   report for each patient.  
+
+<p>  PHS Inpatient Accounting&nbsp;(KEANE  )  Produces inpatient bills and tracks   payment against accounts.&nbsp; Separate systems used for JHH and   BMC.  
+
+<p>  Physicians Order Entry&nbsp;  (  POE)  The Provider Order Entry   System (POE), using Eclipsys Corporation’s Sunrise XA   application, will be implemented throughout The Johns Hopkins   Hospital’s&nbsp; (East Baltimore location) inpatient and outpatient   facilities for clinicians to use for order entry functions.&nbsp; The   system, initially to be implemented throughout the Department of   Medicine units, will replace the existing Ordernet application.&nbsp;   Subsequently, additional modules will be implemented to provide   Clinical Documentation (including at the bedside), integration   of the existing SCC application (connection to patient   monitoring equipment), knowledge-based administration ensuring   improved patient safety for drug administration via the use of   bedside wireless bar-coding devices, and the implementation of   an Emergency Room module to be used by the ED for patient   tracking, documentation and administration.  
+
+<p>  Picture Archival Communications Systems&nbsp;(PACS  )  Medical   images database.  
+
+<p>  &nbsp;  Quick Labs  Subset of EPR for laboratory   results. 
+
+<p>  &nbsp;  Quickplace  QuickPlace is a collaboration   tool by Lotus enabling you to coordinate projects or publish   information through quickly created web sites. 
+
+<p>  Radiology Information System&nbsp;(RIS  )  Reports the   results of radiology tests and records billing information. 
+
+<p>  Radiology Results Reporting&nbsp;(RAD  )  Provides   Radiology test results to the EPR. 
+
+<p>  Radiology Statistics  A reporting system for   radiology test statistics. 
+
+<p>  Regulatory Reporting&nbsp;(HSCRC)  Creates   inpatient and outpatient HSCRC tapes. 
+
+<p>  Rehabilitation Medicine  Collects patient   treatment information and creates billing charges for Rehab   patients. 
+
+<p>  Remote Access to University Libraries&nbsp;RAUL  RAUL   is a proxy server   that allows access to licensed materials from computers that are   not directly connected to the network.  http://proxy.hcf.jhu.edu 
+
+<p>  Report Distribution System&nbsp;RDS 
+
+<p>  SMS Inpatient Admission/Discharge/Transfer&nbsp;(SMS/ADT  )  JHH&nbsp;inpatient admissions, discharges and transfers. 
+
+<p>  SMS Orders, SMS COR&nbsp;Ordernet  OrderNet is a   system that automates the placing of Laboratory, Radiology,   Pharmacy, and other types of orders by physicians and other   authorized prescribers. 
+
+<p>  &nbsp;  System 2000 Point of Care System&nbsp;Eclypsis  Clinical Information System used in the Surgical Intensive Care   Unit and the Cardiac Surgical Intensive Care Unit to monitor  
