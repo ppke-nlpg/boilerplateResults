@@ -3,6 +3,8 @@ Boilerplate removal tools results on two dataset: CleanEval and CleanPortalEval
 
 CleanEval source: http://corpus.leeds.ac.uk/cleaneval/gold-24k/ 
 CleanPortalEval source: https://github.com/ppke-nlpg/CleanPortalEval
+Evaluation script from Stefan Evert (http://www.lrec-conf.org/proceedings/lrec2008)
+
 
 Tested algorithms:
  boilerpipe
