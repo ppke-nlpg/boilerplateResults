@@ -1,5 +1,4 @@
-
-Boilerplate removal tools results on two dataset: CleanEval and CleanPortalEval
+Evaluation results of boilerplate removal tools on two datasets: CleanEval and CleanPortalEval
 
 CleanEval source: 
 http://corpus.leeds.ac.uk/cleaneval/gold-24k/ 
