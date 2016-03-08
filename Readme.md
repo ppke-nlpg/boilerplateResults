@@ -12,7 +12,7 @@ https://github.com/ppke-nlpg/CleanPortalEval
 Evaluation script from Stefan Evert (http://www.lrec-conf.org/proceedings/lrec2008)
 
 
-Tested algorithms:
+## Tested algorithms
 - boilerpipe,
 - bte,
 - goldminer,
@@ -21,7 +21,7 @@ Tested algorithms:
 - justext+onion
 
 
-Contents:
+## Contents
 
 - cleanEvalResults: results of boilerplate removal algorithms on CleanEval dataset 
 - cleanPortalEvalResults: results of boilerplate removal algorithms on CleanPortalEval dataset 
