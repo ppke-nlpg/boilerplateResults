@@ -1,12 +1,9 @@
 Evaluation results of boilerplate removal tools on two datasets: CleanEval and CleanPortalEval
 
 CleanEval source: 
-http://corpus.leeds.ac.uk/cleaneval/gold-24k/ 
-
-http://cleaneval.sigwac.org.uk/
-
-http://cleaneval.sigwac.org.uk/devset.html
-
+- http://corpus.leeds.ac.uk/cleaneval/gold-24k/ 
+- http://cleaneval.sigwac.org.uk/
+- http://cleaneval.sigwac.org.uk/devset.html
 
 
 CleanPortalEval source: 
@@ -16,19 +13,18 @@ Evaluation script from Stefan Evert (http://www.lrec-conf.org/proceedings/lrec20
 
 
 Tested algorithms:
- boilerpipe,
- bte,
- goldminer,
- goldminer+onion,
- justext,
- justext+onion
+- boilerpipe,
+- bte,
+- goldminer,
+- goldminer+onion,
+- justext,
+- justext+onion
 
 
 Contents:
 
-cleanEvalResults: results of boilerplate removal algorithms on CleanEval dataset 
-
-cleanPortalEvalResults: results of boilerplate removal algorithms on CleanPortalEval dataset 
+- cleanEvalResults: results of boilerplate removal algorithms on CleanEval dataset 
+- cleanPortalEvalResults: results of boilerplate removal algorithms on CleanPortalEval dataset 
 
 paper:
 More effective boilerplate removal - the GoldMiner algorithm
