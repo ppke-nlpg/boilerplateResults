@@ -26,12 +26,14 @@ Contents:
 - cleanEvalResults: results of boilerplate removal algorithms on CleanEval dataset 
 - cleanPortalEvalResults: results of boilerplate removal algorithms on CleanPortalEval dataset 
 
-paper:
+## Reference
+
+If you use the tool, please cite the following paper:
 More effective boilerplate removal - the GoldMiner algorithm
 
 http://www.gelbukh.com/polibits/2013_48/More%20Effective%20Boilerplate%20Removal%20-%20the%20GoldMiner%20Algorithm.pdf
 
-Reference
+
 ```
 @article{endredy_more_2013,
 	title = {More {Effective} {Boilerplate} {Removal} - the {GoldMiner} {Algorithm}},
