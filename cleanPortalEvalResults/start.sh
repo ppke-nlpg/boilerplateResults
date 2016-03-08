@@ -13,8 +13,8 @@ python cleaneval.py -st boilerpipe GoldStandard
 echo ====== bte ======
 python cleaneval.py -st bte GoldStandard
 
-echo ====== goldminer+onion ======
-python cleaneval.py -st goldminer+onion GoldStandard
+echo ====== goldminer ======
+python cleaneval.py -st goldminer GoldStandard
 
 echo ====== goldminer+onion ======
 python cleaneval.py -st goldminer+onion GoldStandard
