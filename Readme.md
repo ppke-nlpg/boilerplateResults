@@ -2,8 +2,11 @@ Evaluation results of boilerplate removal tools on two datasets: CleanEval and C
 
 CleanEval source: 
 http://corpus.leeds.ac.uk/cleaneval/gold-24k/ 
+
 http://cleaneval.sigwac.org.uk/
+
 http://cleaneval.sigwac.org.uk/devset.html
+
 
 
 CleanPortalEval source: 
@@ -29,6 +32,7 @@ cleanPortalEvalResults: results of boilerplate removal algorithms on CleanPortal
 
 paper:
 More effective boilerplate removal - the GoldMiner algorithm
+
 http://www.gelbukh.com/polibits/2013_48/More%20Effective%20Boilerplate%20Removal%20-%20the%20GoldMiner%20Algorithm.pdf
 
 Reference
